@@ -1,0 +1,332 @@
+﻿Zone,Venue,Event,Day,Date,Start,End,Medal
+DTLA Zone,DTLA Arena,Artistic Gymnastics,1,"Saturday, July 15",11:30,14:00,-
+DTLA Zone,DTLA Arena,Artistic Gymnastics,1,"Saturday, July 15",15:30,18:00,-
+DTLA Zone,DTLA Arena,Artistic Gymnastics,1,"Saturday, July 15",19:30,22:00,-
+DTLA Zone,DTLA Arena,Artistic Gymnastics,2,"Sunday, July 16",09:45,13:35,-
+DTLA Zone,DTLA Arena,Artistic Gymnastics,2,"Sunday, July 16",15:05,16:45,-
+DTLA Zone,DTLA Arena,Artistic Gymnastics,2,"Sunday, July 16",18:15,19:55,-
+DTLA Zone,DTLA Arena,Artistic Gymnastics,2,"Sunday, July 16",21:25,23:05,-
+DTLA Zone,DTLA Arena,Artistic Gymnastics,3,"Monday, July 17",17:15,20:30,G
+DTLA Zone,DTLA Arena,Artistic Gymnastics,4,"Tuesday, July 18",18:00,20:30,G
+DTLA Zone,DTLA Arena,Artistic Gymnastics,5,"Wednesday, July 19",18:00,20:30,G
+DTLA Zone,DTLA Arena,Artistic Gymnastics,6,"Thursday, July 20",18:00,20:30,G
+DTLA Zone,DTLA Arena,Artistic Gymnastics,8,"Saturday, July 22",11:30,14:15,G
+DTLA Zone,DTLA Arena,Artistic Gymnastics,9,"Sunday, July 23",11:00,13:45,G
+DTLA Zone,DTLA Arena,Artistic Gymnastics,10,"Monday, July 24",11:00,14:30,G
+DTLA Zone,DTLA Arena,Artistic Gymnastics,11,"Tuesday, July 25",16:00,18:30,G
+DTLA Zone,Peacock Theater,Boxing,1,"Saturday, July 15",12:00,14:30,-
+DTLA Zone,Peacock Theater,Boxing,1,"Saturday, July 15",19:00,21:30,-
+DTLA Zone,Peacock Theater,Boxing,2,"Sunday, July 16",12:00,15:00,-
+DTLA Zone,Peacock Theater,Boxing,2,"Sunday, July 16",19:00,22:00,-
+DTLA Zone,Peacock Theater,Boxing,3,"Monday, July 17",12:00,15:00,-
+DTLA Zone,Peacock Theater,Boxing,3,"Monday, July 17",19:00,22:00,-
+DTLA Zone,Peacock Theater,Boxing,4,"Tuesday, July 18",12:00,15:00,-
+DTLA Zone,Peacock Theater,Boxing,4,"Tuesday, July 18",19:00,22:00,-
+DTLA Zone,Peacock Theater,Boxing,5,"Wednesday, July 19",12:00,15:00,-
+DTLA Zone,Peacock Theater,Boxing,5,"Wednesday, July 19",19:00,22:00,-
+DTLA Zone,Peacock Theater,Boxing,6,"Thursday, July 20",12:00,15:00,-
+DTLA Zone,Peacock Theater,Boxing,6,"Thursday, July 20",19:00,22:00,-
+DTLA Zone,Peacock Theater,Boxing,7,"Friday, July 21",12:00,15:00,-
+DTLA Zone,Peacock Theater,Boxing,7,"Friday, July 21",19:00,22:00,-
+DTLA Zone,Peacock Theater,Boxing,8,"Saturday, July 22",12:00,15:00,-
+DTLA Zone,Peacock Theater,Boxing,8,"Saturday, July 22",19:00,22:00,-
+DTLA Zone,Peacock Theater,Boxing,9,"Sunday, July 23",12:00,14:30,-
+DTLA Zone,DTLA Arena,Boxing,13,"Thursday, July 27",12:00,14:00,G
+DTLA Zone,DTLA Arena,Boxing,13,"Thursday, July 27",18:00,20:00,G
+DTLA Zone,DTLA Arena,Boxing,14,"Friday, July 28",12:00,13:30,G
+DTLA Zone,DTLA Arena,Boxing,14,"Friday, July 28",18:00,19:30,G
+DTLA Zone,DTLA Arena,Boxing,15,"Saturday, July 29",12:00,13:30,G
+DTLA Zone,DTLA Arena,Boxing,15,"Saturday, July 29",18:00,20:00,G
+DTLA Zone,DTLA Arena,Boxing,16,"Sunday, July 30",12:00,14:00,G
+DTLA Zone,DTLA Arena,Trampoline Gymnastics,7,"Friday, July 21",12:30,15:15,G
+DTLA Zone,DTLA Arena,Trampoline Gymnastics,7,"Friday, July 21",20:00,22:45,G
+DTLA Zone,LA Convention Center Hall 1,Fencing,1,"Saturday, July 15",09:00,15:40,-
+DTLA Zone,LA Convention Center Hall 1,Fencing,1,"Saturday, July 15",18:30,22:20,G
+DTLA Zone,LA Convention Center Hall 1,Fencing,2,"Sunday, July 16",09:00,16:20,-
+DTLA Zone,LA Convention Center Hall 1,Fencing,2,"Sunday, July 16",18:30,22:40,G
+DTLA Zone,LA Convention Center Hall 1,Fencing,3,"Monday, July 17",09:00,16:20,-
+DTLA Zone,LA Convention Center Hall 1,Fencing,3,"Monday, July 17",18:30,22:40,G
+DTLA Zone,LA Convention Center Hall 1,Fencing,4,"Tuesday, July 18",09:00,14:30,-
+DTLA Zone,LA Convention Center Hall 1,Fencing,4,"Tuesday, July 18",17:30,19:40,G
+DTLA Zone,LA Convention Center Hall 1,Fencing,5,"Wednesday, July 19",09:00,14:30,-
+DTLA Zone,LA Convention Center Hall 1,Fencing,5,"Wednesday, July 19",17:30,19:40,G
+DTLA Zone,LA Convention Center Hall 1,Fencing,6,"Thursday, July 20",09:00,16:10,-
+DTLA Zone,LA Convention Center Hall 1,Fencing,6,"Thursday, July 20",18:30,21:40,G
+DTLA Zone,LA Convention Center Hall 1,Fencing,7,"Friday, July 21",09:00,14:30,-
+DTLA Zone,LA Convention Center Hall 1,Fencing,7,"Friday, July 21",18:30,21:20,G
+DTLA Zone,LA Convention Center Hall 1,Fencing,8,"Saturday, July 22",09:00,14:30,-
+DTLA Zone,LA Convention Center Hall 1,Fencing,8,"Saturday, July 22",18:30,21:20,G
+DTLA Zone,LA Convention Center Hall 1,Fencing,9,"Sunday, July 23",09:00,16:10,-
+DTLA Zone,LA Convention Center Hall 1,Fencing,9,"Sunday, July 23",18:30,21:40,G
+DTLA Zone,LA Convention Center Hall 1,Taekwondo,12,"Wednesday, July 26",09:00,13:00,-
+DTLA Zone,LA Convention Center Hall 1,Taekwondo,12,"Wednesday, July 26",15:00,18:00,-
+DTLA Zone,LA Convention Center Hall 1,Taekwondo,12,"Wednesday, July 26",19:30,23:00,G
+DTLA Zone,LA Convention Center Hall 1,Taekwondo,13,"Thursday, July 27",09:00,13:00,-
+DTLA Zone,LA Convention Center Hall 1,Taekwondo,13,"Thursday, July 27",15:00,18:00,-
+DTLA Zone,LA Convention Center Hall 1,Taekwondo,13,"Thursday, July 27",19:30,23:00,G
+DTLA Zone,LA Convention Center Hall 1,Taekwondo,14,"Friday, July 28",09:00,13:00,-
+DTLA Zone,LA Convention Center Hall 1,Taekwondo,14,"Friday, July 28",15:00,18:00,-
+DTLA Zone,LA Convention Center Hall 1,Taekwondo,14,"Friday, July 28",19:30,23:00,G
+DTLA Zone,LA Convention Center Hall 1,Taekwondo,15,"Saturday, July 29",09:00,13:00,-
+DTLA Zone,LA Convention Center Hall 1,Taekwondo,15,"Saturday, July 29",15:00,18:00,-
+DTLA Zone,LA Convention Center Hall 1,Taekwondo,15,"Saturday, July 29",19:30,23:00,G
+DTLA Zone,LA Convention Center Hall 2,Judo,1,"Saturday, July 15",10:00,14:00,-
+DTLA Zone,LA Convention Center Hall 2,Judo,1,"Saturday, July 15",16:00,19:00,G
+DTLA Zone,LA Convention Center Hall 2,Judo,2,"Sunday, July 16",10:00,14:00,-
+DTLA Zone,LA Convention Center Hall 2,Judo,2,"Sunday, July 16",16:00,19:00,G
+DTLA Zone,LA Convention Center Hall 2,Judo,3,"Monday, July 17",10:00,14:00,-
+DTLA Zone,LA Convention Center Hall 2,Judo,3,"Monday, July 17",16:00,19:00,G
+DTLA Zone,LA Convention Center Hall 2,Judo,4,"Tuesday, July 18",10:00,14:00,-
+DTLA Zone,LA Convention Center Hall 2,Judo,4,"Tuesday, July 18",16:00,19:00,G
+DTLA Zone,LA Convention Center Hall 2,Judo,5,"Wednesday, July 19",10:00,14:00,-
+DTLA Zone,LA Convention Center Hall 2,Judo,5,"Wednesday, July 19",16:00,19:00,G
+DTLA Zone,LA Convention Center Hall 2,Judo,6,"Thursday, July 20",10:00,14:00,-
+DTLA Zone,LA Convention Center Hall 2,Judo,6,"Thursday, July 20",16:00,19:00,G
+DTLA Zone,LA Convention Center Hall 2,Judo,7,"Friday, July 21",10:00,14:00,-
+DTLA Zone,LA Convention Center Hall 2,Judo,7,"Friday, July 21",16:00,19:00,G
+DTLA Zone,LA Convention Center Hall 2,Judo,8,"Saturday, July 22",08:00,14:00,-
+DTLA Zone,LA Convention Center Hall 2,Judo,8,"Saturday, July 22",16:00,19:00,G
+DTLA Zone,LA Convention Center Hall 2,Wrestling,10,"Monday, July 24",11:00,13:00,-
+DTLA Zone,LA Convention Center Hall 2,Wrestling,10,"Monday, July 24",19:00,20:00,-
+DTLA Zone,LA Convention Center Hall 2,Wrestling,11,"Tuesday, July 25",11:00,13:30,-
+DTLA Zone,LA Convention Center Hall 2,Wrestling,11,"Tuesday, July 25",19:00,22:45,G
+DTLA Zone,LA Convention Center Hall 2,Wrestling,12,"Wednesday, July 26",11:00,13:30,-
+DTLA Zone,LA Convention Center Hall 2,Wrestling,12,"Wednesday, July 26",19:00,22:45,G
+DTLA Zone,LA Convention Center Hall 2,Wrestling,13,"Thursday, July 27",11:00,13:30,-
+DTLA Zone,LA Convention Center Hall 2,Wrestling,13,"Thursday, July 27",19:00,22:45,G
+DTLA Zone,LA Convention Center Hall 2,Wrestling,14,"Friday, July 28",11:00,13:30,-
+DTLA Zone,LA Convention Center Hall 2,Wrestling,14,"Friday, July 28",19:00,22:45,G
+DTLA Zone,LA Convention Center Hall 2,Wrestling,15,"Saturday, July 29",11:00,13:30,-
+DTLA Zone,LA Convention Center Hall 2,Wrestling,15,"Saturday, July 29",19:00,22:45,G
+DTLA Zone,LA Convention Center Hall 2,Wrestling,16,"Sunday, July 30",11:00,14:30,G
+DTLA Zone,Peacock Theater,Weightlifting,11,"Tuesday, July 25",16:50,19:00,G
+DTLA Zone,Peacock Theater,Weightlifting,11,"Tuesday, July 25",20:50,23:00,G
+DTLA Zone,Peacock Theater,Weightlifting,12,"Wednesday, July 26",14:10,19:00,G
+DTLA Zone,Peacock Theater,Weightlifting,12,"Wednesday, July 26",20:50,23:00,G
+DTLA Zone,Peacock Theater,Weightlifting,13,"Thursday, July 27",14:10,19:00,G
+DTLA Zone,Peacock Theater,Weightlifting,13,"Thursday, July 27",20:50,23:00,G
+DTLA Zone,Peacock Theater,Weightlifting,14,"Friday, July 28",16:50,19:00,G
+DTLA Zone,Peacock Theater,Weightlifting,14,"Friday, July 28",20:50,23:00,G
+DTLA Zone,Peacock Theater,Weightlifting,15,"Saturday, July 29",16:50,19:00,G
+DTLA Zone,Peacock Theater,Weightlifting,15,"Saturday, July 29",20:50,23:00,G
+Exposition Park Zone,Galen Center,Rhythmic Gymnastics,13,"Thursday, July 27",12:30,15:45,-
+Exposition Park Zone,Galen Center,Rhythmic Gymnastics,13,"Thursday, July 27",17:30,20:45,-
+Exposition Park Zone,Galen Center,Rhythmic Gymnastics,14,"Friday, July 28",13:00,15:45,-
+Exposition Park Zone,Galen Center,Rhythmic Gymnastics,14,"Friday, July 28",18:00,20:45,G
+Exposition Park Zone,Galen Center,Rhythmic Gymnastics,15,"Saturday, July 29",13:00,14:45,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),1,"Saturday, July 15",09:00,13:30,-
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),1,"Saturday, July 15",17:00,20:15,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),2,"Sunday, July 16",09:00,12:00,-
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),2,"Sunday, July 16",15:15,18:55,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),3,"Monday, July 17",09:00,14:00,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),3,"Monday, July 17",16:30,19:30,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),4,"Tuesday, July 18",09:30,12:10,-
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),4,"Tuesday, July 18",15:50,18:50,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),5,"Wednesday, July 19",09:35,12:00,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),5,"Wednesday, July 19",16:00,18:40,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),6,"Thursday, July 20",09:30,12:00,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),6,"Thursday, July 20",15:30,18:30,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),7,"Friday, July 21",09:35,12:25,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),7,"Friday, July 21",16:15,19:20,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),8,"Saturday, July 22",14:05,18:15,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),9,"Sunday, July 23",15:30,18:10,G
+Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),10,"Monday, July 24",16:25,18:25,G
+Universal City Zone,Comcast Squash Center at Universal Studios,Squash,1,"Saturday, July 15",19:30,23:15,-
+Universal City Zone,Comcast Squash Center at Universal Studios,Squash,2,"Sunday, July 16",19:30,23:15,-
+Universal City Zone,Comcast Squash Center at Universal Studios,Squash,3,"Monday, July 17",19:30,23:15,-
+Universal City Zone,Comcast Squash Center at Universal Studios,Squash,4,"Tuesday, July 18",19:30,23:15,-
+Universal City Zone,Comcast Squash Center at Universal Studios,Squash,5,"Wednesday, July 19",19:30,23:15,-
+Universal City Zone,Comcast Squash Center at Universal Studios,Squash,6,"Thursday, July 20",19:30,23:15,-
+Universal City Zone,Comcast Squash Center at Universal Studios,Squash,7,"Friday, July 21",20:30,23:15,-
+Universal City Zone,Comcast Squash Center at Universal Studios,Squash,8,"Saturday, July 22",20:30,23:15,-
+Universal City Zone,Comcast Squash Center at Universal Studios,Squash,9,"Sunday, July 23",20:30,23:30,G
+Universal City Zone,Comcast Squash Center at Universal Studios,Squash,10,"Monday, July 24",20:30,23:30,G
+Valley Zone,Valley Complex 1,BMX Freestyle,14,"Friday, July 28",10:30,13:30,-
+Valley Zone,Valley Complex 1,BMX Freestyle,15,"Saturday, July 29",10:30,13:50,G
+Valley Zone,Valley Complex 1,Skateboarding (Street),4,"Tuesday, July 18",17:00,20:10,-
+Valley Zone,Valley Complex 1,Skateboarding (Street),5,"Wednesday, July 19",10:30,13:40,-
+Valley Zone,Valley Complex 1,Skateboarding (Street),5,"Wednesday, July 19",20:30,22:00,G
+Valley Zone,Valley Complex 1,Skateboarding (Street),6,"Thursday, July 20",20:30,22:00,G
+Valley Zone,Valley Complex 2,Modern Pentathlon,1,"Saturday, July 15",09:00,13:30,-
+Valley Zone,Valley Complex 2,Modern Pentathlon,2,"Sunday, July 16",09:00,13:30,-
+Valley Zone,Valley Complex 2,Modern Pentathlon,3,"Monday, July 17",09:00,11:00,G
+Valley Zone,Valley Complex 2,Modern Pentathlon,4,"Tuesday, July 18",09:00,11:00,G
+Valley Zone,Valley Complex 2,Skateboarding (Park),11,"Tuesday, July 25",10:30,13:30,-
+Valley Zone,Valley Complex 2,Skateboarding (Park),11,"Tuesday, July 25",20:00,23:00,-
+Valley Zone,Valley Complex 2,Skateboarding (Park),12,"Wednesday, July 26",20:00,21:15,G
+Valley Zone,Valley Complex 2,Skateboarding (Park),13,"Thursday, July 27",20:00,21:15,G
+Valley Zone,Valley Complex 4,BMX Racing,1,"Saturday, July 15",10:30,12:50,-
+Valley Zone,Valley Complex 4,BMX Racing,2,"Sunday, July 16",10:30,13:00,G
+Carson Zone,Carson Stadium,Rugby Sevens,-2,"Wednesday, July 12",10:00,13:00,-
+Carson Zone,Carson Stadium,Rugby Sevens,-2,"Wednesday, July 12",16:00,19:00,-
+Carson Zone,Carson Stadium,Rugby Sevens,-1,"Thursday, July 13",10:00,13:00,-
+Carson Zone,Carson Stadium,Rugby Sevens,-1,"Thursday, July 13",16:00,19:00,-
+Carson Zone,Carson Stadium,Rugby Sevens,1,"Saturday, July 15",13:00,16:00,-
+Carson Zone,Carson Stadium,Rugby Sevens,1,"Saturday, July 15",19:00,21:30,G
+Carson Zone,Carson Stadium,Rugby Sevens,2,"Sunday, July 16",10:00,13:00,-
+Carson Zone,Carson Stadium,Rugby Sevens,2,"Sunday, July 16",16:00,19:00,-
+Carson Zone,Carson Stadium,Rugby Sevens,3,"Monday, July 17",10:00,13:00,-
+Carson Zone,Carson Stadium,Rugby Sevens,3,"Monday, July 17",16:00,19:00,-
+Carson Zone,Carson Stadium,Rugby Sevens,4,"Tuesday, July 18",13:00,16:00,-
+Carson Zone,Carson Stadium,Rugby Sevens,4,"Tuesday, July 18",19:00,21:30,G
+Carson Zone,Carson Velodrome,Cycling Track,11,"Tuesday, July 25",09:00,10:00,-
+Carson Zone,Carson Velodrome,Cycling Track,11,"Tuesday, July 25",12:00,15:00,G
+Carson Zone,Carson Velodrome,Cycling Track,12,"Wednesday, July 26",08:45,12:15,-
+Carson Zone,Carson Velodrome,Cycling Track,12,"Wednesday, July 26",13:45,16:45,G
+Carson Zone,Carson Velodrome,Cycling Track,13,"Thursday, July 27",11:00,16:05,G
+Carson Zone,Carson Velodrome,Cycling Track,14,"Friday, July 28",09:00,11:20,-
+Carson Zone,Carson Velodrome,Cycling Track,14,"Friday, July 28",13:00,15:15,G
+Carson Zone,Carson Velodrome,Cycling Track,15,"Saturday, July 29",11:00,14:35,G
+Carson Zone,Carson Velodrome,Cycling Track,16,"Sunday, July 30",08:45,12:35,G
+Inglewood Zone,2028 Stadium,Swimming,8,"Saturday, July 22",09:30,11:30,-
+Inglewood Zone,2028 Stadium,Swimming,8,"Saturday, July 22",18:00,20:00,G
+Inglewood Zone,2028 Stadium,Swimming,9,"Sunday, July 23",09:30,11:30,-
+Inglewood Zone,2028 Stadium,Swimming,9,"Sunday, July 23",18:00,20:00,G
+Inglewood Zone,2028 Stadium,Swimming,10,"Monday, July 24",09:30,11:30,-
+Inglewood Zone,2028 Stadium,Swimming,10,"Monday, July 24",18:00,20:00,G
+Inglewood Zone,2028 Stadium,Swimming,11,"Tuesday, July 25",09:30,11:30,-
+Inglewood Zone,2028 Stadium,Swimming,11,"Tuesday, July 25",18:00,20:00,G
+Inglewood Zone,2028 Stadium,Swimming,12,"Wednesday, July 26",09:30,11:30,-
+Inglewood Zone,2028 Stadium,Swimming,12,"Wednesday, July 26",18:00,20:00,G
+Inglewood Zone,2028 Stadium,Swimming,13,"Thursday, July 27",09:30,11:30,-
+Inglewood Zone,2028 Stadium,Swimming,13,"Thursday, July 27",18:00,20:00,G
+Inglewood Zone,2028 Stadium,Swimming,14,"Friday, July 28",09:30,11:30,-
+Inglewood Zone,2028 Stadium,Swimming,14,"Friday, July 28",18:00,20:00,G
+Inglewood Zone,2028 Stadium,Swimming,15,"Saturday, July 29",09:30,11:30,-
+Inglewood Zone,2028 Stadium,Swimming,15,"Saturday, July 29",18:00,20:00,G
+Inglewood Zone,2028 Stadium,Swimming,16,"Sunday, July 30",15:00,16:30,G
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,1,"Saturday, July 15",09:00,12:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,1,"Saturday, July 15",14:00,18:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,1,"Saturday, July 15",20:00,23:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,2,"Sunday, July 16",09:00,12:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,2,"Sunday, July 16",14:00,18:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,2,"Sunday, July 16",20:00,23:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,3,"Monday, July 17",09:00,12:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,3,"Monday, July 17",14:00,18:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,3,"Monday, July 17",20:00,23:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,4,"Tuesday, July 18",09:00,12:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,4,"Tuesday, July 18",14:00,18:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,4,"Tuesday, July 18",20:00,23:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,5,"Wednesday, July 19",09:00,12:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,5,"Wednesday, July 19",14:00,18:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,5,"Wednesday, July 19",20:00,23:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,6,"Thursday, July 20",09:00,12:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,6,"Thursday, July 20",14:00,18:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,6,"Thursday, July 20",20:00,23:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,7,"Friday, July 21",09:00,12:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,7,"Friday, July 21",14:00,18:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,7,"Friday, July 21",20:00,23:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,8,"Saturday, July 22",09:00,11:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,8,"Saturday, July 22",19:00,23:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,9,"Sunday, July 23",09:00,11:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,9,"Sunday, July 23",13:00,15:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,9,"Sunday, July 23",17:00,19:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,9,"Sunday, July 23",21:00,23:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,10,"Monday, July 24",09:00,11:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,10,"Monday, July 24",13:00,15:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,10,"Monday, July 24",17:00,19:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,10,"Monday, July 24",21:00,23:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,11,"Tuesday, July 25",13:00,15:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,11,"Tuesday, July 25",20:00,22:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,12,"Wednesday, July 26",13:00,15:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,12,"Wednesday, July 26",20:00,22:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,13,"Thursday, July 27",13:00,15:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,13,"Thursday, July 27",20:00,22:00,-
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,14,"Friday, July 28",15:30,18:30,G
+Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,15,"Saturday, July 29",19:00,22:00,G
+Long Beach Zone,Long Beach Climbing Theater,Climbing,10,"Monday, July 24",09:30,11:40,-
+Long Beach Zone,Long Beach Climbing Theater,Climbing,10,"Monday, July 24",13:45,15:25,-
+Long Beach Zone,Long Beach Climbing Theater,Climbing,11,"Tuesday, July 25",09:15,11:25,-
+Long Beach Zone,Long Beach Climbing Theater,Climbing,11,"Tuesday, July 25",18:45,20:00,-
+Long Beach Zone,Long Beach Climbing Theater,Climbing,12,"Wednesday, July 26",09:00,10:30,G
+Long Beach Zone,Long Beach Climbing Theater,Climbing,12,"Wednesday, July 26",18:45,20:00,-
+Long Beach Zone,Long Beach Climbing Theater,Climbing,13,"Thursday, July 27",09:00,10:55,G
+Long Beach Zone,Long Beach Climbing Theater,Climbing,14,"Friday, July 28",09:00,10:55,G
+Long Beach Zone,Long Beach Climbing Theater,Climbing,14,"Friday, July 28",13:45,15:00,G
+Long Beach Zone,Long Beach Climbing Theater,Climbing,15,"Saturday, July 29",09:30,10:45,G
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,2,"Sunday, July 16",10:00,12:30,-
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,3,"Monday, July 17",10:00,12:00,-
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,3,"Monday, July 17",15:30,16:45,G
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,4,"Tuesday, July 18",10:00,12:30,-
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,4,"Tuesday, July 18",15:30,17:30,-
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,5,"Wednesday, July 19",15:30,16:45,G
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,6,"Thursday, July 20",10:00,12:30,-
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,6,"Thursday, July 20",15:30,17:30,-
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,7,"Friday, July 21",10:00,12:30,-
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,7,"Friday, July 21",15:30,16:45,G
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,8,"Saturday, July 22",10:00,12:00,-
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,8,"Saturday, July 22",15:30,16:45,G
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,11,"Tuesday, July 25",11:30,12:30,G
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,12,"Wednesday, July 26",14:00,15:00,G
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,13,"Thursday, July 27",14:00,15:00,G
+Pasadena Zone,Rose Bowl Aquatics Center,Diving,14,"Friday, July 28",16:00,17:00,G
+Anaheim Zone,Honda Center,Volleyball,1,"Saturday, July 15",09:00,11:30,-
+Anaheim Zone,Honda Center,Volleyball,1,"Saturday, July 15",13:00,15:30,-
+Anaheim Zone,Honda Center,Volleyball,1,"Saturday, July 15",17:00,19:30,-
+Anaheim Zone,Honda Center,Volleyball,1,"Saturday, July 15",21:00,23:30,-
+Anaheim Zone,Honda Center,Volleyball,2,"Sunday, July 16",09:00,11:30,-
+Anaheim Zone,Honda Center,Volleyball,2,"Sunday, July 16",13:00,15:30,-
+Anaheim Zone,Honda Center,Volleyball,2,"Sunday, July 16",17:00,19:30,-
+Anaheim Zone,Honda Center,Volleyball,2,"Sunday, July 16",21:00,23:30,-
+Anaheim Zone,Honda Center,Volleyball,3,"Monday, July 17",09:00,11:30,-
+Anaheim Zone,Honda Center,Volleyball,3,"Monday, July 17",13:00,15:30,-
+Anaheim Zone,Honda Center,Volleyball,3,"Monday, July 17",17:00,19:30,-
+Anaheim Zone,Honda Center,Volleyball,3,"Monday, July 17",21:00,23:30,-
+Anaheim Zone,Honda Center,Volleyball,4,"Tuesday, July 18",09:00,11:30,-
+Anaheim Zone,Honda Center,Volleyball,4,"Tuesday, July 18",13:00,15:30,-
+Anaheim Zone,Honda Center,Volleyball,4,"Tuesday, July 18",17:00,19:30,-
+Anaheim Zone,Honda Center,Volleyball,4,"Tuesday, July 18",21:00,23:30,-
+Anaheim Zone,Honda Center,Volleyball,5,"Wednesday, July 19",09:00,11:30,-
+Anaheim Zone,Honda Center,Volleyball,5,"Wednesday, July 19",13:00,15:30,-
+Anaheim Zone,Honda Center,Volleyball,5,"Wednesday, July 19",17:00,19:30,-
+Anaheim Zone,Honda Center,Volleyball,5,"Wednesday, July 19",21:00,23:30,-
+Anaheim Zone,Honda Center,Volleyball,6,"Thursday, July 20",09:00,11:30,-
+Anaheim Zone,Honda Center,Volleyball,6,"Thursday, July 20",13:00,15:30,-
+Anaheim Zone,Honda Center,Volleyball,6,"Thursday, July 20",17:00,19:30,-
+Anaheim Zone,Honda Center,Volleyball,6,"Thursday, July 20",21:00,23:30,-
+Anaheim Zone,Honda Center,Volleyball,7,"Friday, July 21",09:00,11:30,-
+Anaheim Zone,Honda Center,Volleyball,7,"Friday, July 21",13:00,15:30,-
+Anaheim Zone,Honda Center,Volleyball,7,"Friday, July 21",17:00,19:30,-
+Anaheim Zone,Honda Center,Volleyball,7,"Friday, July 21",21:00,23:30,-
+Anaheim Zone,Honda Center,Volleyball,8,"Saturday, July 22",09:00,11:30,-
+Anaheim Zone,Honda Center,Volleyball,8,"Saturday, July 22",13:00,15:30,-
+Anaheim Zone,Honda Center,Volleyball,8,"Saturday, July 22",17:00,19:30,-
+Anaheim Zone,Honda Center,Volleyball,8,"Saturday, July 22",21:00,23:30,-
+Anaheim Zone,Honda Center,Volleyball,9,"Sunday, July 23",09:00,11:30,-
+Anaheim Zone,Honda Center,Volleyball,9,"Sunday, July 23",13:00,15:30,-
+Anaheim Zone,Honda Center,Volleyball,9,"Sunday, July 23",17:00,19:30,-
+Anaheim Zone,Honda Center,Volleyball,9,"Sunday, July 23",21:00,23:30,-
+Anaheim Zone,Honda Center,Volleyball,10,"Monday, July 24",09:00,11:30,-
+Anaheim Zone,Honda Center,Volleyball,10,"Monday, July 24",13:00,15:30,-
+Anaheim Zone,Honda Center,Volleyball,10,"Monday, July 24",17:00,19:30,-
+Anaheim Zone,Honda Center,Volleyball,10,"Monday, July 24",21:00,23:30,-
+Anaheim Zone,Honda Center,Volleyball,11,"Tuesday, July 25",09:00,11:30,-
+Anaheim Zone,Honda Center,Volleyball,11,"Tuesday, July 25",13:00,15:30,-
+Anaheim Zone,Honda Center,Volleyball,11,"Tuesday, July 25",17:00,19:30,-
+Anaheim Zone,Honda Center,Volleyball,11,"Tuesday, July 25",21:00,23:30,-
+Anaheim Zone,Honda Center,Volleyball,12,"Wednesday, July 26",11:00,13:30,-
+Anaheim Zone,Honda Center,Volleyball,12,"Wednesday, July 26",16:00,18:30,-
+Anaheim Zone,Honda Center,Volleyball,13,"Thursday, July 27",11:00,13:30,-
+Anaheim Zone,Honda Center,Volleyball,13,"Thursday, July 27",16:00,18:30,-
+Anaheim Zone,Honda Center,Volleyball,14,"Friday, July 28",20:30,23:00,B
+Anaheim Zone,Honda Center,Volleyball,15,"Saturday, July 29",10:00,13:15,G
+Anaheim Zone,Honda Center,Volleyball,15,"Saturday, July 29",14:45,17:15,B
+Anaheim Zone,Honda Center,Volleyball,16,"Sunday, July 30",10:00,13:15,G
+Arcadia Zone,Santa Anita Park,Equestrian,1,"Saturday, July 15",09:00,11:30,-
+Arcadia Zone,Santa Anita Park,Equestrian,1,"Saturday, July 15",16:30,19:00,-
+Arcadia Zone,Santa Anita Park,Equestrian,2,"Sunday, July 16",09:00,11:30,-
+Arcadia Zone,Santa Anita Park,Equestrian,3,"Monday, July 17",08:00,11:30,-
+Arcadia Zone,Santa Anita Park,Equestrian,4,"Tuesday, July 18",16:30,22:00,G
+Arcadia Zone,Santa Anita Park,Equestrian,6,"Thursday, July 20",09:00,11:45,-
+Arcadia Zone,Santa Anita Park,Equestrian,6,"Thursday, July 20",16:15,19:00,-
+Arcadia Zone,Santa Anita Park,Equestrian,7,"Friday, July 21",09:00,11:45,-
+Arcadia Zone,Santa Anita Park,Equestrian,7,"Friday, July 21",16:15,19:00,-
+Arcadia Zone,Santa Anita Park,Equestrian,8,"Saturday, July 22",09:00,11:45,-
+Arcadia Zone,Santa Anita Park,Equestrian,8,"Saturday, July 22",16:15,19:00,G
+Arcadia Zone,Santa Anita Park,Equestrian,10,"Monday, July 24",08:30,12:00,G
+Arcadia Zone,Santa Anita Park,Equestrian,11,"Tuesday, July 25",09:00,12:00,-
+Arcadia Zone,Santa Anita Park,Equestrian,12,"Wednesday, July 26",09:00,11:10,G
+Arcadia Zone,Santa Anita Park,Equestrian,14,"Friday, July 28",08:00,12:00,-
+Arcadia Zone,Santa Anita Park,Equestrian,15,"Saturday, July 29",09:00,11:00,G
+City of Industry Zone,Industry Hills MTB Course,Mountain Bike,3,"Monday, July 17",11:00,13:30,G
+City of Industry Zone,Industry Hills MTB Course,Mountain Bike,4,"Tuesday, July 18",11:00,13:30,G
