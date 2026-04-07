@@ -39,6 +39,12 @@ const STORAGE_KEY = "olympics-day-planner-state-v1";
 const DEFAULT_WITHIN_ZONE_MINUTES = 60;
 const DEFAULT_BETWEEN_ZONE_MINUTES = 180;
 
+declare global {
+  interface Window {
+    __EVENTS__?: EventRecord[];
+  }
+}
+
 const appElement = document.querySelector<HTMLDivElement>("#app");
 
 if (!appElement) {
@@ -585,13 +591,17 @@ function render() {
 }
 
 async function bootstrap() {
-  const response = await fetch("/data/events.json");
+  if (Array.isArray(window.__EVENTS__)) {
+    state.events = window.__EVENTS__;
+  } else {
+    const response = await fetch("/data/events.json");
 
-  if (!response.ok) {
-    throw new Error("Could not load events JSON. Run npm run convert:data first.");
+    if (!response.ok) {
+      throw new Error("Could not load events JSON. Run npm run convert:data first.");
+    }
+
+    state.events = (await response.json()) as EventRecord[];
   }
-
-  state.events = (await response.json()) as EventRecord[];
   const allDays = Array.from(new Set(state.events.map((event) => event.day))).sort((a, b) => a - b);
   const defaultDay = allDays[0] ?? 1;
 
