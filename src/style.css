@@ -254,6 +254,29 @@ input[type="number"] {
   overflow: hidden;
 }
 
+.medal-dot {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 1px 6px;
+  font-size: 0.65rem;
+  margin-right: 4px;
+}
+
+.medal-dot.gold {
+  background: #ffe7a0;
+  color: #6b4f00;
+}
+
+.medal-dot.bronze {
+  background: #e7c0a1;
+  color: #5b3218;
+}
+
+.medal-dot.none {
+  background: #ece7df;
+  color: #5c5246;
+}
+
 .planner-item {
   border: 1px solid var(--line);
   border-radius: 12px;
@@ -264,6 +287,30 @@ input[type="number"] {
   align-items: center;
   justify-content: space-between;
   gap: 10px;
+}
+
+.medal-pill {
+  margin-left: 8px;
+  border-radius: 999px;
+  padding: 2px 8px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.medal-pill.gold {
+  background: #ffe7a0;
+  color: #6b4f00;
+}
+
+.medal-pill.bronze {
+  background: #e7c0a1;
+  color: #5b3218;
+}
+
+.medal-pill.none {
+  background: #ece7df;
+  color: #5c5246;
 }
 
 .planner-day-group {

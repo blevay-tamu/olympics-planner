@@ -31,6 +31,8 @@ type PlannedDayGroup = {
   events: EventRecord[];
 };
 
+type MedalKind = "gold" | "bronze" | "none";
+
 const SLOT_MINUTES = 15;
 const PIXELS_PER_SLOT = 24;
 const STORAGE_KEY = "olympics-day-planner-state-v1";
@@ -132,6 +134,54 @@ function escapeHtml(text: string) {
     .replace(/>/g, "&gt;")
     .replace(/\"/g, "&quot;")
     .replace(/'/g, "&#39;");
+}
+
+function getMedalKind(medalValue: string): MedalKind {
+  const normalized = medalValue.trim().toLowerCase();
+
+  if (normalized === "g" || normalized === "gold") {
+    return "gold";
+  }
+
+  if (normalized === "b" || normalized === "bronze") {
+    return "bronze";
+  }
+
+  return "none";
+}
+
+function getMedalLabel(medalValue: string) {
+  const kind = getMedalKind(medalValue);
+
+  if (kind === "gold") {
+    return "Gold medal";
+  }
+
+  if (kind === "bronze") {
+    return "Bronze medal";
+  }
+
+  return "No medal";
+}
+
+function renderMedalPill(medalValue: string) {
+  const medalKind = getMedalKind(medalValue);
+
+  if (medalKind === "none") {
+    return "";
+  }
+
+  return `<span class="medal-pill ${medalKind}">${escapeHtml(getMedalLabel(medalValue))}</span>`;
+}
+
+function renderMedalDot(medalValue: string) {
+  const medalKind = getMedalKind(medalValue);
+
+  if (medalKind === "none") {
+    return "";
+  }
+
+  return `<span class="medal-dot ${medalKind}">${escapeHtml(getMedalLabel(medalValue))}</span>`;
 }
 
 function minutesToClock(total: number) {
@@ -267,6 +317,7 @@ function renderPlannerList(groups: PlannedDayGroup[]) {
           (event) => `<div class="planner-item">
             <div>
               <strong>${escapeHtml(event.event)}</strong>
+              ${renderMedalPill(event.medal)}
               <div class="kicker">${escapeHtml(event.start)}-${escapeHtml(event.end)} | ${escapeHtml(event.venue)} (${escapeHtml(event.zone)})</div>
             </div>
             <button class="remove-button" data-remove-id="${event.id}" data-remove-day="${group.day}" type="button">Remove</button>
@@ -347,7 +398,12 @@ function renderCalendar(dayEvents: EventRecord[], reachableIds: Set<string>) {
           const height = ((event.endMinutes - event.startMinutes) / SLOT_MINUTES) * PIXELS_PER_SLOT;
           const isScheduled = state.scheduledIds.has(event.id);
           const cls = isScheduled ? "scheduled" : "reachable";
-          const label = `${event.start}-${event.end} | ${event.venue} (${event.zone})`;
+          const medalLabel = getMedalLabel(event.medal);
+          const medalDot = renderMedalDot(event.medal);
+          const label =
+            getMedalKind(event.medal) === "none"
+              ? `${event.start}-${event.end}`
+              : `${event.start}-${event.end} | ${medalLabel}`;
 
           return `<button
             class="event-bar ${cls}"
@@ -357,7 +413,7 @@ function renderCalendar(dayEvents: EventRecord[], reachableIds: Set<string>) {
             title="${escapeHtml(label)}"
           >
             <span class="bar-title">${escapeHtml(event.start)}-${escapeHtml(event.end)}</span>
-            <span class="bar-meta">${escapeHtml(event.venue)}</span>
+            <span class="bar-meta">${medalDot}</span>
           </button>`;
         })
         .join("");
