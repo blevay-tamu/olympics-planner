@@ -30,6 +30,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Generate events data
+        run: npm run convert:data
+
       - name: Build
         run: npm run build -- --base=/olympics-planner/
 
