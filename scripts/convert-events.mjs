@@ -5,17 +5,18 @@ const inputPath = path.resolve("raw/olympic-events.csv");
 const outputDir = path.resolve("public/data");
 const outputPath = path.resolve(outputDir, "events.json");
 
-function splitCsvLine(line) {
-  const cells = [];
-  let current = "";
+function parseCsv(text) {
+  const rows = [];
+  let row = [];
+  let cell = "";
   let inQuotes = false;
 
-  for (let i = 0; i < line.length; i += 1) {
-    const char = line[i];
-    const next = line[i + 1];
+  for (let i = 0; i < text.length; i += 1) {
+    const char = text[i];
+    const next = text[i + 1];
 
     if (char === '"' && inQuotes && next === '"') {
-      current += '"';
+      cell += '"';
       i += 1;
       continue;
     }
@@ -26,16 +27,32 @@ function splitCsvLine(line) {
     }
 
     if (char === "," && !inQuotes) {
-      cells.push(current);
-      current = "";
+      row.push(cell);
+      cell = "";
       continue;
     }
 
-    current += char;
+    if ((char === "\n" || char === "\r") && !inQuotes) {
+      if (char === "\r" && next === "\n") {
+        i += 1;
+      }
+
+      row.push(cell);
+      rows.push(row);
+      row = [];
+      cell = "";
+      continue;
+    }
+
+    cell += char;
   }
 
-  cells.push(current);
-  return cells.map((cell) => cell.trim());
+  if (cell.length > 0 || row.length > 0) {
+    row.push(cell);
+    rows.push(row);
+  }
+
+  return rows.map((parsedRow) => parsedRow.map((value) => value.trim()));
 }
 
 function toMinutes(hhmm) {
@@ -43,21 +60,47 @@ function toMinutes(hhmm) {
   return hours * 60 + mins;
 }
 
-function normalizeDateLabel(rawDate) {
-  return rawDate.replace(/^"|"$/g, "").trim();
+function compactWhitespace(value) {
+  return value.replace(/\s+/g, " ").trim();
+}
+
+function normalizeMultilineText(value) {
+  return value
+    .replace(/\r\n/g, "\n")
+    .replace(/\r/g, "\n")
+    .split("\n")
+    .map((line) => compactWhitespace(line))
+    .join("\n")
+    .trim();
+}
+
+function extractTime(rawValue) {
+  const match = compactWhitespace(rawValue).match(/(\d{1,2}:\d{2})/);
+
+  if (!match) {
+    return "";
+  }
+
+  const [hours, mins] = match[1].split(":");
+  return `${hours.padStart(2, "0")}:${mins}`;
+}
+
+function toNumberOrNull(value) {
+  const num = Number(value);
+  return Number.isFinite(num) ? num : null;
 }
 
 async function main() {
   const raw = await readFile(inputPath, "utf-8");
-  const lines = raw.split(/\r?\n/).filter(Boolean);
-  const [header, ...rows] = lines;
+  const rows = parseCsv(raw).filter((row) => row.some((value) => value.trim() !== ""));
+  const [header, ...recordsRows] = rows;
 
   if (!header) {
     throw new Error("CSV file is empty.");
   }
 
-  const columns = splitCsvLine(header);
-  const required = ["Zone", "Venue", "Event", "Day", "Date", "Start", "End"];
+  const columns = header;
+  const required = ["Sport", "Venue", "Zone", "Date", "Games Day", "Start Time", "End Time"];
 
   for (const col of required) {
     if (!columns.includes(col)) {
@@ -65,26 +108,33 @@ async function main() {
     }
   }
 
-  const records = rows.map((line, idx) => {
-    const values = splitCsvLine(line);
+  const records = recordsRows.map((values, idx) => {
     const get = (name) => values[columns.indexOf(name)] ?? "";
 
-    const day = Number(get("Day"));
-    const start = get("Start");
-    const end = get("End");
+    const rawStartTime = compactWhitespace(get("Start Time"));
+    const rawEndTime = compactWhitespace(get("End Time"));
+    const startClock = extractTime(rawStartTime);
+    const endClock = extractTime(rawEndTime);
+    const startMinutes = startClock ? toMinutes(startClock) : null;
+    const endMinutes = endClock ? toMinutes(endClock) : null;
 
     return {
       id: `ev-${idx + 1}`,
-      zone: get("Zone"),
-      venue: get("Venue"),
-      event: get("Event"),
-      day,
-      dateLabel: normalizeDateLabel(get("Date")),
-      start,
-      end,
-      startMinutes: toMinutes(start),
-      endMinutes: toMinutes(end),
-      medal: get("Medal") || "-"
+      sport: compactWhitespace(get("Sport")),
+      venue: compactWhitespace(get("Venue")),
+      zone: compactWhitespace(get("Zone")),
+      sessionCode: compactWhitespace(get("Session Code")),
+      date: compactWhitespace(get("Date")),
+      gamesDay: toNumberOrNull(get("Games Day")),
+      sessionType: compactWhitespace(get("Session Type")),
+      sessionDescription: normalizeMultilineText(get("Session Description")),
+      startTime: rawStartTime,
+      endTime: rawEndTime,
+      startClock: startClock || null,
+      endClock: endClock || null,
+      startMinutes,
+      endMinutes,
+      hasFixedTime: startMinutes !== null && endMinutes !== null
     };
   });
 

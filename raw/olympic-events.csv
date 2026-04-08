@@ -1,332 +1,1184 @@
-﻿Zone,Venue,Event,Day,Date,Start,End,Medal
-DTLA Zone,DTLA Arena,Artistic Gymnastics,1,"Saturday, July 15",11:30,14:00,-
-DTLA Zone,DTLA Arena,Artistic Gymnastics,1,"Saturday, July 15",15:30,18:00,-
-DTLA Zone,DTLA Arena,Artistic Gymnastics,1,"Saturday, July 15",19:30,22:00,-
-DTLA Zone,DTLA Arena,Artistic Gymnastics,2,"Sunday, July 16",09:45,13:35,-
-DTLA Zone,DTLA Arena,Artistic Gymnastics,2,"Sunday, July 16",15:05,16:45,-
-DTLA Zone,DTLA Arena,Artistic Gymnastics,2,"Sunday, July 16",18:15,19:55,-
-DTLA Zone,DTLA Arena,Artistic Gymnastics,2,"Sunday, July 16",21:25,23:05,-
-DTLA Zone,DTLA Arena,Artistic Gymnastics,3,"Monday, July 17",17:15,20:30,G
-DTLA Zone,DTLA Arena,Artistic Gymnastics,4,"Tuesday, July 18",18:00,20:30,G
-DTLA Zone,DTLA Arena,Artistic Gymnastics,5,"Wednesday, July 19",18:00,20:30,G
-DTLA Zone,DTLA Arena,Artistic Gymnastics,6,"Thursday, July 20",18:00,20:30,G
-DTLA Zone,DTLA Arena,Artistic Gymnastics,8,"Saturday, July 22",11:30,14:15,G
-DTLA Zone,DTLA Arena,Artistic Gymnastics,9,"Sunday, July 23",11:00,13:45,G
-DTLA Zone,DTLA Arena,Artistic Gymnastics,10,"Monday, July 24",11:00,14:30,G
-DTLA Zone,DTLA Arena,Artistic Gymnastics,11,"Tuesday, July 25",16:00,18:30,G
-DTLA Zone,Peacock Theater,Boxing,1,"Saturday, July 15",12:00,14:30,-
-DTLA Zone,Peacock Theater,Boxing,1,"Saturday, July 15",19:00,21:30,-
-DTLA Zone,Peacock Theater,Boxing,2,"Sunday, July 16",12:00,15:00,-
-DTLA Zone,Peacock Theater,Boxing,2,"Sunday, July 16",19:00,22:00,-
-DTLA Zone,Peacock Theater,Boxing,3,"Monday, July 17",12:00,15:00,-
-DTLA Zone,Peacock Theater,Boxing,3,"Monday, July 17",19:00,22:00,-
-DTLA Zone,Peacock Theater,Boxing,4,"Tuesday, July 18",12:00,15:00,-
-DTLA Zone,Peacock Theater,Boxing,4,"Tuesday, July 18",19:00,22:00,-
-DTLA Zone,Peacock Theater,Boxing,5,"Wednesday, July 19",12:00,15:00,-
-DTLA Zone,Peacock Theater,Boxing,5,"Wednesday, July 19",19:00,22:00,-
-DTLA Zone,Peacock Theater,Boxing,6,"Thursday, July 20",12:00,15:00,-
-DTLA Zone,Peacock Theater,Boxing,6,"Thursday, July 20",19:00,22:00,-
-DTLA Zone,Peacock Theater,Boxing,7,"Friday, July 21",12:00,15:00,-
-DTLA Zone,Peacock Theater,Boxing,7,"Friday, July 21",19:00,22:00,-
-DTLA Zone,Peacock Theater,Boxing,8,"Saturday, July 22",12:00,15:00,-
-DTLA Zone,Peacock Theater,Boxing,8,"Saturday, July 22",19:00,22:00,-
-DTLA Zone,Peacock Theater,Boxing,9,"Sunday, July 23",12:00,14:30,-
-DTLA Zone,DTLA Arena,Boxing,13,"Thursday, July 27",12:00,14:00,G
-DTLA Zone,DTLA Arena,Boxing,13,"Thursday, July 27",18:00,20:00,G
-DTLA Zone,DTLA Arena,Boxing,14,"Friday, July 28",12:00,13:30,G
-DTLA Zone,DTLA Arena,Boxing,14,"Friday, July 28",18:00,19:30,G
-DTLA Zone,DTLA Arena,Boxing,15,"Saturday, July 29",12:00,13:30,G
-DTLA Zone,DTLA Arena,Boxing,15,"Saturday, July 29",18:00,20:00,G
-DTLA Zone,DTLA Arena,Boxing,16,"Sunday, July 30",12:00,14:00,G
-DTLA Zone,DTLA Arena,Trampoline Gymnastics,7,"Friday, July 21",12:30,15:15,G
-DTLA Zone,DTLA Arena,Trampoline Gymnastics,7,"Friday, July 21",20:00,22:45,G
-DTLA Zone,LA Convention Center Hall 1,Fencing,1,"Saturday, July 15",09:00,15:40,-
-DTLA Zone,LA Convention Center Hall 1,Fencing,1,"Saturday, July 15",18:30,22:20,G
-DTLA Zone,LA Convention Center Hall 1,Fencing,2,"Sunday, July 16",09:00,16:20,-
-DTLA Zone,LA Convention Center Hall 1,Fencing,2,"Sunday, July 16",18:30,22:40,G
-DTLA Zone,LA Convention Center Hall 1,Fencing,3,"Monday, July 17",09:00,16:20,-
-DTLA Zone,LA Convention Center Hall 1,Fencing,3,"Monday, July 17",18:30,22:40,G
-DTLA Zone,LA Convention Center Hall 1,Fencing,4,"Tuesday, July 18",09:00,14:30,-
-DTLA Zone,LA Convention Center Hall 1,Fencing,4,"Tuesday, July 18",17:30,19:40,G
-DTLA Zone,LA Convention Center Hall 1,Fencing,5,"Wednesday, July 19",09:00,14:30,-
-DTLA Zone,LA Convention Center Hall 1,Fencing,5,"Wednesday, July 19",17:30,19:40,G
-DTLA Zone,LA Convention Center Hall 1,Fencing,6,"Thursday, July 20",09:00,16:10,-
-DTLA Zone,LA Convention Center Hall 1,Fencing,6,"Thursday, July 20",18:30,21:40,G
-DTLA Zone,LA Convention Center Hall 1,Fencing,7,"Friday, July 21",09:00,14:30,-
-DTLA Zone,LA Convention Center Hall 1,Fencing,7,"Friday, July 21",18:30,21:20,G
-DTLA Zone,LA Convention Center Hall 1,Fencing,8,"Saturday, July 22",09:00,14:30,-
-DTLA Zone,LA Convention Center Hall 1,Fencing,8,"Saturday, July 22",18:30,21:20,G
-DTLA Zone,LA Convention Center Hall 1,Fencing,9,"Sunday, July 23",09:00,16:10,-
-DTLA Zone,LA Convention Center Hall 1,Fencing,9,"Sunday, July 23",18:30,21:40,G
-DTLA Zone,LA Convention Center Hall 1,Taekwondo,12,"Wednesday, July 26",09:00,13:00,-
-DTLA Zone,LA Convention Center Hall 1,Taekwondo,12,"Wednesday, July 26",15:00,18:00,-
-DTLA Zone,LA Convention Center Hall 1,Taekwondo,12,"Wednesday, July 26",19:30,23:00,G
-DTLA Zone,LA Convention Center Hall 1,Taekwondo,13,"Thursday, July 27",09:00,13:00,-
-DTLA Zone,LA Convention Center Hall 1,Taekwondo,13,"Thursday, July 27",15:00,18:00,-
-DTLA Zone,LA Convention Center Hall 1,Taekwondo,13,"Thursday, July 27",19:30,23:00,G
-DTLA Zone,LA Convention Center Hall 1,Taekwondo,14,"Friday, July 28",09:00,13:00,-
-DTLA Zone,LA Convention Center Hall 1,Taekwondo,14,"Friday, July 28",15:00,18:00,-
-DTLA Zone,LA Convention Center Hall 1,Taekwondo,14,"Friday, July 28",19:30,23:00,G
-DTLA Zone,LA Convention Center Hall 1,Taekwondo,15,"Saturday, July 29",09:00,13:00,-
-DTLA Zone,LA Convention Center Hall 1,Taekwondo,15,"Saturday, July 29",15:00,18:00,-
-DTLA Zone,LA Convention Center Hall 1,Taekwondo,15,"Saturday, July 29",19:30,23:00,G
-DTLA Zone,LA Convention Center Hall 2,Judo,1,"Saturday, July 15",10:00,14:00,-
-DTLA Zone,LA Convention Center Hall 2,Judo,1,"Saturday, July 15",16:00,19:00,G
-DTLA Zone,LA Convention Center Hall 2,Judo,2,"Sunday, July 16",10:00,14:00,-
-DTLA Zone,LA Convention Center Hall 2,Judo,2,"Sunday, July 16",16:00,19:00,G
-DTLA Zone,LA Convention Center Hall 2,Judo,3,"Monday, July 17",10:00,14:00,-
-DTLA Zone,LA Convention Center Hall 2,Judo,3,"Monday, July 17",16:00,19:00,G
-DTLA Zone,LA Convention Center Hall 2,Judo,4,"Tuesday, July 18",10:00,14:00,-
-DTLA Zone,LA Convention Center Hall 2,Judo,4,"Tuesday, July 18",16:00,19:00,G
-DTLA Zone,LA Convention Center Hall 2,Judo,5,"Wednesday, July 19",10:00,14:00,-
-DTLA Zone,LA Convention Center Hall 2,Judo,5,"Wednesday, July 19",16:00,19:00,G
-DTLA Zone,LA Convention Center Hall 2,Judo,6,"Thursday, July 20",10:00,14:00,-
-DTLA Zone,LA Convention Center Hall 2,Judo,6,"Thursday, July 20",16:00,19:00,G
-DTLA Zone,LA Convention Center Hall 2,Judo,7,"Friday, July 21",10:00,14:00,-
-DTLA Zone,LA Convention Center Hall 2,Judo,7,"Friday, July 21",16:00,19:00,G
-DTLA Zone,LA Convention Center Hall 2,Judo,8,"Saturday, July 22",08:00,14:00,-
-DTLA Zone,LA Convention Center Hall 2,Judo,8,"Saturday, July 22",16:00,19:00,G
-DTLA Zone,LA Convention Center Hall 2,Wrestling,10,"Monday, July 24",11:00,13:00,-
-DTLA Zone,LA Convention Center Hall 2,Wrestling,10,"Monday, July 24",19:00,20:00,-
-DTLA Zone,LA Convention Center Hall 2,Wrestling,11,"Tuesday, July 25",11:00,13:30,-
-DTLA Zone,LA Convention Center Hall 2,Wrestling,11,"Tuesday, July 25",19:00,22:45,G
-DTLA Zone,LA Convention Center Hall 2,Wrestling,12,"Wednesday, July 26",11:00,13:30,-
-DTLA Zone,LA Convention Center Hall 2,Wrestling,12,"Wednesday, July 26",19:00,22:45,G
-DTLA Zone,LA Convention Center Hall 2,Wrestling,13,"Thursday, July 27",11:00,13:30,-
-DTLA Zone,LA Convention Center Hall 2,Wrestling,13,"Thursday, July 27",19:00,22:45,G
-DTLA Zone,LA Convention Center Hall 2,Wrestling,14,"Friday, July 28",11:00,13:30,-
-DTLA Zone,LA Convention Center Hall 2,Wrestling,14,"Friday, July 28",19:00,22:45,G
-DTLA Zone,LA Convention Center Hall 2,Wrestling,15,"Saturday, July 29",11:00,13:30,-
-DTLA Zone,LA Convention Center Hall 2,Wrestling,15,"Saturday, July 29",19:00,22:45,G
-DTLA Zone,LA Convention Center Hall 2,Wrestling,16,"Sunday, July 30",11:00,14:30,G
-DTLA Zone,Peacock Theater,Weightlifting,11,"Tuesday, July 25",16:50,19:00,G
-DTLA Zone,Peacock Theater,Weightlifting,11,"Tuesday, July 25",20:50,23:00,G
-DTLA Zone,Peacock Theater,Weightlifting,12,"Wednesday, July 26",14:10,19:00,G
-DTLA Zone,Peacock Theater,Weightlifting,12,"Wednesday, July 26",20:50,23:00,G
-DTLA Zone,Peacock Theater,Weightlifting,13,"Thursday, July 27",14:10,19:00,G
-DTLA Zone,Peacock Theater,Weightlifting,13,"Thursday, July 27",20:50,23:00,G
-DTLA Zone,Peacock Theater,Weightlifting,14,"Friday, July 28",16:50,19:00,G
-DTLA Zone,Peacock Theater,Weightlifting,14,"Friday, July 28",20:50,23:00,G
-DTLA Zone,Peacock Theater,Weightlifting,15,"Saturday, July 29",16:50,19:00,G
-DTLA Zone,Peacock Theater,Weightlifting,15,"Saturday, July 29",20:50,23:00,G
-Exposition Park Zone,Galen Center,Rhythmic Gymnastics,13,"Thursday, July 27",12:30,15:45,-
-Exposition Park Zone,Galen Center,Rhythmic Gymnastics,13,"Thursday, July 27",17:30,20:45,-
-Exposition Park Zone,Galen Center,Rhythmic Gymnastics,14,"Friday, July 28",13:00,15:45,-
-Exposition Park Zone,Galen Center,Rhythmic Gymnastics,14,"Friday, July 28",18:00,20:45,G
-Exposition Park Zone,Galen Center,Rhythmic Gymnastics,15,"Saturday, July 29",13:00,14:45,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),1,"Saturday, July 15",09:00,13:30,-
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),1,"Saturday, July 15",17:00,20:15,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),2,"Sunday, July 16",09:00,12:00,-
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),2,"Sunday, July 16",15:15,18:55,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),3,"Monday, July 17",09:00,14:00,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),3,"Monday, July 17",16:30,19:30,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),4,"Tuesday, July 18",09:30,12:10,-
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),4,"Tuesday, July 18",15:50,18:50,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),5,"Wednesday, July 19",09:35,12:00,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),5,"Wednesday, July 19",16:00,18:40,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),6,"Thursday, July 20",09:30,12:00,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),6,"Thursday, July 20",15:30,18:30,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),7,"Friday, July 21",09:35,12:25,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),7,"Friday, July 21",16:15,19:20,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),8,"Saturday, July 22",14:05,18:15,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),9,"Sunday, July 23",15:30,18:10,G
-Exposition Park Zone,LA Memorial Coliseum,Athletics (Track & Field),10,"Monday, July 24",16:25,18:25,G
-Universal City Zone,Comcast Squash Center at Universal Studios,Squash,1,"Saturday, July 15",19:30,23:15,-
-Universal City Zone,Comcast Squash Center at Universal Studios,Squash,2,"Sunday, July 16",19:30,23:15,-
-Universal City Zone,Comcast Squash Center at Universal Studios,Squash,3,"Monday, July 17",19:30,23:15,-
-Universal City Zone,Comcast Squash Center at Universal Studios,Squash,4,"Tuesday, July 18",19:30,23:15,-
-Universal City Zone,Comcast Squash Center at Universal Studios,Squash,5,"Wednesday, July 19",19:30,23:15,-
-Universal City Zone,Comcast Squash Center at Universal Studios,Squash,6,"Thursday, July 20",19:30,23:15,-
-Universal City Zone,Comcast Squash Center at Universal Studios,Squash,7,"Friday, July 21",20:30,23:15,-
-Universal City Zone,Comcast Squash Center at Universal Studios,Squash,8,"Saturday, July 22",20:30,23:15,-
-Universal City Zone,Comcast Squash Center at Universal Studios,Squash,9,"Sunday, July 23",20:30,23:30,G
-Universal City Zone,Comcast Squash Center at Universal Studios,Squash,10,"Monday, July 24",20:30,23:30,G
-Valley Zone,Valley Complex 1,BMX Freestyle,14,"Friday, July 28",10:30,13:30,-
-Valley Zone,Valley Complex 1,BMX Freestyle,15,"Saturday, July 29",10:30,13:50,G
-Valley Zone,Valley Complex 1,Skateboarding (Street),4,"Tuesday, July 18",17:00,20:10,-
-Valley Zone,Valley Complex 1,Skateboarding (Street),5,"Wednesday, July 19",10:30,13:40,-
-Valley Zone,Valley Complex 1,Skateboarding (Street),5,"Wednesday, July 19",20:30,22:00,G
-Valley Zone,Valley Complex 1,Skateboarding (Street),6,"Thursday, July 20",20:30,22:00,G
-Valley Zone,Valley Complex 2,Modern Pentathlon,1,"Saturday, July 15",09:00,13:30,-
-Valley Zone,Valley Complex 2,Modern Pentathlon,2,"Sunday, July 16",09:00,13:30,-
-Valley Zone,Valley Complex 2,Modern Pentathlon,3,"Monday, July 17",09:00,11:00,G
-Valley Zone,Valley Complex 2,Modern Pentathlon,4,"Tuesday, July 18",09:00,11:00,G
-Valley Zone,Valley Complex 2,Skateboarding (Park),11,"Tuesday, July 25",10:30,13:30,-
-Valley Zone,Valley Complex 2,Skateboarding (Park),11,"Tuesday, July 25",20:00,23:00,-
-Valley Zone,Valley Complex 2,Skateboarding (Park),12,"Wednesday, July 26",20:00,21:15,G
-Valley Zone,Valley Complex 2,Skateboarding (Park),13,"Thursday, July 27",20:00,21:15,G
-Valley Zone,Valley Complex 4,BMX Racing,1,"Saturday, July 15",10:30,12:50,-
-Valley Zone,Valley Complex 4,BMX Racing,2,"Sunday, July 16",10:30,13:00,G
-Carson Zone,Carson Stadium,Rugby Sevens,-2,"Wednesday, July 12",10:00,13:00,-
-Carson Zone,Carson Stadium,Rugby Sevens,-2,"Wednesday, July 12",16:00,19:00,-
-Carson Zone,Carson Stadium,Rugby Sevens,-1,"Thursday, July 13",10:00,13:00,-
-Carson Zone,Carson Stadium,Rugby Sevens,-1,"Thursday, July 13",16:00,19:00,-
-Carson Zone,Carson Stadium,Rugby Sevens,1,"Saturday, July 15",13:00,16:00,-
-Carson Zone,Carson Stadium,Rugby Sevens,1,"Saturday, July 15",19:00,21:30,G
-Carson Zone,Carson Stadium,Rugby Sevens,2,"Sunday, July 16",10:00,13:00,-
-Carson Zone,Carson Stadium,Rugby Sevens,2,"Sunday, July 16",16:00,19:00,-
-Carson Zone,Carson Stadium,Rugby Sevens,3,"Monday, July 17",10:00,13:00,-
-Carson Zone,Carson Stadium,Rugby Sevens,3,"Monday, July 17",16:00,19:00,-
-Carson Zone,Carson Stadium,Rugby Sevens,4,"Tuesday, July 18",13:00,16:00,-
-Carson Zone,Carson Stadium,Rugby Sevens,4,"Tuesday, July 18",19:00,21:30,G
-Carson Zone,Carson Velodrome,Cycling Track,11,"Tuesday, July 25",09:00,10:00,-
-Carson Zone,Carson Velodrome,Cycling Track,11,"Tuesday, July 25",12:00,15:00,G
-Carson Zone,Carson Velodrome,Cycling Track,12,"Wednesday, July 26",08:45,12:15,-
-Carson Zone,Carson Velodrome,Cycling Track,12,"Wednesday, July 26",13:45,16:45,G
-Carson Zone,Carson Velodrome,Cycling Track,13,"Thursday, July 27",11:00,16:05,G
-Carson Zone,Carson Velodrome,Cycling Track,14,"Friday, July 28",09:00,11:20,-
-Carson Zone,Carson Velodrome,Cycling Track,14,"Friday, July 28",13:00,15:15,G
-Carson Zone,Carson Velodrome,Cycling Track,15,"Saturday, July 29",11:00,14:35,G
-Carson Zone,Carson Velodrome,Cycling Track,16,"Sunday, July 30",08:45,12:35,G
-Inglewood Zone,2028 Stadium,Swimming,8,"Saturday, July 22",09:30,11:30,-
-Inglewood Zone,2028 Stadium,Swimming,8,"Saturday, July 22",18:00,20:00,G
-Inglewood Zone,2028 Stadium,Swimming,9,"Sunday, July 23",09:30,11:30,-
-Inglewood Zone,2028 Stadium,Swimming,9,"Sunday, July 23",18:00,20:00,G
-Inglewood Zone,2028 Stadium,Swimming,10,"Monday, July 24",09:30,11:30,-
-Inglewood Zone,2028 Stadium,Swimming,10,"Monday, July 24",18:00,20:00,G
-Inglewood Zone,2028 Stadium,Swimming,11,"Tuesday, July 25",09:30,11:30,-
-Inglewood Zone,2028 Stadium,Swimming,11,"Tuesday, July 25",18:00,20:00,G
-Inglewood Zone,2028 Stadium,Swimming,12,"Wednesday, July 26",09:30,11:30,-
-Inglewood Zone,2028 Stadium,Swimming,12,"Wednesday, July 26",18:00,20:00,G
-Inglewood Zone,2028 Stadium,Swimming,13,"Thursday, July 27",09:30,11:30,-
-Inglewood Zone,2028 Stadium,Swimming,13,"Thursday, July 27",18:00,20:00,G
-Inglewood Zone,2028 Stadium,Swimming,14,"Friday, July 28",09:30,11:30,-
-Inglewood Zone,2028 Stadium,Swimming,14,"Friday, July 28",18:00,20:00,G
-Inglewood Zone,2028 Stadium,Swimming,15,"Saturday, July 29",09:30,11:30,-
-Inglewood Zone,2028 Stadium,Swimming,15,"Saturday, July 29",18:00,20:00,G
-Inglewood Zone,2028 Stadium,Swimming,16,"Sunday, July 30",15:00,16:30,G
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,1,"Saturday, July 15",09:00,12:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,1,"Saturday, July 15",14:00,18:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,1,"Saturday, July 15",20:00,23:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,2,"Sunday, July 16",09:00,12:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,2,"Sunday, July 16",14:00,18:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,2,"Sunday, July 16",20:00,23:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,3,"Monday, July 17",09:00,12:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,3,"Monday, July 17",14:00,18:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,3,"Monday, July 17",20:00,23:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,4,"Tuesday, July 18",09:00,12:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,4,"Tuesday, July 18",14:00,18:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,4,"Tuesday, July 18",20:00,23:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,5,"Wednesday, July 19",09:00,12:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,5,"Wednesday, July 19",14:00,18:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,5,"Wednesday, July 19",20:00,23:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,6,"Thursday, July 20",09:00,12:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,6,"Thursday, July 20",14:00,18:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,6,"Thursday, July 20",20:00,23:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,7,"Friday, July 21",09:00,12:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,7,"Friday, July 21",14:00,18:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,7,"Friday, July 21",20:00,23:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,8,"Saturday, July 22",09:00,11:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,8,"Saturday, July 22",19:00,23:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,9,"Sunday, July 23",09:00,11:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,9,"Sunday, July 23",13:00,15:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,9,"Sunday, July 23",17:00,19:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,9,"Sunday, July 23",21:00,23:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,10,"Monday, July 24",09:00,11:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,10,"Monday, July 24",13:00,15:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,10,"Monday, July 24",17:00,19:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,10,"Monday, July 24",21:00,23:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,11,"Tuesday, July 25",13:00,15:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,11,"Tuesday, July 25",20:00,22:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,12,"Wednesday, July 26",13:00,15:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,12,"Wednesday, July 26",20:00,22:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,13,"Thursday, July 27",13:00,15:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,13,"Thursday, July 27",20:00,22:00,-
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,14,"Friday, July 28",15:30,18:30,G
-Long Beach Zone,Alamitos Beach Stadium,Beach Volleyball,15,"Saturday, July 29",19:00,22:00,G
-Long Beach Zone,Long Beach Climbing Theater,Climbing,10,"Monday, July 24",09:30,11:40,-
-Long Beach Zone,Long Beach Climbing Theater,Climbing,10,"Monday, July 24",13:45,15:25,-
-Long Beach Zone,Long Beach Climbing Theater,Climbing,11,"Tuesday, July 25",09:15,11:25,-
-Long Beach Zone,Long Beach Climbing Theater,Climbing,11,"Tuesday, July 25",18:45,20:00,-
-Long Beach Zone,Long Beach Climbing Theater,Climbing,12,"Wednesday, July 26",09:00,10:30,G
-Long Beach Zone,Long Beach Climbing Theater,Climbing,12,"Wednesday, July 26",18:45,20:00,-
-Long Beach Zone,Long Beach Climbing Theater,Climbing,13,"Thursday, July 27",09:00,10:55,G
-Long Beach Zone,Long Beach Climbing Theater,Climbing,14,"Friday, July 28",09:00,10:55,G
-Long Beach Zone,Long Beach Climbing Theater,Climbing,14,"Friday, July 28",13:45,15:00,G
-Long Beach Zone,Long Beach Climbing Theater,Climbing,15,"Saturday, July 29",09:30,10:45,G
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,2,"Sunday, July 16",10:00,12:30,-
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,3,"Monday, July 17",10:00,12:00,-
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,3,"Monday, July 17",15:30,16:45,G
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,4,"Tuesday, July 18",10:00,12:30,-
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,4,"Tuesday, July 18",15:30,17:30,-
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,5,"Wednesday, July 19",15:30,16:45,G
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,6,"Thursday, July 20",10:00,12:30,-
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,6,"Thursday, July 20",15:30,17:30,-
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,7,"Friday, July 21",10:00,12:30,-
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,7,"Friday, July 21",15:30,16:45,G
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,8,"Saturday, July 22",10:00,12:00,-
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,8,"Saturday, July 22",15:30,16:45,G
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,11,"Tuesday, July 25",11:30,12:30,G
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,12,"Wednesday, July 26",14:00,15:00,G
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,13,"Thursday, July 27",14:00,15:00,G
-Pasadena Zone,Rose Bowl Aquatics Center,Diving,14,"Friday, July 28",16:00,17:00,G
-Anaheim Zone,Honda Center,Volleyball,1,"Saturday, July 15",09:00,11:30,-
-Anaheim Zone,Honda Center,Volleyball,1,"Saturday, July 15",13:00,15:30,-
-Anaheim Zone,Honda Center,Volleyball,1,"Saturday, July 15",17:00,19:30,-
-Anaheim Zone,Honda Center,Volleyball,1,"Saturday, July 15",21:00,23:30,-
-Anaheim Zone,Honda Center,Volleyball,2,"Sunday, July 16",09:00,11:30,-
-Anaheim Zone,Honda Center,Volleyball,2,"Sunday, July 16",13:00,15:30,-
-Anaheim Zone,Honda Center,Volleyball,2,"Sunday, July 16",17:00,19:30,-
-Anaheim Zone,Honda Center,Volleyball,2,"Sunday, July 16",21:00,23:30,-
-Anaheim Zone,Honda Center,Volleyball,3,"Monday, July 17",09:00,11:30,-
-Anaheim Zone,Honda Center,Volleyball,3,"Monday, July 17",13:00,15:30,-
-Anaheim Zone,Honda Center,Volleyball,3,"Monday, July 17",17:00,19:30,-
-Anaheim Zone,Honda Center,Volleyball,3,"Monday, July 17",21:00,23:30,-
-Anaheim Zone,Honda Center,Volleyball,4,"Tuesday, July 18",09:00,11:30,-
-Anaheim Zone,Honda Center,Volleyball,4,"Tuesday, July 18",13:00,15:30,-
-Anaheim Zone,Honda Center,Volleyball,4,"Tuesday, July 18",17:00,19:30,-
-Anaheim Zone,Honda Center,Volleyball,4,"Tuesday, July 18",21:00,23:30,-
-Anaheim Zone,Honda Center,Volleyball,5,"Wednesday, July 19",09:00,11:30,-
-Anaheim Zone,Honda Center,Volleyball,5,"Wednesday, July 19",13:00,15:30,-
-Anaheim Zone,Honda Center,Volleyball,5,"Wednesday, July 19",17:00,19:30,-
-Anaheim Zone,Honda Center,Volleyball,5,"Wednesday, July 19",21:00,23:30,-
-Anaheim Zone,Honda Center,Volleyball,6,"Thursday, July 20",09:00,11:30,-
-Anaheim Zone,Honda Center,Volleyball,6,"Thursday, July 20",13:00,15:30,-
-Anaheim Zone,Honda Center,Volleyball,6,"Thursday, July 20",17:00,19:30,-
-Anaheim Zone,Honda Center,Volleyball,6,"Thursday, July 20",21:00,23:30,-
-Anaheim Zone,Honda Center,Volleyball,7,"Friday, July 21",09:00,11:30,-
-Anaheim Zone,Honda Center,Volleyball,7,"Friday, July 21",13:00,15:30,-
-Anaheim Zone,Honda Center,Volleyball,7,"Friday, July 21",17:00,19:30,-
-Anaheim Zone,Honda Center,Volleyball,7,"Friday, July 21",21:00,23:30,-
-Anaheim Zone,Honda Center,Volleyball,8,"Saturday, July 22",09:00,11:30,-
-Anaheim Zone,Honda Center,Volleyball,8,"Saturday, July 22",13:00,15:30,-
-Anaheim Zone,Honda Center,Volleyball,8,"Saturday, July 22",17:00,19:30,-
-Anaheim Zone,Honda Center,Volleyball,8,"Saturday, July 22",21:00,23:30,-
-Anaheim Zone,Honda Center,Volleyball,9,"Sunday, July 23",09:00,11:30,-
-Anaheim Zone,Honda Center,Volleyball,9,"Sunday, July 23",13:00,15:30,-
-Anaheim Zone,Honda Center,Volleyball,9,"Sunday, July 23",17:00,19:30,-
-Anaheim Zone,Honda Center,Volleyball,9,"Sunday, July 23",21:00,23:30,-
-Anaheim Zone,Honda Center,Volleyball,10,"Monday, July 24",09:00,11:30,-
-Anaheim Zone,Honda Center,Volleyball,10,"Monday, July 24",13:00,15:30,-
-Anaheim Zone,Honda Center,Volleyball,10,"Monday, July 24",17:00,19:30,-
-Anaheim Zone,Honda Center,Volleyball,10,"Monday, July 24",21:00,23:30,-
-Anaheim Zone,Honda Center,Volleyball,11,"Tuesday, July 25",09:00,11:30,-
-Anaheim Zone,Honda Center,Volleyball,11,"Tuesday, July 25",13:00,15:30,-
-Anaheim Zone,Honda Center,Volleyball,11,"Tuesday, July 25",17:00,19:30,-
-Anaheim Zone,Honda Center,Volleyball,11,"Tuesday, July 25",21:00,23:30,-
-Anaheim Zone,Honda Center,Volleyball,12,"Wednesday, July 26",11:00,13:30,-
-Anaheim Zone,Honda Center,Volleyball,12,"Wednesday, July 26",16:00,18:30,-
-Anaheim Zone,Honda Center,Volleyball,13,"Thursday, July 27",11:00,13:30,-
-Anaheim Zone,Honda Center,Volleyball,13,"Thursday, July 27",16:00,18:30,-
-Anaheim Zone,Honda Center,Volleyball,14,"Friday, July 28",20:30,23:00,B
-Anaheim Zone,Honda Center,Volleyball,15,"Saturday, July 29",10:00,13:15,G
-Anaheim Zone,Honda Center,Volleyball,15,"Saturday, July 29",14:45,17:15,B
-Anaheim Zone,Honda Center,Volleyball,16,"Sunday, July 30",10:00,13:15,G
-Arcadia Zone,Santa Anita Park,Equestrian,1,"Saturday, July 15",09:00,11:30,-
-Arcadia Zone,Santa Anita Park,Equestrian,1,"Saturday, July 15",16:30,19:00,-
-Arcadia Zone,Santa Anita Park,Equestrian,2,"Sunday, July 16",09:00,11:30,-
-Arcadia Zone,Santa Anita Park,Equestrian,3,"Monday, July 17",08:00,11:30,-
-Arcadia Zone,Santa Anita Park,Equestrian,4,"Tuesday, July 18",16:30,22:00,G
-Arcadia Zone,Santa Anita Park,Equestrian,6,"Thursday, July 20",09:00,11:45,-
-Arcadia Zone,Santa Anita Park,Equestrian,6,"Thursday, July 20",16:15,19:00,-
-Arcadia Zone,Santa Anita Park,Equestrian,7,"Friday, July 21",09:00,11:45,-
-Arcadia Zone,Santa Anita Park,Equestrian,7,"Friday, July 21",16:15,19:00,-
-Arcadia Zone,Santa Anita Park,Equestrian,8,"Saturday, July 22",09:00,11:45,-
-Arcadia Zone,Santa Anita Park,Equestrian,8,"Saturday, July 22",16:15,19:00,G
-Arcadia Zone,Santa Anita Park,Equestrian,10,"Monday, July 24",08:30,12:00,G
-Arcadia Zone,Santa Anita Park,Equestrian,11,"Tuesday, July 25",09:00,12:00,-
-Arcadia Zone,Santa Anita Park,Equestrian,12,"Wednesday, July 26",09:00,11:10,G
-Arcadia Zone,Santa Anita Park,Equestrian,14,"Friday, July 28",08:00,12:00,-
-Arcadia Zone,Santa Anita Park,Equestrian,15,"Saturday, July 29",09:00,11:00,G
-City of Industry Zone,Industry Hills MTB Course,Mountain Bike,3,"Monday, July 17",11:00,13:30,G
-City of Industry Zone,Industry Hills MTB Course,Mountain Bike,4,"Tuesday, July 18",11:00,13:30,G
+﻿Sport,Venue,Zone,Session Code,,Date,Games Day,Session Type,Session Description,Start Time,End Time
+3x3 Basketball,Valley Complex 3,Valley,BK301,,"Sunday, July 16",2,Preliminary,Men's Pool Round (2 Games) Women's Pool Round (2 Games),14:00,16:00
+3x3 Basketball,Valley Complex 3,Valley,BK302,,"Sunday, July 16",2,Preliminary,"Men's Pool Round (2 Games)
+Women's Pool Round (2 Games)",17:30,19:30
+3x3 Basketball,Valley Complex 3,Valley,BK303,,"Sunday, July 16",2,Preliminary,Men's Pool Round (2 Games) Women's Pool Round (2 Games),21:00,23:00
+3x3 Basketball,Valley Complex 3,Valley,BK304,,"Monday, July 17",3,Preliminary,"Men's Pool Round (2 Games)
+Women's Pool Round (2 Games)",14:00,16:00
+3x3 Basketball,Valley Complex 3,Valley,BK305,,"Monday, July 17",3,Preliminary,Men's Pool Round (2 Games) Women's Pool Round (2 Games),17:30,19:30
+3x3 Basketball,Valley Complex 3,Valley,BK306,,"Monday, July 17",3,Preliminary,"Men's Pool Round (2 Games)
+Women's Pool Round (2 Games)",21:00,23:00
+3x3 Basketball,Valley Complex 3,Valley,BK307,,"Tuesday, July 18",4,Preliminary,Men's Pool Round (2 Games) Women's Pool Round (2 Games),14:00,16:00
+3x3 Basketball,Valley Complex 3,Valley,BK308,,"Tuesday, July 18",4,Preliminary,"Men's Pool Round (2 Games)
+Women's Pool Round (2 Games)",17:30,19:30
+3x3 Basketball,Valley Complex 3,Valley,BK309,,"Tuesday, July 18",4,Preliminary,Men's Pool Round (2 Games) Women's Pool Round (2 Games),21:00,23:00
+3x3 Basketball,Valley Complex 3,Valley,BK310,,"Wednesday, July 19",5,Preliminary,Men's Pool Round (2 Games) Women's Pool Round (2 Games),14:00,16:00
+3x3 Basketball,Valley Complex 3,Valley,BK311,,"Wednesday, July 19",5,Preliminary,"Men's Pool Round (2 Games)
+Women's Pool Round (2 Games)",17:30,19:30
+3x3 Basketball,Valley Complex 3,Valley,BK312,,"Wednesday, July 19",5,Preliminary,Men's Pool Round (2 Games) Women's Pool Round (2 Games),21:00,23:00
+3x3 Basketball,Valley Complex 3,Valley,BK313,,"Thursday, July 20",6,Preliminary,"Men's Pool Round (2 Games)
+Women's Pool Round (2 Games)",14:00,16:00
+3x3 Basketball,Valley Complex 3,Valley,BK314,,"Thursday, July 20",6,Preliminary,Men's Pool Round (2 Games) Women's Pool Round (2 Games),17:30,19:30
+3x3 Basketball,Valley Complex 3,Valley,BK315,,"Thursday, July 20",6,Preliminary,"Men's Pool Round (2 Games)
+Women's Pool Round (2 Games)",21:00,23:00
+3x3 Basketball,Valley Complex 3,Valley,BK316,,"Friday, July 21",7,Preliminary,Men's Play-In (2 Games) Women's Play-In (2 Games),14:00,16:00
+3x3 Basketball,Valley Complex 3,Valley,BK317,,"Friday, July 21",7,Quarterfinal,"Men's Quarterfinal (2 Games)
+Women's Quarterfinal (2 Games)",17:30,19:30
+3x3 Basketball,Valley Complex 3,Valley,BK318,,"Friday, July 21",7,Quarterfinal,Men's Quarterfinal (2 Games) Women's Quarterfinal (2 Games),21:00,23:00
+3x3 Basketball,Valley Complex 3,Valley,BK319,,"Saturday, July 22",8,Semifinal,Men's Semifinal (2 Games) Women's Semifinal (2 Games),17:00,19:00
+3x3 Basketball,Valley Complex 3,Valley,BK320,,"Saturday, July 22",8,Final,Men's Bronze Medal Game Women's Bronze Medal Game Men's Gold Medal Game Women's Gold Medal Game,21:00,23:30
+Archery,N/A,Carson,ARC01,,"Wednesday, July 19",5,N/A,"Not Ticketed
+Women's Compound Qualification Round Men's Recurve Qualification Round",9:30,12:00
+Archery,N/A,Carson,ARC02,,"Wednesday, July 19",5,N/A,"Not Ticketed
+Men's Compound Qualification Round Women's Recurve Qualification Round",13:30,16:30
+Archery,Carson Stadium,Carson,ARC03,,"Friday, July 21",7,Final,"Compound Mixed Team 1/8 Elimination Round Compound Mixed Team Quarterfinal Compound Mixed Team Semifinal
+Compound Mixed Team Bronze Medal Match
+Compound Mixed Team Gold Medal Match",19:30,23:15
+Archery,Carson Stadium,Carson,ARC04,,"Saturday, July 22",8,Preliminary,Recurve Men's Individual 1/32 Elimination Round Recurve Women's Individual 1/32 Elimination Round,9:30,12:35
+Archery,Carson Stadium,Carson,ARC05,,"Saturday, July 22",8,Preliminary,"Recurve Men's Individual 1/32 Elimination Round Recurve Women's Individual 1/32 Elimination Round Recurve Men's Individual 1/16 Elimination Round
+Recurve Women's Individual 1/16 Elimination Round",20:00,22:35
+Archery,Carson Stadium,Carson,ARC06,,"Sunday, July 23",9,Preliminary,Recurve Men's Individual 1/32 Elimination Round Recurve Women's Individual 1/32 Elimination Round Recurve Men's Individual 1/16 Elimination Round Recurve Women's Individual 1/16 Elimination Round,9:30,12:35
+Archery,Carson Stadium,Carson,ARC07,,"Sunday, July 23",9,Preliminary,Recurve Men's Individual 1/32 Elimination Round Recurve Women's Individual 1/32 Elimination Round Recurve Men's Individual 1/16 Elimination Round Recurve Women's Individual 1/16 Elimination Round,20:00,22:35
+Archery,Carson Stadium,Carson,ARC08,,"Monday, July 24",10,Preliminary,Recurve Women's Individual 1/32 Elimination Round Recurve Women's Individual 1/16 Elimination Round,10:30,12:40
+Archery,Carson Stadium,Carson,ARC09,,"Monday, July 24",10,Final,"Recurve Men's Team Quarterfinal Recurve Men's Team Semifinal
+Recurve Men's Team Bronze Medal Match
+Recurve Men's Team Gold Medal Match",19:30,23:10
+Archery,Carson Stadium,Carson,ARC10,,"Tuesday, July 25",11,Preliminary,"Recurve Men's Individual 1/32 Elimination Round
+Recurve Men's Individual 1/16 Elimination Round",10:30,12:40
+Archery,Carson Stadium,Carson,ARC11,,"Tuesday, July 25",11,Final,"Recurve Women's Team Quarterfinal Recurve Women's Team Semifinal
+Recurve Women's Team Bronze Medal Match
+Recurve Women's Team Gold Medal Match",19:30,23:10
+Archery,Carson Stadium,Carson,ARC12,,"Wednesday, July 26",12,Preliminary,Recurve Mixed team 1/8 Elimination Round,10:30,13:05
+Archery,Carson Stadium,Carson,ARC13,,"Wednesday, July 26",12,Final,"Recurve Mixed Team Quarterfinal Recurve Mixed Team Semifinal
+Recurve Mixed Team Bronze Medal Match
+Recurve Mixed Team Gold Medal Match",20:00,23:10
+Archery,Carson Stadium,Carson,ARC14,,"Thursday, July 27",13,Preliminary,Recurve Men's Individual 1/8 Elimination Round,10:30,12:15
+Archery,Carson Stadium,Carson,ARC15,,"Thursday, July 27",13,Final,"Recurve Men's Individual Quarterfinal Recurve Men's Individual Semifinal
+Recurve Men's Individual Bronze Medal Match
+Recurve Men's Individual Gold Medal Match",20:30,22:50
+Archery,Carson Stadium,Carson,ARC16,,"Friday, July 28",14,Preliminary,Recurve Women's Individual 1/8 Elimination Round,9:30,11:15
+Archery,Carson Stadium,Carson,ARC17,,"Friday, July 28",14,Final,"Recurve Women's Individual Quarterfinal Recurve Women's Individual Semifinal
+Recurve Women's Individual Bronze Medal Match
+Recurve Women's Individual Gold Medal Match",20:30,22:50
+Artistic Gymnastics,DTLA Arena,DTLA,GAR01,,"Saturday, July 15",1,Preliminary,Men's Qualification 1,11:30,14:00
+Artistic Gymnastics,DTLA Arena,DTLA,GAR02,,"Saturday, July 15",1,Preliminary,Men's Qualification 2,15:30,18:00
+Artistic Gymnastics,DTLA Arena,DTLA,GAR03,,"Saturday, July 15",1,Preliminary,Men's Qualification 3,19:30,22:00
+Artistic Gymnastics,DTLA Arena,DTLA,GAR04,,"Sunday, July 16",2,Preliminary,Women's Qualification 1 and 2,9:45,13:35
+Artistic Gymnastics,DTLA Arena,DTLA,GAR05,,"Sunday, July 16",2,Preliminary,Women's Qualification 3,15:05,16:45
+Artistic Gymnastics,DTLA Arena,DTLA,GAR06,,"Sunday, July 16",2,Preliminary,Women's Qualification 4,18:15,19:55
+Artistic Gymnastics,DTLA Arena,DTLA,GAR07,,"Sunday, July 16",2,Preliminary,Women's Qualification 5,21:25,23:05
+Artistic Gymnastics,DTLA Arena,DTLA,GAR08,,"Monday, July 17",3,Final,Men's Team Final,17:15,20:30
+Artistic Gymnastics,DTLA Arena,DTLA,GAR09,,"Tuesday, July 18",4,Final,Women's Team Final,18:00,20:30
+Artistic Gymnastics,DTLA Arena,DTLA,GAR10,,"Wednesday, July 19",5,Final,Men's All-Around Final,18:00,20:30
+Artistic Gymnastics,DTLA Arena,DTLA,GAR11,,"Thursday, July 20",6,Final,Women's All-Around Final,18:00,20:30
+Artistic Gymnastics,DTLA Arena,DTLA,GAR12,,"Saturday, July 22",8,Final,Men's/Women's Apparatus Finals,11:30,14:15
+Artistic Gymnastics,DTLA Arena,DTLA,GAR13,,"Sunday, July 23",9,Final,Men's/Women's Apparatus Finals,11:00,13:45
+Artistic Gymnastics,DTLA Arena,DTLA,GAR14,,"Monday, July 24",10,Final,Men's/Women's Apparatus Finals,11:00,14:30
+Artistic Gymnastics,DTLA Arena,DTLA,GAR15,,"Tuesday, July 25",11,Final,"Mixed Team Final
+(Format and Duration Pending FIG Executive Committee Approval)",16:00,18:30
+Artistic Swimming,Long Beach Aquatics Center,Long Beach,SWA01,,"Tuesday, July 25",11,Preliminary,Women's Duet Technical,11:00,13:00
+Artistic Swimming,Long Beach Aquatics Center,Long Beach,SWA02,,"Wednesday, July 26",12,Final,Women's Duet Free,11:00,13:15
+Artistic Swimming,Long Beach Aquatics Center,Long Beach,SWA03,,"Thursday, July 27",13,Preliminary,Open Team Technical,11:00,12:30
+Artistic Swimming,Long Beach Aquatics Center,Long Beach,SWA04,,"Friday, July 28",14,Preliminary,Open Team Free,11:00,12:30
+Artistic Swimming,Long Beach Aquatics Center,Long Beach,SWA05,,"Saturday, July 29",15,Final,Open Team Acrobatic,10:45,12:30
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH01,,"Saturday, July 15",1,Preliminary,"Women's 100m Preliminary Men's 100m Preliminary
+Women's Shot Put Qualification A and B Women's 5000m Round 1
+Men's Pole Vault Qualification A and B Women's 800m Round 1
+Women's Hammer Throw Qualification A and B Women's 100m Round 1
+Men's 100m Round 1",9:00,13:30
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH02,,"Saturday, July 15",1,Final,"Men's 400m Hurdles Round 1
+Men's High Jump Qualification A and B Men's Discus Throw Qualification A and B Women's Triple Jump Qualification A and B Women's 100m Semifinal
+Women's 400m Hurdles Round 1 Women's Shot Put Final
+Men's 10,000m Final
+Women's 100m Final",17:00,20:15
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH03,,"Sunday, July 16",2,Preliminary,"Men's Decathlon 100m Heats
+Women's Discus Throw Qualification A and B Men's Shot Put Qualification A and B
+Men's Decathlon Long Jump A and B Women's 800m Repechage
+Mixed 4x400m Relay Round 1
+Men's Long Jump Qualification A and B Men's Decathlon Shot Put A and B",9:00,12:00
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH04,,"Sunday, July 16",2,Final,"Men's Decathlon High Jump A and B Men's Shot Put Final
+Men's 1500m Round 1 Men's 100m Semifinal
+Women's Hammer Throw Final Mixed 4x400m Relay Final Men's Decathlon 400m Heats
+Men's 100m Final",15:15,18:55
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH05,,"Monday, July 17",3,Final,"Men's Decathlon 110m Hurdles Heats Women's 3000m Steeplechase Round 1 Men's Decathlon Discus Throw A and B Men's 400m Round 1
+Women's Triple Jump Final Men's 400m Hurdles Repechage
+Men's Decathlon Pole Vault A and B
+Women's 400m Hurdles Repechage",9:00,14:00
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH06,,"Monday, July 17",3,Final,"Men's Pole Vault Final
+Men's Decathlon Javelin Throw A and B Mixed 4x100m Relay Round 1
+Men's 1500m Repechage Women's 800m Semifinal Mixed 4x100m Relay Final
+Men's Decathlon 1500m Final",16:30,19:30
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH07,,"Tuesday, July 18",4,Preliminary,"Women's Pole Vault Qualification A and B Men's 3000m Steeplechase Round 1 Women's 400m Round 1
+Men's Triple Jump Qualification A and B
+Men's 110m Hurdles Round 1",9:30,12:10
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH08,,"Tuesday, July 18",4,Final,"Men's 200m Round 1 Men's High Jump Final Men's Discus Throw Final Women's 5000m Final
+Men's 400m Hurdles Semifinal Men's 1500m Semifinal
+Women's 400m Hurdles Semifinal
+Women's 800m Final",15:50,18:50
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH09,,"Wednesday, July 19",5,Final,"Men's Hammer Throw Qualification A and B Women's 400m Repechage
+Men's 400m Repechage
+Women's Long Jump Qualification A and B Men's 200m Repechage
+Women's 3000m Steeplechase Final",9:35,12:00
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH10,,"Wednesday, July 19",5,Final,"Men's 110m Hurdles Repechage Women's Discus Throw Final Women's 1500m Round 1
+Men's Long Jump Final Women's 200m Round 1 Men's 1500m Final
+Men's 400m Hurdles Final",16:00,18:40
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH11,,"Thursday, July 20",6,Final,"Women's Javelin Throw Qualification A and B Women's High Jump Qualification A and B Men's 800m Round 1
+Women's 200m Repechage
+Men's 3000m Steeplechase Final",9:30,12:00
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH12,,"Thursday, July 20",6,Final,"Women's Pole Vault Final Women's 1500m Repechage Men's Hammer Throw Final Women's 400m Semifinal Men's 400m Semifinal
+Men's 110m Hurdles Semifinal
+Men's 200m Semifinal Women's 400m Hurdles Final",15:30,18:30
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH13,,"Friday, July 21",7,Final,"Women's Heptathlon 100m Hurdles Heats Men's 5000m Round 1
+Women's Heptathlon High Jump A and B Women's 100m Hurdles Round 1
+Men's Triple Jump Final
+Men's 800m Repechage",9:35,12:25
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH14,,"Friday, July 21",7,Final,"Women's Heptathlon Shot Put A and B Men's Javelin Throw Qualification A and B Women's 1500m Semifinal
+Women's 200m Semifinal Women's Heptathlon 200m Heats Women's 10,000m Final
+Men's 110m Hurdles Final
+Men's 200m Final",16:15,19:20
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH15,,"Saturday, July 22",8,Final,"Women's Heptathlon Long Jump A and B Women's 100m Hurdles Repechage Women's Heptathlon Javelin Throw A and B Men's 800m Semifinal
+Women's Long Jump Final Men's 4x100m Relay Round 1 Women's 400m Final
+Men's 400m Final
+Women's Heptathlon 800m Final Women's 200m Final",14:05,18:15
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH16,,"Sunday, July 23",9,Final,"Women's 4x400m Relay Round 1 Women's High Jump Final
+Men's 4x400m Relay Round 1 Women's Javelin Throw Final Women's 4x100m Relay Round 1 Women's 100m Hurdles Semifinal Men's 800m Final
+Women's 1500m Final
+Men's 4x100m Relay Final",15:40,18:15
+Athletics (Track & Field),LA Memorial Coliseum,Exposition Park,ATH17,,"Monday, July 24",10,Final,"Men's Javelin Throw Final Women's 4x100m Relay Final Men's 5000m Final
+Women's 100m Hurdles Final Men's 4x400m Relay Final
+Women's 4x400 Relay Final",16:25,18:15
+Athletics (Race Walk),TBD,TBD,ATH18,,"Thursday, July 27",13,Final,Men's Half-Marathon Race Walk Women's Half-Marathon Race Walk,7:30,11:35
+Athletics (Marathon),Venice Beach Boardwalk - Start,Venice,ATH19,,"Saturday, July 29",15,Final,Women's Marathon,7:15,10:15
+Athletics (Marathon),Venice Beach Boardwalk - Start,Venice,ATH20,,"Sunday, July 30",16,Final,Men's Marathon,7:15,10:15
+Badminton,Galen Center,Exposition Park,BDM01,,"Saturday, July 15",1,Preliminary,Men's Doubles Group Play Stage Women's Doubles Group Play Stage Mixed Doubles Group Play Stage Men's Singles Group Play Stage Women's Singles Group Play Stage,8:00,12:15
+Badminton,Galen Center,Exposition Park,BDM02,,"Saturday, July 15",1,Preliminary,"Men's Doubles Group Play Stage Women's Doubles Group Play Stage Mixed Doubles Group Play Stage
+Women's Singles Group Play Stage",14:00,16:35
+Badminton,Galen Center,Exposition Park,BDM03,,"Saturday, July 15",1,Preliminary,"Men's Doubles Group Play Stage Women's Doubles Group Play Stage Men's Singles Group Play Stage
+Women's Singles Group Play Stage",18:30,23:05
+Badminton,Galen Center,Exposition Park,BDM04,,"Sunday, July 16",2,Preliminary,Men's Doubles Group Play Stage Women's Doubles Group Play Stage Mixed Doubles Group Play Stage Men's Singles Group Play Stage Women's Singles Group Play Stage,8:00,11:25
+Badminton,Galen Center,Exposition Park,BDM05,,"Sunday, July 16",2,Preliminary,Men's Doubles Group Play Stage Women's Doubles Group Play Stage Mixed Doubles Group Play Stage Men's Singles Group Play Stage Women's Singles Group Play Stage,14:00,16:35
+Badminton,Galen Center,Exposition Park,BDM06,,"Sunday, July 16",2,Preliminary,Men's Doubles Group Play Stage Women's Doubles Group Play Stage Mixed Doubles Group Play Stage Men's Singles Group Play Stage Women's Singles Group Play Stage,18:00,23:05
+Badminton,Galen Center,Exposition Park,BDM07,,"Monday, July 17",3,Preliminary,"Men's Doubles Group Play Stage Women's Doubles Group Play Stage Mixed Doubles Group Play Stage Men's Singles Group Play Stage
+Women's Singles Group Play Stage",8:00,11:25
+Badminton,Galen Center,Exposition Park,BDM08,,"Monday, July 17",3,Preliminary,Men's Doubles Group Play Stage Women's Doubles Group Play Stage Mixed Doubles Group Play Stage Men's Singles Group Play Stage Women's Singles Group Play Stage,14:00,16:35
+Badminton,Galen Center,Exposition Park,BDM09,,"Monday, July 17",3,Preliminary,Men's Doubles Group Play Stage Women's Doubles Group Play Stage Mixed Doubles Group Play Stage Men's Singles Group Play Stage Women's Singles Group Play Stage,19:00,23:05
+Badminton,Galen Center,Exposition Park,BDM10,,"Tuesday, July 18",4,Preliminary,Men's Doubles Group Play Stage Women's Doubles Group Play Stage Men's Singles Group Play Stage Women's Singles Group Play Stage,8:00,11:25
+Badminton,Galen Center,Exposition Park,BDM11,,"Tuesday, July 18",4,Preliminary,Men's Doubles Group Play Stage Women's Doubles Group Play Stage Women's Singles Group Play Stage,14:00,16:35
+Badminton,Galen Center,Exposition Park,BDM12,,"Tuesday, July 18",4,Preliminary,Men's Doubles Group Play Stage Women's Doubles Group Play Stage Men's Singles Group Play Stage Women's Singles Group Play Stage,19:00,23:05
+Badminton,Galen Center,Exposition Park,BDM13,,"Wednesday, July 19",5,Quarterfinal,"Mixed Doubles Quarterfinal Men's Singles Group Play Stage
+Women's Singles Group Play Stage",8:00,11:45
+Badminton,Galen Center,Exposition Park,BDM14,,"Wednesday, July 19",5,Preliminary,"Men's Singles Group Play Stage
+Women's Singles Group Play Stage",14:00,16:35
+Badminton,Galen Center,Exposition Park,BDM15,,"Wednesday, July 19",5,Preliminary,Men's Singles Group Play Stage Women's Singles Group Play Stage,19:00,23:05
+Badminton,Galen Center,Exposition Park,BDM16,,"Thursday, July 20",6,Semifinal,Mixed Doubles Semifinal Women's Doubles Quarterfinal Women's Singles Round of 16,8:00,12:25
+Badminton,Galen Center,Exposition Park,BDM17,,"Thursday, July 20",6,Preliminary,"Men's Singles Round of 16
+Women's Singles Round of 16",14:00,17:25
+Badminton,Galen Center,Exposition Park,BDM18,,"Thursday, July 20",6,Quarterfinal,Men's Doubles Quarterfinal Men's Singles Round of 16,20:00,23:25
+Badminton,Galen Center,Exposition Park,BDM19,,"Friday, July 21",7,Final,"Mixed Doubles Gold Medal Match
+Mixed Doubles Bronze Medal Match Women's Doubles Semifinal",8:00,13:05
+Badminton,Galen Center,Exposition Park,BDM20,,"Friday, July 21",7,Semifinal,"Men's Singles Quarterfinal
+Men's Doubles Semifinal",16:00,23:05
+Badminton,Galen Center,Exposition Park,BDM21,,"Saturday, July 22",8,Final,Women's Doubles Gold Medal Match Women's Doubles Bronze Medal Match,8:00,10:45
+Badminton,Galen Center,Exposition Park,BDM22,,"Saturday, July 22",8,Quarterfinal,Women's Singles Quarterfinal,18:30,23:15
+Badminton,Galen Center,Exposition Park,BDM23,,"Sunday, July 23",9,Final,Men's Doubles Gold Medal Match Men's Singles Semifinal,8:00,11:35
+Badminton,Galen Center,Exposition Park,BDM24,,"Sunday, July 23",9,Bronze,"Women's Singles Semifinal
+Men's Doubles Bronze Medal Match",19:30,23:25
+Badminton,Galen Center,Exposition Park,BDM25,,"Monday, July 24",10,Final,Men's Singles Gold Medal Match Men's Singles Bronze Medal Match,8:00,10:45
+Badminton,Galen Center,Exposition Park,BDM26,,"Monday, July 24",10,Final,"Women's Singles Bronze Medal Match
+Women's Singles Gold Medal Match",20:30,23:15
+Baseball,Dodger Stadium,DTLA,BSB01,,"Thursday, July 13",-1,Preliminary,Men's Opening Round,11:00,14:00
+Baseball,Dodger Stadium,DTLA,BSB02,,"Thursday, July 13",-1,Preliminary,Men's Opening Round,19:00,22:00
+Baseball,Dodger Stadium,DTLA,BSB03,,"Saturday, July 15",1,Preliminary,Men's Opening Round,11:00,14:00
+Baseball,Dodger Stadium,DTLA,BSB04,,"Saturday, July 15",1,Preliminary,Men's Opening Round,19:00,22:00
+Baseball,Dodger Stadium,DTLA,BSB05,,"Sunday, July 16",2,Preliminary,Men's Opening Round,11:00,14:00
+Baseball,Dodger Stadium,DTLA,BSB06,,"Sunday, July 16",2,Preliminary,Men's Opening Round,19:00,22:00
+Baseball,Dodger Stadium,DTLA,BSB07,,"Monday, July 17",3,Preliminary,Men's Quarterfinal,11:00,14:00
+Baseball,Dodger Stadium,DTLA,BSB08,,"Monday, July 17",3,Preliminary,Men's Quarterfinal,19:00,22:00
+Baseball,Dodger Stadium,DTLA,BSB09,,"Tuesday, July 18",4,Semifinal,Men's Semifinal,11:00,14:00
+Baseball,Dodger Stadium,DTLA,BSB10,,"Tuesday, July 18",4,Semifinal,Men's Semifinal,19:00,22:00
+Baseball,Dodger Stadium,DTLA,BSB11,,"Wednesday, July 19",5,Bronze,Men's Bronze Medal Game,11:00,14:00
+Baseball,Dodger Stadium,DTLA,BSB12,,"Wednesday, July 19",5,Final,Men's Gold Medal Game,19:00,22:30
+Softball,OKC Softball Park,OKC,BSB13,,"Sunday, July 23",9,Preliminary,Women's Preliminary Round,"9:00
+OKC Local Time (CT)","11:30
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB14,,"Sunday, July 23",9,Preliminary,Women's Preliminary Round,"16:00
+OKC Local Time (CT)","18:30
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB15,,"Sunday, July 23",9,Preliminary,Women's Preliminary Round,"20:30
+OKC Local Time (CT)","23:00
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB16,,"Monday, July 24",10,Preliminary,Women's Preliminary Round,"9:00
+OKC Local Time (CT)","11:30
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB17,,"Monday, July 24",10,Preliminary,Women's Preliminary Round,"16:00
+OKC Local Time (CT)","18:30
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB18,,"Monday, July 24",10,Preliminary,Women's Preliminary Round,"20:30
+OKC Local Time (CT)","23:00
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB19,,"Tuesday, July 25",11,Preliminary,Women's Preliminary Round,"9:00
+OKC Local Time (CT)","11:30
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB20,,"Tuesday, July 25",11,Preliminary,Women's Preliminary Round,"16:00
+OKC Local Time (CT)","18:30
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB21,,"Tuesday, July 25",11,Preliminary,Women's Preliminary Round,"20:30
+OKC Local Time (CT)","23:00
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB22,,"Wednesday, July 26",12,Preliminary,Women's Preliminary Round,"9:00
+OKC Local Time (CT)","11:30
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB23,,"Wednesday, July 26",12,Preliminary,Women's Preliminary Round,"16:00
+OKC Local Time (CT)","18:30
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB24,,"Wednesday, July 26",12,Preliminary,Women's Preliminary Round,"20:30
+OKC Local Time (CT)","23:00
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB25,,"Thursday, July 27",13,Preliminary,Women's Preliminary Round,"9:00
+OKC Local Time (CT)","11:30
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB26,,"Thursday, July 27",13,Preliminary,Women's Preliminary Round,"16:00
+OKC Local Time (CT)","18:30
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB27,,"Thursday, July 27",13,Preliminary,Women's Preliminary Round,"20:30
+OKC Local Time (CT)","23:00
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB28,,"Friday, July 28",14,Bronze,Women's Bronze Medal Game,"19:00
+OKC Local Time (CT)","21:30
+OKC Local Time (CT)"
+Softball,OKC Softball Park,OKC,BSB29,,"Saturday, July 29",15,Final,Women's Gold Medal Game,"9:00
+OKC Local Time (CT)","11:45
+OKC Local Time (CT)"
+Basketball,Intuit Dome,Inglewood,BKB01,,"Wednesday, July 12",-2,Preliminary,Women's Group Phase (2 Games),12:00,16:15
+Basketball,Intuit Dome,Inglewood,BKB02,,"Wednesday, July 12",-2,Preliminary,Women's Group Phase,18:00,19:45
+Basketball,Intuit Dome,Inglewood,BKB03,,"Wednesday, July 12",-2,Preliminary,Women's Group Phase,21:30,23:15
+Basketball,Intuit Dome,Inglewood,BKB04,,"Thursday, July 13",-1,Preliminary,Men's Group Phase (2 Games),12:00,16:15
+Basketball,Intuit Dome,Inglewood,BKB05,,"Thursday, July 13",-1,Preliminary,Women's Group Phase,18:00,19:45
+Basketball,Intuit Dome,Inglewood,BKB06,,"Thursday, July 13",-1,Preliminary,Women's Group Phase,21:30,23:15
+Basketball,Intuit Dome,Inglewood,BKB07,,"Saturday, July 15",1,Preliminary,Men's Group Phase (2 Games),12:00,16:15
+Basketball,Intuit Dome,Inglewood,BKB08,,"Saturday, July 15",1,Preliminary,Men's Group Phase,18:00,19:45
+Basketball,Intuit Dome,Inglewood,BKB09,,"Saturday, July 15",1,Preliminary,Men's Group Phase,21:30,23:15
+Basketball,Intuit Dome,Inglewood,BKB10,,"Sunday, July 16",2,Preliminary,Women's Group Phase (2 Games),12:00,16:15
+Basketball,Intuit Dome,Inglewood,BKB11,,"Sunday, July 16",2,Preliminary,Women's Group Phase,18:00,19:45
+Basketball,Intuit Dome,Inglewood,BKB12,,"Sunday, July 16",2,Preliminary,Women's Group Phase,21:30,23:15
+Basketball,Intuit Dome,Inglewood,BKB13,,"Monday, July 17",3,Preliminary,Women's Group Phase (2 Games),12:00,16:15
+Basketball,Intuit Dome,Inglewood,BKB14,,"Monday, July 17",3,Preliminary,Men's Group Phase,18:00,19:45
+Basketball,Intuit Dome,Inglewood,BKB15,,"Monday, July 17",3,Preliminary,Men's Group Phase,21:30,23:15
+Basketball,Intuit Dome,Inglewood,BKB16,,"Tuesday, July 18",4,Preliminary,Men's Group Phase (2 Games),12:00,16:15
+Basketball,Intuit Dome,Inglewood,BKB17,,"Tuesday, July 18",4,Preliminary,Men's Group Phase,18:00,19:45
+Basketball,Intuit Dome,Inglewood,BKB18,,"Tuesday, July 18",4,Preliminary,Men's Group Phase,21:30,23:15
+Basketball,Intuit Dome,Inglewood,BKB19,,"Wednesday, July 19",5,Preliminary,Women's Group Phase (2 Games),12:00,16:15
+Basketball,Intuit Dome,Inglewood,BKB20,,"Wednesday, July 19",5,Preliminary,Women's Group Phase,18:00,19:45
+Basketball,Intuit Dome,Inglewood,BKB21,,"Wednesday, July 19",5,Preliminary,Women's Group Phase,21:30,23:15
+Basketball,Intuit Dome,Inglewood,BKB22,,"Thursday, July 20",6,Preliminary,Women's Group Phase (2 Games),12:00,16:15
+Basketball,Intuit Dome,Inglewood,BKB23,,"Thursday, July 20",6,Preliminary,Men's Group Phase,18:00,19:45
+Basketball,Intuit Dome,Inglewood,BKB24,,"Thursday, July 20",6,Preliminary,Men's Group Phase,21:30,23:15
+Basketball,Intuit Dome,Inglewood,BKB25,,"Friday, July 21",7,Preliminary,Men's Group Phase (2 Games),12:00,16:15
+Basketball,Intuit Dome,Inglewood,BKB26,,"Friday, July 21",7,Preliminary,Men's Group Phase,18:00,19:45
+Basketball,Intuit Dome,Inglewood,BKB27,,"Friday, July 21",7,Preliminary,Men's Group Phase,21:30,23:15
+Basketball,Intuit Dome,Inglewood,BKB28,,"Saturday, July 22",8,Quarterfinal,Women's Quarterfinal,13:00,15:00
+Basketball,Intuit Dome,Inglewood,BKB29,,"Saturday, July 22",8,Quarterfinal,Women's Quarterfinal,20:00,22:00
+Basketball,Intuit Dome,Inglewood,BKB30,,"Sunday, July 23",9,Quarterfinal,Women's Quarterfinal,13:00,15:00
+Basketball,Intuit Dome,Inglewood,BKB31,,"Sunday, July 23",9,Quarterfinal,Women's Quarterfinal,20:00,22:00
+Basketball,Intuit Dome,Inglewood,BKB32,,"Monday, July 24",10,Quarterfinal,Men's Quarterfinal,13:00,15:00
+Basketball,Intuit Dome,Inglewood,BKB33,,"Monday, July 24",10,Quarterfinal,Men's Quarterfinal,20:00,22:00
+Basketball,Intuit Dome,Inglewood,BKB34,,"Tuesday, July 25",11,Quarterfinal,Men's Quarterfinal,13:00,15:00
+Basketball,Intuit Dome,Inglewood,BKB35,,"Tuesday, July 25",11,Quarterfinal,Men's Quarterfinal,20:00,22:00
+Basketball,Intuit Dome,Inglewood,BKB36,,"Wednesday, July 26",12,Semifinal,Women's Semifinal,16:00,18:00
+Basketball,Intuit Dome,Inglewood,BKB37,,"Wednesday, July 26",12,Semifinal,Women's Semifinal,21:30,23:30
+Basketball,Intuit Dome,Inglewood,BKB38,,"Thursday, July 27",13,Semifinal,Men's Semifinal,16:00,18:00
+Basketball,Intuit Dome,Inglewood,BKB39,,"Thursday, July 27",13,Semifinal,Men's Semifinal,21:30,23:30
+Basketball,Intuit Dome,Inglewood,BKB40,,"Friday, July 28",14,Bronze,Women's Bronze Medal Game,16:00,18:00
+Basketball,Intuit Dome,Inglewood,BKB41,,"Saturday, July 29",15,Bronze,Men's Bronze Medal Game,12:00,14:00
+Basketball,Intuit Dome,Inglewood,BKB42,,"Saturday, July 29",15,Final,Women's Gold Medal Game,16:00,18:15
+Basketball,Intuit Dome,Inglewood,BKB43,,"Sunday, July 30",16,Final,Men's Gold Medal Game,12:45,15:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV01,,"Saturday, July 15",1,Preliminary,Men's and/or Women's Preliminaries (3 Matches),9:00,12:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV02,,"Saturday, July 15",1,Preliminary,Men's and/or Women's Preliminaries (4 Matches),14:00,18:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV03,,"Saturday, July 15",1,Preliminary,Men's and/or Women's Preliminaries (3 Matches),20:00,23:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV04,,"Sunday, July 16",2,Preliminary,Men's and/or Women's Preliminaries (3 Matches),9:00,12:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV05,,"Sunday, July 16",2,Preliminary,Men's and/or Women's Preliminaries (4 Matches),14:00,18:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV06,,"Sunday, July 16",2,Preliminary,Men's and/or Women's Preliminaries (3 Matches),20:00,23:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV07,,"Monday, July 17",3,Preliminary,Men's and/or Women's Preliminaries (3 Matches),9:00,12:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV08,,"Monday, July 17",3,Preliminary,Men's and/or Women's Preliminaries (4 Matches),14:00,18:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV09,,"Monday, July 17",3,Preliminary,Men's and/or Women's Preliminaries (3 Matches),20:00,23:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV10,,"Tuesday, July 18",4,Preliminary,Men's and/or Women's Preliminaries (3 Matches),9:00,12:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV11,,"Tuesday, July 18",4,Preliminary,Men's and/or Women's Preliminaries (4 Matches),14:00,18:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV12,,"Tuesday, July 18",4,Preliminary,Men's and/or Women's Preliminaries (3 Matches),20:00,23:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV13,,"Wednesday, July 19",5,Preliminary,Men's and/or Women's Preliminaries (3 Matches),9:00,12:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV14,,"Wednesday, July 19",5,Preliminary,Men's and/or Women's Preliminaries (4 Matches),14:00,18:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV15,,"Wednesday, July 19",5,Preliminary,Men's and/or Women's Preliminaries (3 Matches),20:00,23:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV16,,"Thursday, July 20",6,Preliminary,Men's and/or Women's Preliminaries (3 Matches),9:00,12:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV17,,"Thursday, July 20",6,Preliminary,Men's and/or Women's Preliminaries (4 Matches),14:00,18:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV18,,"Thursday, July 20",6,Preliminary,Men's and/or Women's Preliminaries (3 Matches),20:00,23:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV19,,"Friday, July 21",7,Preliminary,Men's and/or Women's Preliminaries (3 Matches),9:00,12:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV20,,"Friday, July 21",7,Preliminary,Men's and/or Women's Preliminaries (4 Matches),14:00,18:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV21,,"Friday, July 21",7,Preliminary,Men's and/or Women's Preliminaries (3 Matches),20:00,23:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV22,,"Saturday, July 22",8,Preliminary,Men's and/or Women's Preliminaries (2 Matches),9:00,11:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV23,,"Saturday, July 22",8,Preliminary,Men's and/or Women's Preliminaries (4 Matches),19:00,23:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV24,,"Sunday, July 23",9,Preliminary,Men's or Women's Round of 16 (2 Matches),9:00,11:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV25,,"Sunday, July 23",9,Preliminary,Men's or Women's Round of 16 (2 Matches),13:00,15:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV26,,"Sunday, July 23",9,Preliminary,Men's or Women's Round of 16 (2 Matches),17:00,19:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV27,,"Sunday, July 23",9,Preliminary,Men's or Women's Round of 16 (2 Matches),21:00,23:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV28,,"Monday, July 24",10,Preliminary,Men's or Women's Round of 16 (2 Matches),9:00,11:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV29,,"Monday, July 24",10,Preliminary,Men's or Women's Round of 16 (2 Matches),13:00,15:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV30,,"Monday, July 24",10,Preliminary,Men's or Women's Round of 16 (2 Matches),17:00,19:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV31,,"Monday, July 24",10,Preliminary,Men's or Women's Round of 16 (2 Matches),21:00,23:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV32,,"Tuesday, July 25",11,Quarterfinal,Men's Quarterfinal Women's Quarterfinal,13:00,15:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV33,,"Tuesday, July 25",11,Quarterfinal,"Men's Quarterfinal
+Women's Quarterfinal",20:00,22:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV34,,"Wednesday, July 26",12,Quarterfinal,Men's Quarterfinal Women's Quarterfinal,13:00,15:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV35,,"Wednesday, July 26",12,Quarterfinal,"Men's Quarterfinal
+Women's Quarterfinal",20:00,22:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV36,,"Thursday, July 27",13,Semifinal,Men's Semifinal Women's Semifinal,13:00,15:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV37,,"Thursday, July 27",13,Semifinal,"Men's Semifinal
+Women's Semifinal",20:00,22:00
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV38,,"Friday, July 28",14,Final,Women's Bronze Medal Match Women's Gold Medal Match,15:30,18:30
+Beach Volleyball,Alamitos Beach Stadium,Long Beach,VBV39,,"Saturday, July 29",15,Final,Men's Bronze Medal Match Men's Gold Medal match,19:00,22:00
+BMX Freestyle,Valley Complex 1,Valley,BMF01,,"Friday, July 28",14,Preliminary,"Men's Park Qualification
+Women's Park Qualification",10:30,13:30
+BMX Freestyle,Valley Complex 1,Valley,BMF02,,"Saturday, July 29",15,Final,Men's Park Final Women's Park Final,10:30,13:50
+BMX Racing,Valley Complex 4,Valley,BMX01,,"Saturday, July 15",1,Quarterfinal,Men's Quarterfinal Women's Quarterfinal Men's Last Chance Women's Last Chance,10:30,12:50
+BMX Racing,Valley Complex 4,Valley,BMX02,,"Sunday, July 16",2,Final,Men's Semifinal Women's Semifinal Men's Final Women's Final,10:30,13:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX01,,"Saturday, July 15",1,Preliminary,"Women's 54kg Round of 32 Women's 60kg Round of 32 Women's 65kg Round of 32 Men's 55kg Round of 32 Men's 65kg Round of 32
+Men's +90kg Round of 16",12:00,14:30
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX02,,"Saturday, July 15",1,Preliminary,Women's 54kg Round of 32 Women's 60kg Round of 32 Women's 65kg Round of 32 Men's 55kg Round of 32 Men's 65kg Round of 32 Men's +90kg Round of 16,19:00,21:30
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX03,,"Sunday, July 16",2,Preliminary,Women's 51kg Round of 32 Women's 70kg Round of 16 Men's 60kg Round of 32 Men's 70kg Round of 32 Men's 90kg Round of 16,12:00,15:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX04,,"Sunday, July 16",2,Preliminary,Women's 51kg Round of 32 Women's 70kg Round of 16 Men's 60kg Round of 32 Men's 70kg Round of 32 Men's 90kg Round of 16,19:00,22:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX05,,"Monday, July 17",3,Preliminary,Women's 60kg Round of 16 Men's 55kg Round of 16 Men's 65kg Round of 16,12:00,15:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX06,,"Monday, July 17",3,Preliminary,"Women's 60kg Round of 16
+Men's 55kg Round of 16 Men's 65kg Round of 16",19:00,22:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX07,,"Tuesday, July 18",4,Quarterfinal,Women's 54kg Round of 16 Women's 57kg Round of 32 Men's 80kg Round of 16 Men's +90kg Quarterfinal,12:00,15:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX08,,"Tuesday, July 18",4,Quarterfinal,Women's 54kg Round of 16 Women's 57kg Round of 32 Men's 80kg Round of 16 Men's +90kg Quarterfinal,19:00,22:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX09,,"Wednesday, July 19",5,Quarterfinal,Women's 60kg Quarterfinal Women's 70kg Quarterfinal Men's 60kg Round of 16 Men's 70kg Round of 16,12:00,15:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX10,,"Wednesday, July 19",5,Quarterfinal,"Women's 60kg Quarterfinal Women's 70kg Quarterfinal Men's 60kg Round of 16
+Men's 70kg Round of 16",19:00,22:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX11,,"Thursday, July 20",6,Quarterfinal,Women's 51kg Round of 16 Women's 65kg Round of 16 Men's 65kg Quarterfinal Men's 90kg Quarterfinal,12:00,15:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX12,,"Thursday, July 20",6,Quarterfinal,Women's 51kg Round of 16 Women's 65kg Round of 16 Men's 65kg Quarterfinal Men's 90kg Quarterfinal,19:00,22:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX13,,"Friday, July 21",7,Quarterfinal,Women's 57kg Round of 16 Women's 75kg Round of 16 Men's 55kg Quarterfinal Men's 80kg Quarterfinal,12:00,15:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX14,,"Friday, July 21",7,Quarterfinal,"Women's 57kg Round of 16 Women's 75kg Round of 16 Men's 55kg Quarterfinal
+Men's 80kg Quarterfinal",19:00,22:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX15,,"Saturday, July 22",8,Semifinal,Women's 51kg Quarterfinal Women's 54kg Quarterfinal Women's 65kg Quarterfinal Women's 70kg Semifinal Men's 60kg Quarterfinal Men's 70kg Quarterfinal Men's +90kg Semifinal,12:00,15:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX16,,"Saturday, July 22",8,Semifinal,Women's 51kg Quarterfinal Women's 54kg Quarterfinal Women's 65kg Quarterfinal Women's 70kg Semifinal Men's 60kg Quarterfinal Men's 70kg Quarterfinal Men's +90kg Semifinal,19:00,22:00
+Boxing - Preliminary Stages,Peacock Theater,DTLA,BOX17,,"Sunday, July 23",9,Semifinal,Women's 57kg Quarterfinal Women's 75kg Quarterfinal Men's 55kg Semifinal,12:00,14:30
+Boxing - Final Stages,DTLA Arena,DTLA,BOX18,,"Thursday, July 27",13,Final,"Women's 51kg Semifinal Women's 65kg Semifinal Women's 70kg Final
+Men's 90kg Semifinal",12:00,14:00
+Boxing - Final Stages,DTLA Arena,DTLA,BOX19,,"Thursday, July 27",13,Final,"Women's 54kg Semifinal Men's 55kg Final
+Men's 70kg Semifinal
+Men's 80kg Semifinal",18:00,20:00
+Boxing - Final Stages,DTLA Arena,DTLA,BOX20,,"Friday, July 28",14,Final,Women's 60kg Semifinal Men's 60kg Semifinal Men's +90kg Final,12:00,13:30
+Boxing - Final Stages,DTLA Arena,DTLA,BOX21,,"Friday, July 28",14,Final,"Women's 51kg Final
+Women's 75kg Semifinal Men's 65kg Semifinal",18:00,19:30
+Boxing - Final Stages,DTLA Arena,DTLA,BOX22,,"Saturday, July 29",15,Final,Women's 57kg Semifinal Women's 65kg Final Men's 90kg Final,12:00,13:30
+Boxing - Final Stages,DTLA Arena,DTLA,BOX23,,"Saturday, July 29",15,Final,"Women's 54kg Final Women's 60kg Final Men's 60kg Final
+Men's 80kg Final",18:00,20:00
+Boxing - Final Stages,DTLA Arena,DTLA,BOX24,,"Sunday, July 30",16,Final,Women's 57kg Final Women's 75kg Final Men's 65kg Final Men's 70kg Final,12:00,14:00
+Canoe Slalom,OKC Whitewater Center,OKC,CSL01,,"Friday, July 14",0,Preliminary,Men's Kayak Single Heats - 1st and 2nd Run Women's Kayak Single Heats - 1st and 2nd Run,"9:00
+OKC Local Time (CT)","12:10
+OKC Local Time (CT)"
+Canoe Slalom,OKC Whitewater Center,OKC,CSL02,,"Saturday, July 15",1,Final,Women's Kayak Single Semifinal Women's Kayak Single Final,"10:00
+OKC Local Time (CT)","13:10
+OKC Local Time (CT)"
+Canoe Slalom,OKC Whitewater Center,OKC,CSL03,,"Sunday, July 16",2,Final,Men's Kayak Single Semifinal Men's Kayak Single Final,"9:00
+OKC Local Time (CT)","12:10
+OKC Local Time (CT)"
+Canoe Slalom,OKC Whitewater Center,OKC,CSL04,,"Monday, July 17",3,Preliminary,Men's Canoe Single Heats - 1st and 2nd Run Women's Canoe Single Heats - 1st and 2nd Run,"9:00
+OKC Local Time (CT)","11:35
+OKC Local Time (CT)"
+Canoe Slalom,OKC Whitewater Center,OKC,CSL05,,"Tuesday, July 18",4,Final,Women's Canoe Single Semifinal Women's Canoe Single Final,"9:00
+OKC Local Time (CT)","12:10
+OKC Local Time (CT)"
+Canoe Slalom,OKC Whitewater Center,OKC,CSL06,,"Wednesday, July 19",5,Final,Men's Canoe Single Semifinal Men's Canoe Single Final,"9:00
+OKC Local Time (CT)","12:10
+OKC Local Time (CT)"
+Canoe Slalom,OKC Whitewater Center,OKC,CSL07,,"Thursday, July 20",6,Preliminary,Women's Kayak Cross Round 1 Men's Kayak Cross Round 1 Women's Kayak Cross Repechage Men's Kayak Cross Repechage,"9:00
+OKC Local Time (CT)","12:05
+OKC Local Time (CT)"
+Canoe Slalom,OKC Whitewater Center,OKC,CSL08,,"Friday, July 21",7,Preliminary,Men's Kayak Cross Heats Women's Kayak Cross Heats,"9:00
+OKC Local Time (CT)","11:00
+OKC Local Time (CT)"
+Canoe Slalom,OKC Whitewater Center,OKC,CSL09,,"Saturday, July 22",8,Final,"Women's Kayak Cross Quarterfinal Men's Kayak Cross Quarterfinal Women's Kayak Cross Semifinal Men's Kayak Cross Semifinal Women's Kayak Cross Final
+Men's Kayak Cross Final","9:00
+OKC Local Time (CT)","11:20
+OKC Local Time (CT)"
+Canoe Sprint,Marine Stadium,Long Beach,CSP01,,"Tuesday, July 25",11,Quarterfinal,"Men's Kayak Double 500m Heats Women's Kayak Double 500m Heats Men's Canoe Single 1000m Heats Women's Canoe Single 200m Heats Men's Kayak Double 500m Quarterfinal
+Women's Kayak Double 500m Quarterfinal
+Men's Canoe Single 1000m Quarterfinal Women's Canoe Single 200m Quarterfinal",9:00,12:30
+Canoe Sprint,Marine Stadium,Long Beach,CSP02,,"Wednesday, July 26",12,Final,Men's Kayak Double 500m Semifinal Women's Kayak Double 500m Semifinal Men's Canoe Single 1000m Semifinal Men's Kayak Double 500m Final B Women's Kayak Double 500m Final B Men's Kayak Double 500m Final A Women's Kayak Double 500m Final A Men's Canoe Single 1000m Final B Men's Canoe Single 1000m Final A,9:00,12:40
+Canoe Sprint,Marine Stadium,Long Beach,CSP03,,"Thursday, July 27",13,Quarterfinal,"Men's Kayak Four 500m Heats Women's Kayak Four 500m Heats Women's Canoe Double 500m Heats Men's Canoe Double 500m Heats Men's Kayak Single 1000m Heats Women's Kayak Single 500m Heats Men's Kayak Four 500m Quarterfinal
+Men's Canoe Double 500m Quarterfinal Women's Canoe Double 500m Quarterfinal Women's Kayak Four 500m Quarterfinal Men's Kayak Single 1000m Quarterfinal
+Women's Kayak Single 500m Quarterfinal",9:00,13:30
+Canoe Sprint,Marine Stadium,Long Beach,CSP04,,"Friday, July 28",14,Final,Women's Kayak Single 500m Semifinal Women's Canoe Double 500m Semifinal Men's Kayak Single 1000m Semifinal Women's Kayak Single 500m Final C Women's Kayak Single 500m Final B Women's Canoe Double 500m Final B Women's Kayak Single 500m Final A Women's Canoe Double 500m Final A Men's Kayak Single 1000m Final B  Men's Kayak Single 1000m Final A,9:00,12:40
+Canoe Sprint,Marine Stadium,Long Beach,CSP05,,"Saturday, July 29",15,Final,"Women's Canoe Single 200m Semifinal Men's Canoe Double 500m Semifinal Women's Kayak Four 500m Semifinal Men's Kayak Four 500m Semifinal Women's Canoe Single 200m Final B Men's Canoe Double 500m Final B Women's Canoe Single 200m Final A Men's Canoe Double 500m Final A Women's Kayak Four 500m Final A
+Men's Kayak Four 500m Final A",9:00,12:55
+Climbing,Long Beach Climbing Theater,Long Beach,CLB01,,"Monday, July 24",10,Semifinal,Men's Boulder Semifinal,9:30,11:40
+Climbing,Long Beach Climbing Theater,Long Beach,CLB02,,"Monday, July 24",10,Preliminary,Men's Speed Qualification Women's Speed Qualification,13:45,15:25
+Climbing,Long Beach Climbing Theater,Long Beach,CLB03,,"Tuesday, July 25",11,Semifinal,Women's Boulder Semifinal,9:15,11:25
+Climbing,Long Beach Climbing Theater,Long Beach,CLB04,,"Tuesday, July 25",11,Semifinal,Men's Lead Semifinal,18:45,20:00
+Climbing,Long Beach Climbing Theater,Long Beach,CLB05,,"Wednesday, July 26",12,Final,"Men's Speed Quarterfinal Women's Speed Quarterfinal Men's Speed Semifinal Women's Speed Semifinal Men's Speed Final
+Women's Speed Final",9:00,10:30
+Climbing,Long Beach Climbing Theater,Long Beach,CLB06,,"Wednesday, July 26",12,Semifinal,Women's Lead Semifinal,18:45,20:00
+Climbing,Long Beach Climbing Theater,Long Beach,CLB07,,"Thursday, July 27",13,Final,Men's Boulder Final,9:00,10:55
+Climbing,Long Beach Climbing Theater,Long Beach,CLB08,,"Friday, July 28",14,Final,Women's Boulder Final,9:00,10:55
+Climbing,Long Beach Climbing Theater,Long Beach,CLB09,,"Friday, July 28",14,Final,Men's Lead Final,13:45,15:00
+Climbing,Long Beach Climbing Theater,Long Beach,CLB10,,"Saturday, July 29",15,Final,Women's Lead Final,9:30,10:45
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT01,,"Wednesday, July 12",-2,Preliminary,Women's Group Stage First Round,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT02,,"Wednesday, July 12",-2,Preliminary,Women's Group Stage First Round,18:00,21:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT03,,"Thursday, July 13",-1,Preliminary,Women's Group Stage First Round,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT04,,"Thursday, July 13",-1,Preliminary,Women's Group Stage First Round,18:00,21:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT05,,"Saturday, July 15",1,Preliminary,Women's Group Stage First Round,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT06,,"Saturday, July 15",1,Preliminary,Women's Group Stage First Round,18:00,21:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT07,,"Sunday, July 16",2,Preliminary,Women's Group Stage Second Round,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT08,,"Sunday, July 16",2,Preliminary,Women's Group Stage Second Round,18:00,21:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT09,,"Monday, July 17",3,Preliminary,Women's Group Stage Second Round,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT10,,"Monday, July 17",3,Preliminary,Women's Group Stage Second Round,18:00,21:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT11,,"Tuesday, July 18",4,Preliminary,Women's Group Stage Second Round,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT12,,"Tuesday, July 18",4,Preliminary,Women's Group Stage Second Round,18:00,21:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT13,,"Wednesday, July 19",5,Bronze,Women's Bronze Medal Match,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT14,,"Thursday, July 20",6,Final,Women's Gold Medal Match,9:00,13:00
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT15,,"Saturday, July 22",8,Preliminary,Men's Group Stage First Round,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT16,,"Saturday, July 22",8,Preliminary,Men's Group Stage First Round,18:00,21:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT17,,"Sunday, July 23",9,Preliminary,Men's Group Stage First Round,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT18,,"Sunday, July 23",9,Preliminary,Men's Group Stage First Round,18:00,21:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT19,,"Monday, July 24",10,Preliminary,Men's Group Stage First Round,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT20,,"Monday, July 24",10,Preliminary,Men's Group Stage First Round,18:00,21:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT21,,"Tuesday, July 25",11,Preliminary,Men's Group Stage Second Round,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT22,,"Tuesday, July 25",11,Preliminary,Men's Group Stage Second Round,18:00,21:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT23,,"Wednesday, July 26",12,Preliminary,Men's Group Stage Second Round,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT24,,"Wednesday, July 26",12,Preliminary,Men's Group Stage Second Round,18:00,21:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT25,,"Thursday, July 27",13,Preliminary,Men's Group Stage Second Round,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT26,,"Thursday, July 27",13,Preliminary,Men's Group Stage Second Round,18:00,21:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT27,,"Friday, July 28",14,Bronze,Men's Bronze Medal Match,9:00,12:30
+Cricket,Fairgrounds Cricket Stadium,Pomona,CKT28,,"Saturday, July 29",15,Final,Men's Gold Medal Match,9:00,13:00
+Cycling Road (Time Trial),TBD,TBD,CRD01,,"Wednesday, July 19",5,Final,Men's Individual Time Trial Women's Individual Time Trial,10:30,14:35
+Cycling Road (Road Race),Venice Beach Boardwalk - Start,Venice,CRD02,,"Saturday, July 22",8,Final,Women's Road Race,11:30,16:15
+Cycling Road (Road Race),Venice Beach Boardwalk - Start,Venice,CRD03,,"Sunday, July 23",9,Final,Men's Road Race,9:00,16:15
+Cycling Track,Carson Velodrome,Carson,CTR01,,"Tuesday, July 25",11,Preliminary,"Men's Team Sprint Qualifying
+Women's Team Sprint Qualifying",9:00,10:00
+Cycling Track,Carson Velodrome,Carson,CTR02,,"Tuesday, July 25",11,Final,"Men's Team Sprint First Round Women's Team Sprint First Round Men's Team Pursuit Qualifying Men's Team Sprint Final
+Women's Team Sprint Final",12:00,15:00
+Cycling Track,Carson Velodrome,Carson,CTR03,,"Wednesday, July 26",12,Preliminary,"Women's Team Pursuit Qualifying Men's Team Pursuit First Round Women's Keirin First Round  Men's Sprint Qualifying
+Women's Keirin Repechage",8:45,12:15
+Cycling Track,Carson Velodrome,Carson,CTR04,,"Wednesday, July 26",12,Final,"Men's Sprint 1/32 Final Men's Team Pursuit Final
+Men's Sprint 1/32 Final Repechage Women's Keirin Quarterfinal
+Men's Sprint 1/16 Final
+Men's Sprint 1/16 Final Repechage",13:45,16:45
+Cycling Track,Carson Velodrome,Carson,CTR05,,"Thursday, July 27",13,Final,"Women's Team Pursuit First Round Men's Omnium Scratch Race 1/4 Men's Sprint 1/8 Final
+Men's Omnium Tempo Race 2/4 Men's Sprint 1/8 Final Repechage Women's Keirin Semifinal
+Men's Sprint Quarterfinal Race 1 Men's Omnium Elimination Race 3/4 Women's Keirin Final 7-12
+Women's Keirin Final 1-6
+Men's Sprint Quarterfinal Race 2 Women's Team Pursuit Final Men's Sprint Quarterfinal Decider Men's Omnium Points Race 4/4 Men's Sprint Final for Places 5-8",11:00,16:05
+Cycling Track,Carson Velodrome,Carson,CTR06,,"Friday, July 28",14,Semifinal,"Women's Sprint Qualifying Men's Sprint Semifinal Race 1 Women's Sprint 1/32 Final Men's Sprint Semifinal Race 2
+Women's Sprint 1/32 Final Repechage
+Men's Sprint Semifinal Decider",9:00,11:20
+Cycling Track,Carson Velodrome,Carson,CTR07,,"Friday, July 28",14,Final,"Men's Sprint Final Race 1 Women's Madison Final Men's Sprint Final Race 2 Women's Sprint 1/16 Final Men's Sprint Final Decider
+Women's Sprint 1/16 Final Repechage",13:00,15:15
+Cycling Track,Carson Velodrome,Carson,CTR08,,"Saturday, July 29",15,Final,"Women's Sprint 1/8 Final Men's Keirin First Round
+Women's Sprint 1/8 Final Repechage Men's Madison Final
+Women's Sprint Quarterfinal Race 1 Men's Keirin Repechage
+Women's Sprint Quarterfinal Race 2
+Women's Sprint Quarterfinal Decider Women's Sprint Final for Places 5-8",11:00,14:35
+Cycling Track,Carson Velodrome,Carson,CTR09,,"Sunday, July 30",16,Final,"Women's Omnium Scratch Race 1/4 Women's Sprint Semifinal Race 1 Men's Keirin Quarterfinal
+Women's Sprint Semifinal Race 2 Women's Omnium Tempo Race 2/4 Women's Sprint Semifinal Decider Men's Keirin Semifinal
+Women's Sprint Final Race 1
+Women's Omnium Elimination Race 3/4 Women's Sprint Final Race 2
+Men's Keirin Final 7-12 Men's Keirin Final 1-6
+Women's Sprint Final Decider Women's Omnium Points Race 4/4",8:45,12:35
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV01,,"Sunday, July 16",2,Preliminary,Women's 3m Springboard Preliminary,10:00,12:30
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV02,,"Monday, July 17",3,Semifinal,Women's 3m Springboard Semifinal,10:00,12:00
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV03,,"Monday, July 17",3,Final,Women's 3m Springboard Final,15:30,16:45
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV04,,"Tuesday, July 18",4,Preliminary,Men's 3m Springboard Preliminary,10:00,12:30
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV05,,"Tuesday, July 18",4,Semifinal,Men's 3m Springboard Semifinal,15:30,17:30
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV06,,"Wednesday, July 19",5,Final,Men's 3m Springboard Final,15:30,16:45
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV07,,"Thursday, July 20",6,Preliminary,Women's 10m Platform Preliminary,10:00,12:30
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV08,,"Thursday, July 20",6,Semifinal,Women's 10m Platform Semifinal,15:30,17:30
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV09,,"Friday, July 21",7,Preliminary,Men's 10m Platform Preliminary,10:00,12:30
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV10,,"Friday, July 21",7,Final,Women's 10m Platform Final,15:30,16:45
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV11,,"Saturday, July 22",8,Semifinal,Men's 10m Platform Semifinal,10:00,12:00
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV12,,"Saturday, July 22",8,Final,Men's 10m Platform Final,15:30,16:45
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV13,,"Tuesday, July 25",11,Final,Women's Synchronized 3m Springboard Final,11:30,12:30
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV14,,"Wednesday, July 26",12,Final,Men's Synchronized 3m Springboard Final,14:00,15:00
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV15,,"Thursday, July 27",13,Final,Women's Synchronized 10m Platform Final,14:00,15:00
+Diving,Rose Bowl Aquatics Center,Pasadena,DIV16,,"Friday, July 28",14,Final,Men's Synchronized 10m Platform Final,16:00,17:00
+Equestrian,Santa Anita Park,Arcadia,EQU01,,"Saturday, July 15",1,Preliminary,"Eventing Dressage Team & Individual - Day 1, Session 1",9:00,11:30
+Equestrian,Santa Anita Park,Arcadia,EQU02,,"Saturday, July 15",1,Preliminary,"Eventing Dressage Team & Individual - Day 1, Session 2",16:30,19:00
+Equestrian,Santa Anita Park,Arcadia,EQU03,,"Sunday, July 16",2,Preliminary,"Eventing Dressage Team & Individual - Day 2, Session 1",9:00,11:30
+Equestrian,Santa Anita Park,Arcadia,EQU04,,"Monday, July 17",3,Preliminary,Eventing Cross Country Team & Individual,8:00,11:30
+Equestrian,Santa Anita Park,Arcadia,EQU05,,"Tuesday, July 18",4,Final,"Eventing Jumping Team Final
+Eventing Jumping Individual Final",16:30,22:00
+Equestrian,Santa Anita Park,Arcadia,EQU06,,"Thursday, July 20",6,Preliminary,"Dressage Grand Prix Team & Individual Qualifier - Day 1, Session 1",9:00,11:45
+Equestrian,Santa Anita Park,Arcadia,EQU07,,"Thursday, July 20",6,Preliminary,"Dressage Grand Prix Team & Individual Qualifier - Day 1, Session 2",16:15,19:00
+Equestrian,Santa Anita Park,Arcadia,EQU08,,"Friday, July 21",7,Preliminary,"Dressage Grand Prix Team & Individual Qualifier - Day 2, Session 1",9:00,11:45
+Equestrian,Santa Anita Park,Arcadia,EQU09,,"Friday, July 21",7,Preliminary,"Dressage Grand Prix Team & Individual Qualifier - Day 2, Session 2",16:15,19:00
+Equestrian,Santa Anita Park,Arcadia,EQU10,,"Saturday, July 22",8,Final,Dressage Grand Prix Special Team Final - Session 1,9:00,11:45
+Equestrian,Santa Anita Park,Arcadia,EQU11,,"Saturday, July 22",8,Final,Dressage Grand Prix Special Team Final - Session 2,16:15,19:00
+Equestrian,Santa Anita Park,Arcadia,EQU12,,"Monday, July 24",10,Final,Dressage Grand Prix Freestyle Individual Final,8:30,12:00
+Equestrian,Santa Anita Park,Arcadia,EQU13,,"Tuesday, July 25",11,Preliminary,Jumping Team Qualifier,9:00,12:00
+Equestrian,Santa Anita Park,Arcadia,EQU14,,"Wednesday, July 26",12,Final,Jumping Team Final,9:00,11:10
+Equestrian,Santa Anita Park,Arcadia,EQU15,,"Friday, July 28",14,Preliminary,Jumping Individual Qualifier,8:00,12:00
+Equestrian,Santa Anita Park,Arcadia,EQU16,,"Saturday, July 29",15,Final,Jumping Individual Final,9:00,11:00
+Fencing,LA Convention Center Hall 1,DTLA,FEN01,,"Saturday, July 15",1,Quarterfinal,"Women's Épée Individual Table of 64 Men's Sabre Individual Table of 64 Women's Épée Individual Table of 32 Men's Sabre Individual Table of 32 Women's Épée Individual Table of 16 Men's Sabre Individual Table of 16 Women's Épée Individual Table of 8
+Men's Sabre Individual Table of 8",9:00,15:40
+Fencing,LA Convention Center Hall 1,DTLA,FEN02,,"Saturday, July 15",1,Final,"Women's Épée Individual Semifinal Men's Sabre Individual Semifinal
+Women's Épée Individual Bronze Medal Bout Men's Sabre Individual Bronze Medal Bout Women's Épée Individual Gold Medal Bout
+Men's Sabre Individual Gold Medal Bout",18:30,22:20
+Fencing,LA Convention Center Hall 1,DTLA,FEN03,,"Sunday, July 16",2,Quarterfinal,"Men's Épée Individual Table of 64 Women's Foil Individual Table of 64 Men's Épée Individual Table of 32 Women's Foil Individual Table of 32 Men's Épée Individual Table of 16 Women's Foil Individual Table of 16 Men's Épée Individual Table of 8
+Women's Foil Individual Table of 8",9:00,16:20
+Fencing,LA Convention Center Hall 1,DTLA,FEN04,,"Sunday, July 16",2,Final,"Men's Épée Individual Semifinal Women's Foil Individual Semifinal
+Men's Épée Individual Bronze Medal Bout Women's Foil Individual Bronze Medal Bout Men's Épée Individual Gold Medal Bout
+Women's Foil Individual Gold Medal Bout",18:30,22:40
+Fencing,LA Convention Center Hall 1,DTLA,FEN05,,"Monday, July 17",3,Quarterfinal,Women's Sabre Individual Table of 64 Men's Foil Individual Table of 64 Women's Sabre Individual Table of 32 Men's Foil Individual Table of 32 Women's Sabre Individual Table of 16 Men's Foil Individual Table of 16 Women's Sabre Individual Table of 8 Men's Foil Individual Table of 8,9:00,16:20
+Fencing,LA Convention Center Hall 1,DTLA,FEN06,,"Monday, July 17",3,Final,"Women's Sabre Individual Semifinal Men's Foil Individual Semifinal
+Women's Sabre Individual Bronze Medal Bout Men's Foil Individual Bronze Medal Bout Women's Sabre Individual Gold Medal Bout
+Men's Foil Individual Gold Medal Bout",18:30,22:40
+Fencing,LA Convention Center Hall 1,DTLA,FEN07,,"Tuesday, July 18",4,Semifinal,Women's Épée Team Table of 8 Women's Épée Team Classification 5-8 Women's Épée Team Semifinal Women's Épée Team Placement 7-8 Women's Épée Team Placement 5-6,9:00,14:30
+Fencing,LA Convention Center Hall 1,DTLA,FEN08,,"Tuesday, July 18",4,Final,Women's Épée Team Bronze Medal Match Women's Épée Team Gold Medal Match,17:30,19:40
+Fencing,LA Convention Center Hall 1,DTLA,FEN09,,"Wednesday, July 19",5,Semifinal,"Men's Sabre Team Table of 8
+Men's Sabre Team Classification 5-8 Men's Sabre Team Semifinal
+Men's Sabre Team Placement 7-8
+Men's Sabre Team Placement 5-6",9:00,14:30
+Fencing,LA Convention Center Hall 1,DTLA,FEN10,,"Wednesday, July 19",5,Final,Men's Sabre Team Bronze Medal Match Men's Sabre Team Gold Medal Match,17:30,19:40
+Fencing,LA Convention Center Hall 1,DTLA,FEN11,,"Thursday, July 20",6,Semifinal,"Men's Épée Team Table of 8
+Men's Épée Team Classification 5-8 Men's Épée Team Semifinal
+Men's Épée Team Placement 7-8
+Men's Épée Team Placement 5-6",9:00,16:10
+Fencing,LA Convention Center Hall 1,DTLA,FEN12,,"Thursday, July 20",6,Final,"Men's Épée Team Bronze Medal Match
+Men's Épée Team Gold Medal Match",18:30,21:40
+Fencing,LA Convention Center Hall 1,DTLA,FEN13,,"Friday, July 21",7,Semifinal,Women's Foil Team Table of 8 Women's Foil Team Classification 5-8 Women's Foil Team Semifinal Women's Foil Team Placement 7-8 Women's Foil Team Placement 5-6,9:00,14:30
+Fencing,LA Convention Center Hall 1,DTLA,FEN14,,"Friday, July 21",7,Final,Women's Foil Team Bronze Medal Match Women's Foil Team Gold Medal Match,18:30,21:20
+Fencing,LA Convention Center Hall 1,DTLA,FEN15,,"Saturday, July 22",8,Semifinal,"Men's Foil Team Table of 8
+Men's Foil Team Classification 5-8 Men's Foil Team Semifinal
+Men's Foil Team Placement 7-8
+Men's Foil Team Placement 5-6",9:00,14:30
+Fencing,LA Convention Center Hall 1,DTLA,FEN16,,"Saturday, July 22",8,Final,Men's Foil Team Bronze Medal Match Men's Foil Team Gold Medal Match,18:30,21:20
+Fencing,LA Convention Center Hall 1,DTLA,FEN17,,"Sunday, July 23",9,Semifinal,Women's Sabre Team Table of 8 Women's Sabre Team Classification 5-8 Women's Sabre Team Semifinal Women's Sabre Team Placement 7-8 Women's Sabre Team Placement 5-6,9:00,16:10
+Fencing,LA Convention Center Hall 1,DTLA,FEN18,,"Sunday, July 23",9,Final,"Women's Sabre Team Bronze Medal Match
+Women's Sabre Team Gold Medal Match",18:30,21:40
+Flag Football,Exposition Park Stadium,Exposition Park,FFB01,,"Saturday, July 15",1,Preliminary,Men's and Women's Preliminaries (3 Games),14:00,17:15
+Flag Football,Exposition Park Stadium,Exposition Park,FFB02,,"Saturday, July 15",1,Preliminary,Men's and Women's Preliminaries (3 Games),19:00,22:15
+Flag Football,Exposition Park Stadium,Exposition Park,FFB03,,"Sunday, July 16",2,Preliminary,Men's and Women's Preliminaries (3 Games),14:00,17:15
+Flag Football,Exposition Park Stadium,Exposition Park,FFB04,,"Sunday, July 16",2,Preliminary,Men's and Women's Preliminaries (3 Games),19:00,22:15
+Flag Football,Exposition Park Stadium,Exposition Park,FFB05,,"Monday, July 17",3,Preliminary,Men's and Women's Preliminaries (3 Games),14:00,17:15
+Flag Football,Exposition Park Stadium,Exposition Park,FFB06,,"Monday, July 17",3,Preliminary,Men's and Women's Preliminaries (3 Games),19:00,22:15
+Flag Football,Exposition Park Stadium,Exposition Park,FFB07,,"Tuesday, July 18",4,Preliminary,Men's and Women's Preliminaries (3 Games),14:00,17:15
+Flag Football,Exposition Park Stadium,Exposition Park,FFB08,,"Tuesday, July 18",4,Preliminary,Men's and Women's Preliminaries (3 Games),19:00,22:15
+Flag Football,Exposition Park Stadium,Exposition Park,FFB09,,"Wednesday, July 19",5,Preliminary,Men's and Women's Preliminaries (3 Games),14:00,17:15
+Flag Football,Exposition Park Stadium,Exposition Park,FFB10,,"Wednesday, July 19",5,Preliminary,Men's and Women's Preliminaries (3 Games),19:00,22:15
+Flag Football,Exposition Park Stadium,Exposition Park,FFB11,,"Thursday, July 20",6,Semifinal,Men's Semifinal (2 Games),14:00,16:10
+Flag Football,Exposition Park Stadium,Exposition Park,FFB12,,"Friday, July 21",7,Semifinal,Women's Semifinal (2 Games),13:30,15:40
+Flag Football,Exposition Park Stadium,Exposition Park,FFB13,,"Friday, July 21",7,Final,Men's Bronze Medal Game Men's Gold Medal Game,17:30,20:40
+Flag Football,Exposition Park Stadium,Exposition Park,FFB14,,"Saturday, July 22",8,Final,"Women's Bronze Medal Game
+Women's Gold Medal Game",12:30,15:40
+Football (Soccer),New York Stadium,New York,FBL01,,"Monday, July 10",-4,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),New York Stadium,New York,FBL02,,"Monday, July 10",-4,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),New York Stadium,New York,FBL10,,"Tuesday, July 11",-3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),New York Stadium,New York,FBL15,,"Thursday, July 13",-1,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),New York Stadium,New York,FBL16,,"Thursday, July 13",-1,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),New York Stadium,New York,FBL24,,"Friday, July 14",0,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),New York Stadium,New York,FBL29,,"Sunday, July 16",2,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),New York Stadium,New York,FBL38,,"Monday, July 17",3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),New York Stadium,New York,FBL46,,"Thursday, July 20",6,Quarterfinal,Men's Quarterfinal,TBD,TBD
+Football (Soccer),Columbus Stadium,Columbus,FBL03,,"Monday, July 10",-4,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),Columbus Stadium,Columbus,FBL04,,"Monday, July 10",-4,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),Columbus Stadium,Columbus,FBL09,,"Tuesday, July 11",-3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),Columbus Stadium,Columbus,FBL17,,"Thursday, July 13",-1,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),Columbus Stadium,Columbus,FBL18,,"Thursday, July 13",-1,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),Columbus Stadium,Columbus,FBL23,,"Friday, July 14",0,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),Columbus Stadium,Columbus,FBL30,,"Sunday, July 16",2,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),Columbus Stadium,Columbus,FBL31,,"Sunday, July 16",2,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),Columbus Stadium,Columbus,FBL43,,"Thursday, July 20",6,Quarterfinal,Men's Quarterfinal,TBD,TBD
+Football (Soccer),Nashville Stadium,Nashville,FBL05,,"Monday, July 10",-4,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),Nashville Stadium,Nashville,FBL07,,"Tuesday, July 11",-3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),Nashville Stadium,Nashville,FBL20,,"Thursday, July 13",-1,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),Nashville Stadium,Nashville,FBL21,,"Friday, July 14",0,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),Nashville Stadium,Nashville,FBL32,,"Sunday, July 16",2,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),Nashville Stadium,Nashville,FBL36,,"Monday, July 17",3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),Nashville Stadium,Nashville,FBL37,,"Monday, July 17",3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),Nashville Stadium,Nashville,FBL44,,"Thursday, July 20",6,Quarterfinal,Men's Quarterfinal,TBD,TBD
+Football (Soccer),Nashville Stadium,Nashville,FBL48,,"Friday, July 21",7,Quarterfinal,Women's Quarterfinal,TBD,TBD
+Football (Soccer),St. Louis Stadium,St. Louis,FBL06,,"Monday, July 10",-4,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),St. Louis Stadium,St. Louis,FBL08,,"Tuesday, July 11",-3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),St. Louis Stadium,St. Louis,FBL19,,"Thursday, July 13",-1,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),St. Louis Stadium,St. Louis,FBL22,,"Friday, July 14",0,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),St. Louis Stadium,St. Louis,FBL33,,"Sunday, July 16",2,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),St. Louis Stadium,St. Louis,FBL34,,"Sunday, July 16",2,Preliminary,Men's Group Stage,TBD,TBD
+Football (Soccer),St. Louis Stadium,St. Louis,FBL35,,"Monday, July 17",3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),St. Louis Stadium,St. Louis,FBL45,,"Thursday, July 20",6,Quarterfinal,Men's Quarterfinal,TBD,TBD
+Football (Soccer),San José Stadium,San José,FBL13,,"Tuesday, July 11",-3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),San José Stadium,San José,FBL14,,"Tuesday, July 11",-3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),San José Stadium,San José,FBL25,,"Friday, July 14",0,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),San José Stadium,San José,FBL26,,"Friday, July 14",0,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),San José Stadium,San José,FBL39,,"Monday, July 17",3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),San José Stadium,San José,FBL40,,"Monday, July 17",3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),San José Stadium,San José,FBL50,,"Friday, July 21",7,Quarterfinal,Women's Quarterfinal,TBD,TBD
+Football (Soccer),San Diego Stadium,San Diego,FBL11,,"Tuesday, July 11",-3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),San Diego Stadium,San Diego,FBL12,,"Tuesday, July 11",-3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),San Diego Stadium,San Diego,FBL27,,"Friday, July 14",0,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),San Diego Stadium,San Diego,FBL28,,"Friday, July 14",0,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),San Diego Stadium,San Diego,FBL41,,"Monday, July 17",3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),San Diego Stadium,San Diego,FBL42,,"Monday, July 17",3,Preliminary,Women's Group Stage,TBD,TBD
+Football (Soccer),San Diego Stadium,San Diego,FBL49,,"Friday, July 21",7,Quarterfinal,Women's Quarterfinal,TBD,TBD
+Football (Soccer),San Diego Stadium,San Diego,FBL51,,"Monday, July 24",10,Semifinal,Men's Semifinal,13:00,16:00
+Football (Soccer),San Diego Stadium,San Diego,FBL53,,"Tuesday, July 25",11,Semifinal,Women's Semifinal,17:30,20:30
+Football (Soccer),San Diego Stadium,San Diego,FBL55,,"Thursday, July 27",13,Bronze,Men's Bronze Medal Match,18:00,21:00
+Football (Soccer),San Diego Stadium,San Diego,FBL56,,"Friday, July 28",14,Bronze,Women's Bronze Medal Match,13:00,16:00
+Football (Soccer),Rose Bowl Stadium,Pasadena,FBL47,,"Friday, July 21",7,Quarterfinal,Women's Quarterfinal,TBD,TBD
+Football (Soccer),Rose Bowl Stadium,Pasadena,FBL52,,"Monday, July 24",10,Semifinal,Men's Semifinal,20:30,23:30
+Football (Soccer),Rose Bowl Stadium,Pasadena,FBL54,,"Tuesday, July 25",11,Semifinal,Women's Semifinal,20:30,23:30
+Football (Soccer),Rose Bowl Stadium,Pasadena,FBL57,,"Friday, July 28",14,Final,Men's Gold Medal Match,18:00,21:00
+Football (Soccer),Rose Bowl Stadium,Pasadena,FBL58,,"Saturday, July 29",15,Final,Women's Gold Medal Match,12:30,15:30
+Golf,Riviera Country Club,Riviera,GLF01,,"Wednesday, July 19",5,Preliminary,Men's Individual Stroke Play Round 1,9:00,18:00
+Golf,Riviera Country Club,Riviera,GLF02,,"Thursday, July 20",6,Preliminary,Men's Individual Stroke Play Round 2,9:00,18:00
+Golf,Riviera Country Club,Riviera,GLF03,,"Friday, July 21",7,Preliminary,Men's Individual Stroke Play Round 3,9:00,18:00
+Golf,Riviera Country Club,Riviera,GLF04,,"Saturday, July 22",8,Final,Men's Individual Stroke Play Round 4,9:00,18:30
+Golf,Riviera Country Club,Riviera,GLF05,,"Sunday, July 23",9,Preliminary,Mixed Team Preliminary Round - Four-Ball (Best Ball),10:00,16:55
+Golf,Riviera Country Club,Riviera,GLF06,,"Monday, July 24",10,Final,Mixed Team Final Round - Foursomes (Alternate Shot),8:00,14:00
+Golf,Riviera Country Club,Riviera,GLF07,,"Wednesday, July 26",12,Preliminary,Women's Individual Stroke Play Round 1,9:00,18:00
+Golf,Riviera Country Club,Riviera,GLF08,,"Thursday, July 27",13,Preliminary,Women's Individual Stroke Play Round 2,9:00,18:00
+Golf,Riviera Country Club,Riviera,GLF09,,"Friday, July 28",14,Preliminary,Women's Individual Stroke Play Round 3,9:00,18:00
+Golf,Riviera Country Club,Riviera,GLF10,,"Saturday, July 29",15,Final,Women's Individual Stroke Play Round 4,9:00,18:30
+Handball,Long Beach Arena,Long Beach,HBL01,,"Wednesday, July 12",-2,Preliminary,Men's Preliminary Round (2 Matches),9:00,12:30
+Handball,Long Beach Arena,Long Beach,HBL02,,"Wednesday, July 12",-2,Preliminary,Men's Preliminary Round (2 Matches),14:00,17:30
+Handball,Long Beach Arena,Long Beach,HBL03,,"Wednesday, July 12",-2,Preliminary,Men's Preliminary Round (2 Matches),19:00,22:30
+Handball,Long Beach Arena,Long Beach,HBL04,,"Thursday, July 13",-1,Preliminary,Women's Preliminary Round (2 Matches),9:00,12:30
+Handball,Long Beach Arena,Long Beach,HBL05,,"Thursday, July 13",-1,Preliminary,Women's Preliminary Round (2 Matches),14:00,17:30
+Handball,Long Beach Arena,Long Beach,HBL06,,"Thursday, July 13",-1,Preliminary,Women's Preliminary Round (2 Matches),19:00,22:30
+Handball,Long Beach Arena,Long Beach,HBL07,,"Saturday, July 15",1,Preliminary,Men's Preliminary Round (2 Matches),9:00,12:30
+Handball,Long Beach Arena,Long Beach,HBL08,,"Saturday, July 15",1,Preliminary,Men's Preliminary Round (2 Matches),14:00,17:30
+Handball,Long Beach Arena,Long Beach,HBL09,,"Saturday, July 15",1,Preliminary,Men's Preliminary Round (2 Matches),19:00,22:30
+Handball,Long Beach Arena,Long Beach,HBL10,,"Sunday, July 16",2,Preliminary,Women's Preliminary Round (2 Matches),9:00,12:30
+Handball,Long Beach Arena,Long Beach,HBL11,,"Sunday, July 16",2,Preliminary,Women's Preliminary Round (2 Matches),14:00,17:30
+Handball,Long Beach Arena,Long Beach,HBL12,,"Sunday, July 16",2,Preliminary,Women's Preliminary Round (2 Matches),19:00,22:30
+Handball,Long Beach Arena,Long Beach,HBL13,,"Monday, July 17",3,Preliminary,Men's Preliminary Round (2 Matches),9:00,12:30
+Handball,Long Beach Arena,Long Beach,HBL14,,"Monday, July 17",3,Preliminary,Men's Preliminary Round (2 Matches),14:00,17:30
+Handball,Long Beach Arena,Long Beach,HBL15,,"Monday, July 17",3,Preliminary,Men's Preliminary Round (2 Matches),19:00,22:30
+Handball,Long Beach Arena,Long Beach,HBL16,,"Tuesday, July 18",4,Preliminary,Women's Preliminary Round (2 Matches),9:00,12:30
+Handball,Long Beach Arena,Long Beach,HBL17,,"Tuesday, July 18",4,Preliminary,Women's Preliminary Round (2 Matches),14:00,17:30
+Handball,Long Beach Arena,Long Beach,HBL18,,"Tuesday, July 18",4,Preliminary,Women's Preliminary Round (2 Matches),19:00,22:30
+Handball,Long Beach Arena,Long Beach,HBL19,,"Wednesday, July 19",5,Preliminary,Men's Preliminary Round (2 Matches),9:00,12:30
+Handball,Long Beach Arena,Long Beach,HBL20,,"Wednesday, July 19",5,Preliminary,Men's Preliminary Round (2 Matches),14:00,17:30
+Handball,Long Beach Arena,Long Beach,HBL21,,"Wednesday, July 19",5,Preliminary,Men's Preliminary Round (2 Matches),19:00,22:30
+Handball,Long Beach Arena,Long Beach,HBL22,,"Thursday, July 20",6,Preliminary,Women's Preliminary Round (2 Matches),9:00,12:30
+Handball,Long Beach Arena,Long Beach,HBL23,,"Thursday, July 20",6,Preliminary,Women's Preliminary Round (2 Matches),14:00,17:30
+Handball,Long Beach Arena,Long Beach,HBL24,,"Thursday, July 20",6,Preliminary,Women's Preliminary Round (2 Matches),19:00,22:30
+Handball,Long Beach Arena,Long Beach,HBL25,,"Friday, July 21",7,Preliminary,Men's Preliminary Round (2 Matches),9:00,12:30
+Handball,Long Beach Arena,Long Beach,HBL26,,"Friday, July 21",7,Preliminary,Men's Preliminary Round (2 Matches),14:00,17:30
+Handball,Long Beach Arena,Long Beach,HBL27,,"Friday, July 21",7,Preliminary,Men's Preliminary Round (2 Matches),19:00,22:30
+Handball,Long Beach Arena,Long Beach,HBL28,,"Saturday, July 22",8,Preliminary,Women's Preliminary Round (2 Matches),9:00,12:30
+Handball,Long Beach Arena,Long Beach,HBL29,,"Saturday, July 22",8,Preliminary,Women's Preliminary Round (2 Matches),14:00,17:30
+Handball,Long Beach Arena,Long Beach,HBL30,,"Saturday, July 22",8,Preliminary,Women's Preliminary Round (2 Matches),19:00,22:30
+Handball,Long Beach Arena,Long Beach,HBL31,,"Sunday, July 23",9,Quarterfinal,Men's Quarterfinal,9:00,11:00
+Handball,Long Beach Arena,Long Beach,HBL32,,"Sunday, July 23",9,Quarterfinal,Men's Quarterfinal,12:30,14:30
+Handball,Long Beach Arena,Long Beach,HBL33,,"Sunday, July 23",9,Quarterfinal,Men's Quarterfinal,16:00,18:00
+Handball,Long Beach Arena,Long Beach,HBL34,,"Sunday, July 23",9,Quarterfinal,Men's Quarterfinal,19:30,21:30
+Handball,Long Beach Arena,Long Beach,HBL35,,"Monday, July 24",10,Quarterfinal,Women's Quarterfinal,9:00,11:00
+Handball,Long Beach Arena,Long Beach,HBL36,,"Monday, July 24",10,Quarterfinal,Women's Quarterfinal,12:30,14:30
+Handball,Long Beach Arena,Long Beach,HBL37,,"Monday, July 24",10,Quarterfinal,Women's Quarterfinal,16:00,18:00
+Handball,Long Beach Arena,Long Beach,HBL38,,"Monday, July 24",10,Quarterfinal,Women's Quarterfinal,19:30,21:30
+Handball,Long Beach Arena,Long Beach,HBL39,,"Tuesday, July 25",11,Semifinal,Men's Semifinal,9:30,11:30
+Handball,Long Beach Arena,Long Beach,HBL40,,"Tuesday, July 25",11,Semifinal,Men's Semifinal,13:00,15:00
+Handball,Long Beach Arena,Long Beach,HBL41,,"Wednesday, July 26",12,Semifinal,Women's Semifinal,9:30,11:30
+Handball,Long Beach Arena,Long Beach,HBL42,,"Wednesday, July 26",12,Semifinal,Women's Semifinal,13:00,15:00
+Handball,Long Beach Arena,Long Beach,HBL43,,"Thursday, July 27",13,Bronze,Men's Bronze Medal Match,9:30,11:30
+Handball,Long Beach Arena,Long Beach,HBL44,,"Thursday, July 27",13,Final,Men's Gold Medal Match,13:00,15:30
+Handball,Long Beach Arena,Long Beach,HBL45,,"Friday, July 28",14,Bronze,Women's Bronze Medal Match,9:30,11:30
+Handball,Long Beach Arena,Long Beach,HBL46,,"Friday, July 28",14,Final,Women's Gold Medal Match,13:00,15:30
+Hockey,Carson Field,Carson,HOC01,,"Wednesday, July 12",-2,Preliminary,Men's Pool (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC02,,"Wednesday, July 12",-2,Preliminary,Men's Pool (2 Matches),17:00,22:00
+Hockey,Carson Field,Carson,HOC03,,"Thursday, July 13",-1,Preliminary,Women's Pool (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC04,,"Thursday, July 13",-1,Preliminary,Women's Pool (2 Matches),17:00,22:00
+Hockey,Carson Field,Carson,HOC05,,"Saturday, July 15",1,Preliminary,Men's Pool (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC06,,"Saturday, July 15",1,Preliminary,Women's Pool (2 Matches),17:30,22:30
+Hockey,Carson Field,Carson,HOC07,,"Sunday, July 16",2,Preliminary,Men's Pool (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC08,,"Sunday, July 16",2,Preliminary,Men's Pool (2 Matches),17:00,22:00
+Hockey,Carson Field,Carson,HOC09,,"Monday, July 17",3,Preliminary,Men's Pool (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC10,,"Monday, July 17",3,Preliminary,Women's Pool (2 Matches),17:00,22:00
+Hockey,Carson Field,Carson,HOC11,,"Tuesday, July 18",4,Preliminary,Women's Pool (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC12,,"Tuesday, July 18",4,Preliminary,Women's Pool (2 Matches),17:30,22:30
+Hockey,Carson Field,Carson,HOC13,,"Wednesday, July 19",5,Preliminary,Men's Pool (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC14,,"Wednesday, July 19",5,Preliminary,Men's Pool (2 Matches),17:00,22:00
+Hockey,Carson Field,Carson,HOC15,,"Thursday, July 20",6,Preliminary,Men's Pool (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC16,,"Thursday, July 20",6,Preliminary,Women's Pool (2 Matches),17:00,22:00
+Hockey,Carson Field,Carson,HOC17,,"Friday, July 21",7,Preliminary,Women's Pool (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC18,,"Friday, July 21",7,Preliminary,Women's Pool (2 Matches),17:00,22:00
+Hockey,Carson Field,Carson,HOC19,,"Saturday, July 22",8,Preliminary,Men's Play-In (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC20,,"Saturday, July 22",8,Preliminary,Men's Play-In (2 Matches),17:00,22:00
+Hockey,Carson Field,Carson,HOC21,,"Sunday, July 23",9,Preliminary,Women's Play-In (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC22,,"Sunday, July 23",9,Preliminary,Women's Play-In (2 Matches),17:00,22:00
+Hockey,Carson Field,Carson,HOC23,,"Monday, July 24",10,Quarterfinal,Men's Quarterfinal (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC24,,"Monday, July 24",10,Quarterfinal,Men's Quarterfinal (2 Matches),17:00,22:00
+Hockey,Carson Field,Carson,HOC25,,"Tuesday, July 25",11,Quarterfinal,Women's Quarterfinal (2 Matches),9:00,14:00
+Hockey,Carson Field,Carson,HOC26,,"Tuesday, July 25",11,Quarterfinal,Women's Quarterfinal (2 Matches),17:00,22:00
+Hockey,Carson Field,Carson,HOC27,,"Wednesday, July 26",12,Semifinal,Men's Semifinal,9:00,11:00
+Hockey,Carson Field,Carson,HOC28,,"Wednesday, July 26",12,Semifinal,Men's Semifinal,20:00,22:00
+Hockey,Carson Field,Carson,HOC29,,"Thursday, July 27",13,Semifinal,Women's Semifinal,9:00,11:00
+Hockey,Carson Field,Carson,HOC30,,"Thursday, July 27",13,Semifinal,Women's Semifinal,19:30,21:30
+Hockey,Carson Field,Carson,HOC31,,"Friday, July 28",14,Bronze,Men's Bronze Medal Match,10:30,12:30
+Hockey,Carson Field,Carson,HOC32,,"Friday, July 28",14,Final,Men's Gold Medal Match,21:00,23:30
+Hockey,Carson Field,Carson,HOC33,,"Saturday, July 29",15,Bronze,Women's Bronze Medal Match,10:30,12:30
+Hockey,Carson Field,Carson,HOC34,,"Saturday, July 29",15,Final,Women's Gold Medal Match,21:00,23:30
+Judo,LA Convention Center Hall 2,DTLA,JUD01,,"Saturday, July 15",1,Preliminary,"Women's -48kg Elimination Rounds
+Men's -60kg Elimination Rounds",10:00,14:00
+Judo,LA Convention Center Hall 2,DTLA,JUD02,,"Saturday, July 15",1,Final,"Women's -48kg Repechage Contests Women's -48kg Semifinal Contests Men's -60kg Repechage Contests Men's -60kg Semifinal Contests Women's -48kg Bronze Contests Women's -48kg Final
+Men's -60kg Bronze Contests
+Men's -60kg Final",16:00,19:00
+Judo,LA Convention Center Hall 2,DTLA,JUD03,,"Sunday, July 16",2,Preliminary,Men's -66kg Elimination Rounds Women's -52kg Elimination Rounds,10:00,14:00
+Judo,LA Convention Center Hall 2,DTLA,JUD04,,"Sunday, July 16",2,Final,"Men's -66kg Repechage Contests Men's -66kg Semifinal Contests Women's -52kg Repechage Contests Women's -52kg Semifinal Contests Men's -66kg Bronze Contests
+Men's -66kg Final
+Women's -52kg Bronze Contests Women's -52kg Final",16:00,19:00
+Judo,LA Convention Center Hall 2,DTLA,JUD05,,"Monday, July 17",3,Preliminary,"Women's -57kg Elimination Rounds
+Men's -73kg Elimination Rounds",10:00,14:00
+Judo,LA Convention Center Hall 2,DTLA,JUD06,,"Monday, July 17",3,Final,"Women's -57kg Repechage Contests Women's -57kg Semifinal Contests Men's -73kg Repechage Contests Men's -73kg Semifinal Contests Women's -57kg Bronze Contests Women's -57kg Final
+Men's -73kg Bronze Contests
+Men's -73kg Final",16:00,19:00
+Judo,LA Convention Center Hall 2,DTLA,JUD07,,"Tuesday, July 18",4,Preliminary,Men's -81kg Elimination Rounds Women's -63kg Elimination Rounds,10:00,14:00
+Judo,LA Convention Center Hall 2,DTLA,JUD08,,"Tuesday, July 18",4,Final,"Men's -81kg Repechage Contests Men's -81kg Semifinal Contests Women's -63kg Repechage Contests Women's -63kg Semifinal Contests Men's -81kg Bronze Contests
+Men's -81kg Final
+Women's -63kg Bronze Contests Women's -63kg Final",16:00,19:00
+Judo,LA Convention Center Hall 2,DTLA,JUD09,,"Wednesday, July 19",5,Preliminary,"Women's -70kg Elimination Rounds
+Men's -90kg Elimination Rounds",10:00,14:00
+Judo,LA Convention Center Hall 2,DTLA,JUD10,,"Wednesday, July 19",5,Final,"Women's -70kg Repechage Contests Women's -70kg Semifinal Contests Men's -90kg Repechage Contests Men's -90kg Semifinal Contests Women's -70kg Bronze Contests Women's -70kg Final
+Men's -90kg Bronze Contests
+Men's -90kg Final",16:00,19:00
+Judo,LA Convention Center Hall 2,DTLA,JUD11,,"Thursday, July 20",6,Preliminary,Men's -100kg Elimination Rounds Women's -78kg Elimination Rounds,10:00,14:00
+Judo,LA Convention Center Hall 2,DTLA,JUD12,,"Thursday, July 20",6,Final,"Men's -100kg Repechage Contests Men's -100kg Semifinal Contests Women's -78kg Repechage Contests Women's -78kg Semifinal Contests Men's -100kg Bronze Contests
+Men's -100kg Final
+Women's -78kg Bronze Contests Women's -78kg Final",16:00,19:00
+Judo,LA Convention Center Hall 2,DTLA,JUD13,,"Friday, July 21",7,Preliminary,"Women's +78kg Elimination Rounds
+Men's +100kg Elimination Rounds",10:00,14:00
+Judo,LA Convention Center Hall 2,DTLA,JUD14,,"Friday, July 21",7,Final,"Women's +78kg Repechage Contests Women's +78kg Semifinal Contests Men's +100kg Repechage Contests Men's +100kg Semifinal Contests Women's +78kg Bronze Contests Women's +78kg Final
+Men's +100kg Bronze Contests
+Men's +100kg Final",16:00,19:00
+Judo,LA Convention Center Hall 2,DTLA,JUD15,,"Saturday, July 22",8,Semifinal,"Mixed Team Elimination Round Mixed Team Repechage Contests
+Mixed Team Semifinal Contests",8:00,14:00
+Judo,LA Convention Center Hall 2,DTLA,JUD16,,"Saturday, July 22",8,Final,"Mixed Team Bronze Contests
+Mixed Team Final",16:00,19:00
+Lacrosse,Exposition Park Stadium,Exposition Park,LAC01,,"Monday, July 24",10,Preliminary,Men's Qualifying Round (3 Games),11:30,15:00
+Lacrosse,Exposition Park Stadium,Exposition Park,LAC02,,"Monday, July 24",10,Preliminary,Women's Qualifying Round (3 Games),18:30,22:00
+Lacrosse,Exposition Park Stadium,Exposition Park,LAC03,,"Tuesday, July 25",11,Preliminary,Men's Qualifying Round (3 Games),11:30,15:00
+Lacrosse,Exposition Park Stadium,Exposition Park,LAC04,,"Tuesday, July 25",11,Preliminary,Women's Qualifying Round (3 Games),18:30,22:00
+Lacrosse,Exposition Park Stadium,Exposition Park,LAC05,,"Wednesday, July 26",12,Preliminary,Men's Qualifying Round (3 Games),11:30,15:00
+Lacrosse,Exposition Park Stadium,Exposition Park,LAC06,,"Wednesday, July 26",12,Preliminary,Women's Qualifying Round (3 Games),18:30,22:00
+Lacrosse,Exposition Park Stadium,Exposition Park,LAC07,,"Thursday, July 27",13,Preliminary,Men's Qualifying Round (3 Games),11:30,15:00
+Lacrosse,Exposition Park Stadium,Exposition Park,LAC08,,"Thursday, July 27",13,Preliminary,Women's Qualifying Round (3 Games),18:30,22:00
+Lacrosse,Exposition Park Stadium,Exposition Park,LAC09,,"Friday, July 28",14,Preliminary,Men's Qualifying Round (3 Games),11:30,15:00
+Lacrosse,Exposition Park Stadium,Exposition Park,LAC10,,"Friday, July 28",14,Preliminary,Women's Qualifying Round (3 Games),18:30,22:00
+Lacrosse,Exposition Park Stadium,Exposition Park,LAC11,,"Saturday, July 29",15,Final,"Men's Bronze Medal Game
+Men's Gold Medal Game",13:30,16:15
+Lacrosse,Exposition Park Stadium,Exposition Park,LAC12,,"Saturday, July 29",15,Final,Women's Bronze Medal Game Women's Gold Medal Game,20:30,23:15
+Modern Pentathlon,Valley Complex 2,Valley,MPN01,,"Saturday, July 15",1,Semifinal,Women's Individual Semifinal,9:00,13:30
+Modern Pentathlon,Valley Complex 2,Valley,MPN02,,"Sunday, July 16",2,Semifinal,Men's Individual Semifinal,9:00,13:30
+Modern Pentathlon,Valley Complex 2,Valley,MPN03,,"Monday, July 17",3,Final,Women's Individual Final,9:00,11:00
+Modern Pentathlon,Valley Complex 2,Valley,MPN04,,"Tuesday, July 18",4,Final,Men's Individual Final,9:00,11:00
+Mountain Bike,Industry Hills MTB Course,City of Industry,MTB01,,"Monday, July 17",3,Final,Men's Cross-Country,11:00,13:30
+Mountain Bike,Industry Hills MTB Course,City of Industry,MTB02,,"Tuesday, July 18",4,Final,Women's Cross-Country,11:00,13:30
+Open Water Swimming,Belmont Shore,Long Beach,OWS01,,"Monday, July 17",3,Final,Women's 10km,13:30,16:30
+Open Water Swimming,Belmont Shore,Long Beach,OWS02,,"Tuesday, July 18",4,Final,Men's 10km,13:30,16:30
+Rhythmic Gymnastics,Galen Center,Exposition Park,GRY01,,"Thursday, July 27",13,Preliminary,Individual All-Around Qualification - 1 of 2,12:30,15:45
+Rhythmic Gymnastics,Galen Center,Exposition Park,GRY02,,"Thursday, July 27",13,Preliminary,Individual All-Around Qualification - 2 of 2,17:30,20:45
+Rhythmic Gymnastics,Galen Center,Exposition Park,GRY03,,"Friday, July 28",14,Preliminary,Group All-Around Qualification,13:00,15:45
+Rhythmic Gymnastics,Galen Center,Exposition Park,GRY04,,"Friday, July 28",14,Final,Individual All-Around Final,18:00,20:45
+Rhythmic Gymnastics,Galen Center,Exposition Park,GRY05,,"Saturday, July 29",15,Final,Group All-Around Final,13:00,14:45
+Rowing,Marine Stadium,Long Beach,ROW01,,"Saturday, July 15",1,Preliminary,Women's Single Sculls Heats Men's Double Sculls Heats Men's Pair Heats,12:00,13:50
+Rowing,Marine Stadium,Long Beach,ROW02,,"Sunday, July 16",2,Preliminary,"Men's Single Sculls Heats Women's Double Sculls Heats Women's Pair Heats
+Men's Double Sculls Semifinal
+Men's Pair Semifinal",12:00,14:30
+Rowing,Marine Stadium,Long Beach,ROW03,,"Monday, July 17",3,Final,"Women's Single Sculls Quarterfinal Women's Double Sculls Semifinal Women's Pair Semifinal
+Men's Double Sculls Final C Men's Pair Final C
+Men's Double Sculls Final B Men's Pair Final B
+Men's Double Sculls Final A
+Men's Pair Final A",12:30,15:10
+Rowing,Marine Stadium,Long Beach,ROW04,,"Tuesday, July 18",4,Final,"Men's Quadruple Sculls Heats Men's Four Heats
+Men's Single Sculls Quarterfinal Women's Double Sculls Final C Women's Pair Final C
+Women's Double Sculls Final B Women's Pair Final B
+Women's Double Sculls Final A
+Women's Pair Final A",13:30,16:00
+Rowing,Marine Stadium,Long Beach,ROW05,,"Wednesday, July 19",5,Final,"Women's Quadruple Sculls Heats Women's Four Heats
+Women's Single Sculls Semifinal Women's Single Sculls Final E Women's Single Sculls Final F Men's Quadruple Sculls Final B Men's Four Final B
+Men's Quadruple Sculls Final A
+Men's Four Final A",8:00,10:10
+Rowing,Marine Stadium,Long Beach,ROW06,,"Thursday, July 20",6,Final,"Men's Eight Heats
+Men's Single Sculls Semifinal Men's Single Sculls Final E Men's Single Sculls Final F
+Women's Quadruple Sculls Final B Women's Four Final B
+Women's Quadruple Sculls Final A
+Women's Four Final A",9:00,11:00
+Rowing,Marine Stadium,Long Beach,ROW07,,"Friday, July 21",7,Final,"Women's Eight Heats Women's Single Sculls Final D Women's Single Sculls Final C Women's Single Sculls Final B Men's Eight Final B
+Women's Single Sculls Final A
+Men's Eight Final A",10:00,11:30
+Rowing,Marine Stadium,Long Beach,ROW08,,"Saturday, July 22",8,Final,Men's Single Sculls Final D Men's Single Sculls Final C Men's Single Sculls Final B Women's Eight Final B Men's Single Sculls Final A Women's Eight Final A,10:30,11:50
+Rowing Coastal Beach Sprints,Belmont Shore,Long Beach,RCB01,,"Monday, July 24",10,Preliminary,Women's Solo Time Trial 1 Men's Solo Time Trial 1 Women's Solo Time Trial 2 Men's Solo Time Trial 2 Women's Solo Last 16 Men's Solo Last 16,8:30,12:15
+Rowing Coastal Beach Sprints,Belmont Shore,Long Beach,RCB02,,"Monday, July 24",10,Final,"Women's Solo Final 8
+Men's Solo Final 8",14:30,16:50
+Rowing Coastal Beach Sprints,Belmont Shore,Long Beach,RCB03,,"Tuesday, July 25",11,Preliminary,Mixed Double Sculls Time Trial 1 Mixed Double Sculls Time Trial 2 Mixed Double Sculls Last 16,10:00,11:50
+Rowing Coastal Beach Sprints,Belmont Shore,Long Beach,RCB04,,"Tuesday, July 25",11,Final,Mixed Double Sculls Final 8,14:00,15:20
+Rugby Sevens,Carson Stadium,Carson,RU701,,"Wednesday, July 12",-2,Preliminary,Women's Pool Play (6 Matches),10:00,13:00
+Rugby Sevens,Carson Stadium,Carson,RU702,,"Wednesday, July 12",-2,Preliminary,Women's Pool Play (6 Matches),16:00,19:00
+Rugby Sevens,Carson Stadium,Carson,RU703,,"Thursday, July 13",-1,Preliminary,Women's Pool Play (6 Matches),10:00,13:00
+Rugby Sevens,Carson Stadium,Carson,RU704,,"Thursday, July 13",-1,Quarterfinal,Women's Classification 9-12 (2 Matches) Women's Quarterfinal (4 Matches),16:00,19:00
+Rugby Sevens,Carson Stadium,Carson,RU705,,"Saturday, July 15",1,Semifinal,"Women's Classification 5-8
+Women's Placing 11-12
+Women's Placing 9-10
+Women's Semifinal (2 Matches)",13:00,16:00
+Rugby Sevens,Carson Stadium,Carson,RU706,,"Saturday, July 15",1,Final,"Women's Placing 7-8
+Women's Placing 5-6 Women's Bronze Medal Match Women's Gold Medal Match",19:00,21:30
+Rugby Sevens,Carson Stadium,Carson,RU707,,"Sunday, July 16",2,Preliminary,Men's Pool Play (6 Matches),10:00,13:00
+Rugby Sevens,Carson Stadium,Carson,RU708,,"Sunday, July 16",2,Preliminary,Men's Pool Play (6 Matches),16:00,19:00
+Rugby Sevens,Carson Stadium,Carson,RU709,,"Monday, July 17",3,Preliminary,Men's Pool Play (6 Matches),10:00,13:00
+Rugby Sevens,Carson Stadium,Carson,RU710,,"Monday, July 17",3,Quarterfinal,Men's Classification 9-12 (2 Matches) Men's Quarterfinal (4 Matches),16:00,19:00
+Rugby Sevens,Carson Stadium,Carson,RU711,,"Tuesday, July 18",4,Semifinal,"Men's Classification 5-8
+Men's Placing 11-12
+Men's Placing 9-10
+Men's Semifinal (2 Matches)",13:00,16:00
+Rugby Sevens,Carson Stadium,Carson,RU712,,"Tuesday, July 18",4,Final,"Men's Placing 7-8
+Men's Placing 5-6
+Men's Bronze Medal Match Men's Gold Medal Match",19:00,21:30
+Sailing (Windsurfing & Kite),Belmont Shore,Long Beach,SAL01,,"Sunday, July 16",2,Preliminary,"Men's Kite Qualification Series - Day 1
+Women's Kite Qualification Series - Day 1",14:00,20:00
+Sailing (Windsurfing & Kite),Belmont Shore,Long Beach,SAL02,,"Monday, July 17",3,Preliminary,"Men's Windsurfing Qualification Series - Day 1 Women's Windsurfing Qualification Series - Day 1 Men's Kite Qualification Series - Day 2
+Women's Kite Qualification Series - Day 2",14:00,20:00
+Sailing (Windsurfing & Kite),Belmont Shore,Long Beach,SAL03,,"Tuesday, July 18",4,Preliminary,"Men's Windsurfing Qualification Series - Day 2 Women's Windsurfing Qualification Series - Day 2 Men's Kite Qualification Series - Day 3
+Women's Kite Qualification Series - Day 3",14:00,20:00
+Sailing (Windsurfing & Kite),Belmont Shore,Long Beach,SAL04,,"Wednesday, July 19",5,Final,"Men's Windsurfing Qualification Series - Day 3 Women's Windsurfing Qualification Series - Day 3 Men's Kite Finals
+Women's Kite Finals",14:00,20:00
+Sailing (Windsurfing & Kite),Belmont Shore,Long Beach,SAL05,,"Thursday, July 20",6,Final,Men's Windsurfing Finals Women's Windsurfing Finals,14:00,17:00
+"Sailing (Dinghy, Skiff &
+Multihull)",Port of Los Angeles,Port of Los Angeles,SAL06,,"Sunday, July 23",9,Preliminary,"Men's Dinghy Qualification Series - Day 1
+Women's Dinghy Qualification Series - Day 1",14:00,20:00
+"Sailing (Dinghy, Skiff & Multihull)",Port of Los Angeles,Port of Los Angeles,SAL07,,"Monday, July 24",10,Preliminary,Men's Dinghy Qualification Series - Day 2 Women's Dinghy Qualification Series - Day 2 Mixed Dinghy Qualification Series - Day 1 Mixed Multihull Qualification Series - Day 1,14:00,20:00
+"Sailing (Dinghy, Skiff & Multihull)",Port of Los Angeles,Port of Los Angeles,SAL08,,"Tuesday, July 25",11,Preliminary,"Men's Dinghy Qualification Series - Day 3 Women's Dinghy Qualification Series - Day 3 Men's Skiff Qualification Series - Day 1 Women's Skiff Qualification Series - Day 1 Mixed Dinghy Qualification Series - Day 2
+Mixed Multihull Qualification Series - Day 2",14:00,20:00
+"Sailing (Dinghy, Skiff & Multihull)",Port of Los Angeles,Port of Los Angeles,SAL09,,"Wednesday, July 26",12,Final,"Men's Dinghy Finals Women's Dinghy Finals
+Men's Skiff Qualification Series - Day 2 Women's Skiff Qualification Series - Day 2 Mixed Dinghy Qualification Series - Day 3
+Mixed Multihull Qualification Series - Day 3",14:00,20:00
+"Sailing (Dinghy, Skiff & Multihull)",Port of Los Angeles,Port of Los Angeles,SAL10,,"Thursday, July 27",13,Final,"Men's Skiff Qualification Series - Day 3 Women's Skiff Qualification Series - Day 3 Mixed Dinghy Finals
+Mixed Multihull Finals",14:00,20:00
+"Sailing (Dinghy, Skiff &
+Multihull)",Port of Los Angeles,Port of Los Angeles,SAL11,,"Friday, July 28",14,Final,"Men's Skiff Finals
+Women's Skiff Finals",14:00,17:00
+Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,SHO01,,"Saturday, July 15",1,Final,"Women's 10m Air Rifle Qualification Men's 10m Air Rifle Qualification Women's 10m Air Rifle Final
+Men's 10m Air Rifle Final",13:45,21:00
+Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,SHO02,,"Sunday, July 16",2,Final,"Men's 10m Air Pistol Qualification Women's 10m Air Pistol Qualification Men's 10m Air Pistol Final
+Women's 10m Air Pistol Final",13:45,21:00
+Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,SHO04,,"Monday, July 17",3,Final,"Mixed Team 10m Air Rifle Qualification Mixed Team 10m Air Pistol Qualification Mixed Team 10m Air Rifle Final
+Mixed Team 10m Air Pistol Final",15:00,21:00
+Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,SHO06,,"Wednesday, July 19",5,Final,Men's 50m Rifle 3 Positions Qualification Men's 50m Rifle 3 Positions Final,9:30,14:00
+Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,SHO07,,"Thursday, July 20",6,Final,Women's 50m Rifle 3 Positions Qualification Women's 50m Rifle 3 Positions Final,9:30,14:00
+Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,SHO09,,"Saturday, July 22",8,Preliminary,"Men's 25m Rapid Fire Pistol Stage 1
+Women's 25m Pistol Qualification Precision Stage",9:30,17:30
+Shooting (Rifle & Pistol),Long Beach Target Shooting Hall,Long Beach,SHO11,,"Sunday, July 23",9,Final,"Men's 25m Rapid Fire Pistol Stage 2
+Women's 25m Pistol Qualification Rapid Fire Stage Men's 25m Rapid Fire Pistol Final
+Women's 25m Pistol Final",9:30,21:00
+Shooting (Shotgun),Whittier Narrows Clay Shooting Center,Whittier Narrows,SHO03,,"Monday, July 17",3,Preliminary,Men's Skeet Qualification - Day 1 Women's Skeet Qualification - Day 1,9:30,14:30
+Shooting (Shotgun),Whittier Narrows Clay Shooting Center,Whittier Narrows,SHO05,,"Tuesday, July 18",4,Final,"Women's Skeet Qualification - Day 2 Men's Skeet Qualification - Day 2 Women's Skeet Final
+Men's Skeet Final",9:30,17:15
+Shooting (Shotgun),Whittier Narrows Clay Shooting Center,Whittier Narrows,SHO08,,"Friday, July 21",7,Preliminary,"Women's Trap Qualification - Day 1
+Men's Trap Qualification - Day 1",9:30,14:30
+Shooting (Shotgun),Whittier Narrows Clay Shooting Center,Whittier Narrows,SHO10,,"Saturday, July 22",8,Final,"Women's Trap Qualification - Day 2 Men's Trap Qualification - Day 2 Women's Trap Final
+Men's Trap Final",9:30,17:15
+Shooting (Shotgun),Whittier Narrows Clay Shooting Center,Whittier Narrows,SHO12,,"Monday, July 24",10,Final,Mixed Team Trap Qualification Mixed Team Trap Final,9:30,16:45
+Skateboarding (Street),Valley Complex 1,Valley,SKB01,,"Tuesday, July 18",4,Preliminary,Women's Street Preliminary,17:00,20:10
+Skateboarding (Street),Valley Complex 1,Valley,SKB02,,"Wednesday, July 19",5,Preliminary,Men's Street Preliminary,10:30,13:40
+Skateboarding (Street),Valley Complex 1,Valley,SKB03,,"Wednesday, July 19",5,Final,Women's Street Final,20:30,22:00
+Skateboarding (Street),Valley Complex 1,Valley,SKB04,,"Thursday, July 20",6,Final,Men's Street Final,20:30,22:00
+Skateboarding (Park),Valley Complex 2,Valley,SKB05,,"Tuesday, July 25",11,Preliminary,Men's Park Preliminary,10:30,13:30
+Skateboarding (Park),Valley Complex 2,Valley,SKB06,,"Tuesday, July 25",11,Preliminary,Women's Park Preliminary,20:00,23:00
+Skateboarding (Park),Valley Complex 2,Valley,SKB07,,"Wednesday, July 26",12,Final,Men's Park Final,20:00,21:15
+Skateboarding (Park),Valley Complex 2,Valley,SKB08,,"Thursday, July 27",13,Final,Women's Park Final,20:00,21:15
+Squash,Comcast Squash Center at Universal Studios,Universal City,SQU01,,"Saturday, July 15",1,Preliminary,Men's and Women's Round of 16 (4 Matches),19:30,23:15
+Squash,Comcast Squash Center at Universal Studios,Universal City,SQU02,,"Sunday, July 16",2,Preliminary,Men's and Women's Round of 16 (4 Matches),19:30,23:15
+Squash,Comcast Squash Center at Universal Studios,Universal City,SQU03,,"Monday, July 17",3,Preliminary,Men's and Women's Round of 16 (4 Matches),19:30,23:15
+Squash,Comcast Squash Center at Universal Studios,Universal City,SQU04,,"Tuesday, July 18",4,Preliminary,Men's and Women's Round of 16 (4 Matches),19:30,23:15
+Squash,Comcast Squash Center at Universal Studios,Universal City,SQU05,,"Wednesday, July 19",5,Quarterfinal,Men's and Women's Quarterfinal (4 Matches),19:30,23:15
+Squash,Comcast Squash Center at Universal Studios,Universal City,SQU06,,"Thursday, July 20",6,Quarterfinal,Men's and Women's Quarterfinal (4 Matches),19:30,23:15
+Squash,Comcast Squash Center at Universal Studios,Universal City,SQU07,,"Friday, July 21",7,Semifinal,Women's Semifinal (2 Matches),20:30,23:15
+Squash,Comcast Squash Center at Universal Studios,Universal City,SQU08,,"Saturday, July 22",8,Semifinal,Men's Semifinal (2 Matches),20:30,23:15
+Squash,Comcast Squash Center at Universal Studios,Universal City,SQU09,,"Sunday, July 23",9,Final,Women's Bronze Medal Match Women's Gold Medal Match,20:30,23:30
+Squash,Comcast Squash Center at Universal Studios,Universal City,SQU10,,"Monday, July 24",10,Final,"Men's Bronze Medal Match
+Men's Gold Medal Match",20:30,23:30
+Surfing,Trestles State Beach,Trestles Beach,SRF01,,"Saturday, July 15",1,Preliminary,"Men's Round 1
+Women's Round 1",7:00,16:30
+Surfing,Trestles State Beach,Trestles Beach,SRF02,,"Sunday, July 16",2,Preliminary,"Men's Round 2
+Women's Round 2",7:00,16:30
+Surfing,Trestles State Beach,Trestles Beach,SRF03,,"Monday, July 17",3,Preliminary,"Men's Round 3
+Women's Round 3",7:00,16:30
+Surfing,Trestles State Beach,Trestles Beach,SRF04,,"Tuesday, July 18",4,Final,"Men's Quarterfinal Women's Quarterfinal Men's Semifinal Women's Semifinal
+Men's Bronze Medal Match Women's Bronze Medal Match Men's Gold Medal Match
+Women's Gold Medal Match",7:00,17:30
+Swimming,2028 Stadium,Inglewood,SWM01,,"Saturday, July 22",8,Preliminary,"Women's 100m Butterfly Heats Men's 400m Freestyle Heats Men's 50m Butterfly Heats Women's 50m Backstroke Heats Men's 100m Breaststroke Heats Women's 400m Freestyle Heats
+Women's 4x100m Freestyle Relay Heats
+Men's 4x100m Freestyle Relay Heats",9:30,11:30
+Swimming,2028 Stadium,Inglewood,SWM02,,"Saturday, July 22",8,Final,"Men's 400m Freestyle Final Women's 100m Butterfly Semifinal Men's 50m Butterfly Semifinal Women's 400m Freestyle Final Men's 100m Breaststroke Semifinal Women's 50m Backstroke Semifinal Men's 4x100m Freestyle Relay Final
+Women's 4x100m Freestyle Relay Final",18:00,20:00
+Swimming,2028 Stadium,Inglewood,SWM03,,"Sunday, July 23",9,Preliminary,Women's 100m Breaststroke Heats Men's 100m Backstroke Heats Women's 100m Freestyle Heats Men's 400m Individual Medley Heats,9:30,11:30
+Swimming,2028 Stadium,Inglewood,SWM04,,"Sunday, July 23",9,Final,"Women's 100m Butterfly Final Men's 50m Butterfly Final
+Women's 100m Breaststroke Semifinal Men's 400m Individual Medley Final Men's 100m Backstroke Semifinal Women's 100m Freestyle Semifinal Men's 100m Breaststroke Final
+Women's 50m Backstroke Final",18:00,20:00
+Swimming,2028 Stadium,Inglewood,SWM05,,"Monday, July 24",10,Preliminary,"Women's 400m Individual Medley Heats Men's 200m Freestyle Heats
+Women's 100m Backstroke Heats Men's 50m Breaststroke Heats Men's 200m Butterfly Heats
+Men's 1500m Freestyle Heats",9:30,11:30
+Swimming,2028 Stadium,Inglewood,SWM06,,"Monday, July 24",10,Final,"Women's 100m Freestyle Final Men's 200m Freestyle Semifinal
+Women's 100m Backstroke Semifinal Men's 100m Backstroke Final Women's 100m Breaststroke Final Men's 50m Breaststroke Semifinal Men's 200m Butterfly Semifinal
+Women's 400m Individual Medley Final",18:00,20:00
+Swimming,2028 Stadium,Inglewood,SWM07,,"Tuesday, July 25",11,Preliminary,Women's 200m Freestyle Heats Men's 50m Freestyle Heats Women's 200m Breaststroke Heats Women's 1500m Freestyle Heats,9:30,11:30
+Swimming,2028 Stadium,Inglewood,SWM08,,"Tuesday, July 25",11,Final,"Women's 200m Breaststroke Semifinal Men's 200m Freestyle Final
+Men's 50m Breaststroke Final Men's 1500m Freestyle Final Women's 200m Freestyle Semifinal Men's 200m Butterfly Final
+Men's 50m Freestyle Semifinal
+Women's 100m Backstroke Final",18:00,20:00
+Swimming,2028 Stadium,Inglewood,SWM09,,"Wednesday, July 26",12,Preliminary,"Men's 200m Individual Medley Heats Women's 50m Butterfly Heats
+Men's 200m Backstroke Heats
+Men's 4x200m Freestyle Relay Heats",9:30,11:30
+Swimming,2028 Stadium,Inglewood,SWM10,,"Wednesday, July 26",12,Final,"Men's 200m Individual Medley Semifinal Women's 200m Freestyle Final
+Men's 50m Freestyle Final Women's 50m Butterfly Semifinal Women's 200m Breaststroke Final Men's 200m Backstroke Semifinal Women's 1500m Freestyle Final
+Men's 4x200m Freestyle Relay Final",18:00,20:00
+Swimming,2028 Stadium,Inglewood,SWM11,,"Thursday, July 27",13,Preliminary,"Women's 200m Individual Medley Heats Men's 200m Breaststroke Heats
+Men's 100m Freestyle Heats Women's 200m Backstroke Heats
+Women's 4x200m Freestyle Relay Heats",9:30,11:30
+Swimming,2028 Stadium,Inglewood,SWM12,,"Thursday, July 27",13,Final,"Women's 200m Individual Medley Semifinal Men's 200m Backstroke Final
+Men's 200m Breaststroke Semifinal Women's 50m Butterfly Final
+Men's 100m Freestyle Semifinal Women's 200m Backstroke Semifinal Men's 200m Individual Medley Final
+Women's 4x200m Freestyle Relay Final",18:00,20:00
+Swimming,2028 Stadium,Inglewood,SWM13,,"Friday, July 28",14,Preliminary,"Men's 100m Butterfly Heats Men's 50m Backstroke Heats
+Women's 50m Breaststroke Heats
+Men's 800m Freestyle Heats 4x100m Mixed Medley Relay Heats",9:30,11:30
+Swimming,2028 Stadium,Inglewood,SWM14,,"Friday, July 28",14,Final,Men's 100m Butterfly Semifinal Women's 200m Backstroke Final Men's 200m Breaststroke Final Women's 50m Breaststroke Semifinal Men's 50m Backstroke Semifinal Women's 200m Individual Medley Final Men's 100m Freestyle Final,18:00,20:00
+Swimming,2028 Stadium,Inglewood,SWM15,,"Saturday, July 29",15,Preliminary,"Women's 50m Freestyle Heats Women's 200m Butterfly Heats Women's 800m Freestyle Heats Men's 4x100m Medley Relay Heats
+Women's 4x100m Medley Relay Heats",9:30,11:30
+Swimming,2028 Stadium,Inglewood,SWM16,,"Saturday, July 29",15,Final,"Women's 50m Freestyle Semifinal Men's 100m Butterfly Final
+Men's 50m Backstroke Final Women's 50m Breaststroke Final Men's 800m Freestyle Final Women's 200m Butterfly Semifinal
+4x100m Mixed Medley Relay Final",18:00,20:00
+Swimming,2028 Stadium,Inglewood,SWM17,,"Sunday, July 30",16,Final,Women's 50m Freestyle Final Women's 200m Butterfly Final Women's 800m Freestyle Final Men's 4x100m Medley Relay Final Women's 4x100m Medley Relay Final,15:00,16:30
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE01,,"Saturday, July 15",1,Preliminary,"Men's Singles Round of 64 Women's Singles Round of 64
+Mixed Doubles Round of 16",10:00,13:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE02,,"Saturday, July 15",1,Preliminary,Men's Doubles Round of 16 Women's Doubles Round of 16,14:30,17:30
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE03,,"Saturday, July 15",1,Preliminary,Men's Singles Round of 64 Women's Singles Round of 64,19:30,22:30
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE04,,"Sunday, July 16",2,Quarterfinal,Mixed Doubles Quarterfinal Men's Singles Round of 64 Women's Singles Round of 64,10:00,13:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE05,,"Sunday, July 16",2,Preliminary,Men's Singles Round of 64 Women's Singles Round of 64,15:30,18:30
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE06,,"Sunday, July 16",2,Semifinal,"Mixed Doubles Semifinal
+Men's Singles Round of 64 Women's Singles Round of 64",20:15,23:15
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE07,,"Monday, July 17",3,Quarterfinal,Men's Doubles Quarterfinal Women's Doubles Quarterfinal Men's Singles Round of 64 Women's Singles Round of 64,10:00,13:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE08,,"Monday, July 17",3,Preliminary,Men's Singles Round of 64 Women's Singles Round of 64,15:00,18:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE09,,"Monday, July 17",3,Final,"Mixed Doubles Bronze Medal Match
+Mixed Doubles Gold Medal Match",21:00,23:15
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE10,,"Tuesday, July 18",4,Semifinal,Men's Doubles Semifinal Men's Singles Round of 32 Women's Singles Round of 32,10:00,13:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE11,,"Tuesday, July 18",4,Preliminary,"Men's Singles Round of 32
+Women's Singles Round of 32",15:00,18:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE12,,"Tuesday, July 18",4,Final,Men's Doubles Bronze Medal Match Men's Doubles Gold Medal Match,21:00,23:15
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE13,,"Wednesday, July 19",5,Semifinal,Women's Doubles Semifinal Men's Singles Round of 32 Women's Singles Round of 32,10:00,13:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE14,,"Wednesday, July 19",5,Preliminary,"Men's Singles Round of 32
+Women's Singles Round of 32",15:00,18:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE15,,"Wednesday, July 19",5,Final,Women's Doubles Bronze Medal Match Women's Doubles Gold Medal Match,21:00,23:15
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE16,,"Thursday, July 20",6,Preliminary,"Men's Singles Round of 16
+Women's Singles Round of 16",10:00,13:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE17,,"Thursday, July 20",6,Preliminary,Men's Singles Round of 16 Women's Singles Round of 16,15:00,18:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE18,,"Thursday, July 20",6,Preliminary,"Men's Singles Round of 16
+Women's Singles Round of 16",20:00,22:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE19,,"Friday, July 21",7,Quarterfinal,Men's Singles Quarterfinal Women's Singles Quarterfinal,10:00,13:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE20,,"Friday, July 21",7,Quarterfinal,Men's Singles Quarterfinal Women's Singles Quarterfinal,15:00,18:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE21,,"Friday, July 21",7,Quarterfinal,"Men's Singles Quarterfinal
+Women's Singles Quarterfinal",21:00,23:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE22,,"Saturday, July 22",8,Semifinal,Women's Singles Semifinal,14:00,16:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE23,,"Saturday, July 22",8,Final,"Women's Singles Bronze Medal Match
+Women's Singles Gold Medal Match",21:00,23:15
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE24,,"Sunday, July 23",9,Semifinal,Men's Singles Semifinal,14:00,16:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE25,,"Sunday, July 23",9,Final,"Men's Singles Bronze Medal Match
+Men's Singles Gold Medal Match",21:00,23:15
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE26,,"Monday, July 24",10,Preliminary,Mixed Team Groups 1 and 2 Round 1,10:00,15:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE27,,"Monday, July 24",10,Preliminary,Mixed Team Groups 3 and 4 Round 1,17:00,22:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE28,,"Tuesday, July 25",11,Preliminary,Mixed Team Groups 1 and 2 Round 2,10:00,15:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE29,,"Tuesday, July 25",11,Preliminary,Mixed Team Groups 3 and 4 Round 2,17:00,22:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE30,,"Wednesday, July 26",12,Preliminary,Mixed Team Groups 1 and 2 Round 3,10:00,15:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE31,,"Wednesday, July 26",12,Preliminary,Mixed Team Groups 3 and 4 Round 3,17:00,22:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE32,,"Thursday, July 27",13,Quarterfinal,Mixed Team Quarterfinal (2 Matches),10:00,15:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE33,,"Thursday, July 27",13,Quarterfinal,Mixed Team Quarterfinal (2 Matches),17:00,22:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE34,,"Friday, July 28",14,Semifinal,Mixed Team Semifinal,12:30,15:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE35,,"Friday, July 28",14,Semifinal,Mixed Team Semifinal,20:00,22:30
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE36,,"Saturday, July 29",15,Bronze,Mixed Team Bronze Medal Match,12:30,15:00
+Table Tennis,LA Convention Center Hall 3,DTLA,TTE37,,"Saturday, July 29",15,Final,Mixed Team Gold Medal Match,20:00,22:45
+Taekwondo,LA Convention Center Hall 1,DTLA,TKW01,,"Wednesday, July 26",12,Preliminary,Women's -49kg Round of 32 Men's -58kg Round of 32 Women's -49kg Round of 16 Men's -58kg Round of 16,9:00,13:00
+Taekwondo,LA Convention Center Hall 1,DTLA,TKW02,,"Wednesday, July 26",12,Semifinal,Women's -49kg Quarterfinal Men's -58kg Quarterfinal Women's -49kg Semifinal Men's -58kg Semifinal,15:00,18:00
+Taekwondo,LA Convention Center Hall 1,DTLA,TKW03,,"Wednesday, July 26",12,Final,"Women's -49kg Repechage Contests Men's -58kg Repechage Contests Women's -49kg Bronze Medal Contests Men's -58kg Bronze Medal Contests Women's -49kg Gold Medal Contest
+Men's -58kg Gold Medal Contest",19:30,23:00
+Taekwondo,LA Convention Center Hall 1,DTLA,TKW04,,"Thursday, July 27",13,Preliminary,Men's -68kg Round of 32 Women's -57kg Round of 32 Men's -68kg Round of 16 Women's -57kg Round of 16,9:00,13:00
+Taekwondo,LA Convention Center Hall 1,DTLA,TKW05,,"Thursday, July 27",13,Semifinal,Men's -68kg Quarterfinal Women's -57kg Quarterfinal Men's -68kg Semifinal Women's -57kg Semifinal,15:00,18:00
+Taekwondo,LA Convention Center Hall 1,DTLA,TKW06,,"Thursday, July 27",13,Final,Men's -68kg Repechage Contests Women's -57kg Repechage Contests Men's -68kg Bronze Medal Contests Women's -57kg Bronze Medal Contests Men's -68kg Gold Medal Contest Women's -57kg Gold Medal Contest,19:30,23:00
+Taekwondo,LA Convention Center Hall 1,DTLA,TKW07,,"Friday, July 28",14,Preliminary,"Women's -67kg Round of 32 Men's -80kg Round of 32 Women's -67kg Round of 16
+Men's -80kg Round of 16",9:00,13:00
+Taekwondo,LA Convention Center Hall 1,DTLA,TKW08,,"Friday, July 28",14,Semifinal,"Women's -67kg Quarterfinal Men's -80kg Quarterfinal Women's -67kg Semifinal
+Men's -80kg Semifinal",15:00,18:00
+Taekwondo,LA Convention Center Hall 1,DTLA,TKW09,,"Friday, July 28",14,Final,Women's -67kg Repechage Contests Men's -80kg Repechage Contests Women's -67kg Bronze Medal Contests Men's -80kg Bronze Medal Contests Women's -67kg Gold Medal Contest Men's -80kg Gold Medal Contest,19:30,23:00
+Taekwondo,LA Convention Center Hall 1,DTLA,TKW10,,"Saturday, July 29",15,Preliminary,Men's +80kg Round of 32 Men's +80kg Round of 16 Women's +67kg Round of 16,9:00,13:00
+Taekwondo,LA Convention Center Hall 1,DTLA,TKW11,,"Saturday, July 29",15,Semifinal,Men's +80kg Quarterfinal Women's +67kg Quarterfinal Men's +80kg Semifinal Women's +67kg Semifinal,15:00,18:00
+Taekwondo,LA Convention Center Hall 1,DTLA,TKW12,,"Saturday, July 29",15,Final,Men's +80kg Repechage Contests Women's +67kg Repechage Contests Men's +80kg Bronze Medal Contests Women's +67kg Bronze Medal Contests Men's +80kg Gold Medal Contest Women's +67kg Gold Medal Contest,19:30,23:00
+Tennis,Carson Center Court,Carson,TEN01,,"Wednesday, July 19",5,Preliminary,Mixed Doubles Round 1 (3 Matches),11:00,16:30
+Tennis,Carson Court 1,Carson,TEN02,,"Wednesday, July 19",5,Preliminary,Mixed Doubles Round 1 (3 Matches),11:00,16:30
+Tennis,Carson Court 2,Carson,TEN03,,"Wednesday, July 19",5,Preliminary,Mixed Doubles Round 1 (2 Matches),11:00,16:30
+Tennis,Carson Center Court,Carson,TEN04,,"Wednesday, July 19",5,Quarterfinal,Mixed Doubles Quarterfinal (2 Matches),18:30,23:30
+Tennis,Carson Court 1,Carson,TEN05,,"Wednesday, July 19",5,Quarterfinal,Mixed Doubles Quarterfinal (2 Matches),18:30,23:30
+Tennis,Carson Center Court,Carson,TEN06,,"Thursday, July 20",6,Semifinal,Mixed Doubles Semifinal (2 Matches),11:00,16:30
+Tennis,Carson Court 1,Carson,TEN07,,"Thursday, July 20",6,Preliminary,Men's and/or Women's Singles Round 1,11:00,20:00
+Tennis,Carson Court 2,Carson,TEN08,,"Thursday, July 20",6,Preliminary,Men's and/or Women's Singles Round 1,11:00,20:00
+Tennis,Carson Courts 3-11,Carson,TEN09,,"Thursday, July 20",6,Preliminary,Men's and/or Women's Singles Round 1,11:00,20:00
+Tennis,Carson Center Court,Carson,TEN10,,"Thursday, July 20",6,Final,Mixed Doubles Bronze Medal Match Mixed Doubles Gold Medal Match,18:30,0:00
+Tennis,Carson Center Court,Carson,TEN11,,"Friday, July 21",7,Preliminary,Men's and/or Women's Singles Round 1,11:00,16:30
+Tennis,Carson Court 1,Carson,TEN12,,"Friday, July 21",7,Preliminary,Men's and/or Women's Singles Round 1 Men's and/or Women's Doubles Round 1,11:00,20:00
+Tennis,Carson Court 2,Carson,TEN13,,"Friday, July 21",7,Preliminary,"Men's and/or Women's Singles Round 1
+Men's and/or Women's Doubles Round 1",11:00,20:00
+Tennis,Carson Courts 3-11,Carson,TEN14,,"Friday, July 21",7,Preliminary,Men's and/or Women's Singles Round 1 Men's and/or Women's Doubles Round 1,11:00,20:00
+Tennis,Carson Center Court,Carson,TEN15,,"Friday, July 21",7,Preliminary,Men's and/or Women's Singles Round 1,18:30,23:30
+Tennis,Carson Center Court,Carson,TEN16,,"Saturday, July 22",8,Preliminary,Men's and/or Women's Singles Round 2,11:00,16:30
+Tennis,Carson Court 1,Carson,TEN17,,"Saturday, July 22",8,Preliminary,"Men's and/or Women's Singles Round 2
+Men's and/or Women's Doubles Round 1",11:00,20:00
+Tennis,Carson Court 2,Carson,TEN18,,"Saturday, July 22",8,Preliminary,Men's and/or Women's Singles Round 2 Men's and/or Women's Doubles Round 1,11:00,20:00
+Tennis,Carson Courts 3-11,Carson,TEN19,,"Saturday, July 22",8,Preliminary,Men's and/or Women's Singles Round 2 Men's and/or Women's Doubles Round 1,11:00,20:00
+Tennis,Carson Center Court,Carson,TEN20,,"Saturday, July 22",8,Preliminary,Men's and/or Women's Singles Round 2,18:30,23:30
+Tennis,Carson Center Court,Carson,TEN21,,"Sunday, July 23",9,Preliminary,Men's Singles Round 2 and/or Women's Singles Round 3,11:00,16:30
+Tennis,Carson Court 1,Carson,TEN22,,"Sunday, July 23",9,Preliminary,"Men's Singles Round 2 Women's Singles Round 3
+Men's and/or Women's Doubles Round 2",11:00,20:00
+Tennis,Carson Court 2,Carson,TEN23,,"Sunday, July 23",9,Preliminary,"Men's Singles Round 2 Women's Singles Round 3
+Men's and/or Women's Doubles Round 2",11:00,20:00
+Tennis,Carson Courts 3-11,Carson,TEN24,,"Sunday, July 23",9,Preliminary,"Men's Singles Round 2 Women's Singles Round 3
+Men's and/or Women's Doubles Round 2",11:00,20:00
+Tennis,Carson Center Court,Carson,TEN25,,"Sunday, July 23",9,Preliminary,Men's Singles Round 2 and/or Women's Singles Round 3,18:30,23:30
+Tennis,Carson Center Court,Carson,TEN26,,"Monday, July 24",10,Quarterfinal,Men's Singles Round 3 and/or Women's Singles Quarterfinal,11:00,16:30
+Tennis,Carson Court 1,Carson,TEN27,,"Monday, July 24",10,Quarterfinal,Men's Singles Round 3 and/or Women's Singles Quarterfinal and/or Men's Doubles Quarterfinal and/or Women's Doubles Round 2,11:00,20:00
+Tennis,Carson Court 2,Carson,TEN28,,"Monday, July 24",10,Quarterfinal,Men's Singles Round 3 and/or Women's Singles Quarterfinal and/or Men's Doubles Quarterfinal and/or Women's Doubles Round 2,11:00,20:00
+Tennis,Carson Courts 3-11,Carson,TEN29,,"Monday, July 24",10,Quarterfinal,"Men's Singles Round 3 and/or Women's Singles Quarterfinal and/or Men's Doubles Quarterfinal and/or
+Women's Doubles Round 2",11:00,20:00
+Tennis,Carson Center Court,Carson,TEN30,,"Monday, July 24",10,Quarterfinal,Men's Singles Round 3 and/or Women's Singles Quarterfinal,18:30,23:30
+Tennis,Carson Center Court,Carson,TEN31,,"Tuesday, July 25",11,Semifinal,Men's Singles Quarterfinal Women's Singles Semifinal,11:00,16:30
+Tennis,Carson Court 1,Carson,TEN32,,"Tuesday, July 25",11,Semifinal,Men's Doubles Semifinal  Men's Singles Quarterfinal Women's Doubles Quarterfinal,11:00,20:00
+Tennis,Carson Court 2,Carson,TEN33,,"Tuesday, July 25",11,Semifinal,"Men's Doubles Semifinal
+Men's Singles Quarterfinal Women's Doubles Quarterfinal",11:00,20:00
+Tennis,Carson Courts 3-11,Carson,TEN34,,"Tuesday, July 25",11,Quarterfinal,Men's Singles Quarterfinal and/or Women's Doubles Quarterfinal,11:00,20:00
+Tennis,Carson Center Court,Carson,TEN35,,"Tuesday, July 25",11,Semifinal,Men's Singles Quarterfinal Women's Singles Semifinal,18:30,23:30
+Tennis,Carson Center Court,Carson,TEN36,,"Wednesday, July 26",12,Semifinal,Men's Singles Semifinal and/or Women's Doubles Semifinal,11:00,16:30
+Tennis,Carson Center Court,Carson,TEN37,,"Wednesday, July 26",12,Semifinal,Men's Singles Semifinal and/or Women's Doubles Semifinal,18:30,23:30
+Tennis,Carson Center Court,Carson,TEN38,,"Thursday, July 27",13,Final,Women's Singles Bronze Medal Match Women's Singles Gold Medal Match,11:00,16:30
+Tennis,Carson Center Court,Carson,TEN39,,"Thursday, July 27",13,Final,"Men's Doubles Bronze Medal Match
+Men's Doubles Gold Medal Match",18:30,0:00
+Tennis,Carson Center Court,Carson,TEN40,,"Friday, July 28",14,Final,Men's Singles Bronze Medal Match Men's Singles Gold Medal Match,11:00,16:30
+Tennis,Carson Center Court,Carson,TEN41,,"Friday, July 28",14,Final,"Women's Doubles Bronze Medal Match
+Women's Doubles Gold Medal Match",18:30,0:00
+Trampoline Gymnastics,DTLA Arena,DTLA,GTR01,,"Friday, July 21",7,Final,Men's Qualification Men's Final,12:30,15:15
+Trampoline Gymnastics,DTLA Arena,DTLA,GTR02,,"Friday, July 21",7,Final,"Women's Qualification
+Women's Final",20:00,22:45
+Triathlon,Venice Beach,Venice,TRI01,,"Saturday, July 15",1,Final,Women's Individual,7:30,10:10
+Triathlon,Venice Beach,Venice,TRI02,,"Sunday, July 16",2,Final,Men's Individual,7:30,10:00
+Triathlon,Venice Beach,Venice,TRI03,,"Thursday, July 20",6,Final,Mixed Relay,8:00,10:00
+Volleyball,Honda Center,Anaheim,VVO01,,"Saturday, July 15",1,Preliminary,Men's Preliminary,9:00,11:30
+Volleyball,Honda Center,Anaheim,VVO02,,"Saturday, July 15",1,Preliminary,Men's Preliminary,13:00,15:30
+Volleyball,Honda Center,Anaheim,VVO03,,"Saturday, July 15",1,Preliminary,Men's Preliminary,17:00,19:30
+Volleyball,Honda Center,Anaheim,VVO04,,"Saturday, July 15",1,Preliminary,Men's Preliminary,21:00,23:30
+Volleyball,Honda Center,Anaheim,VVO05,,"Sunday, July 16",2,Preliminary,Men's Preliminary,9:00,11:30
+Volleyball,Honda Center,Anaheim,VVO06,,"Sunday, July 16",2,Preliminary,Men's Preliminary,13:00,15:30
+Volleyball,Honda Center,Anaheim,VVO07,,"Sunday, July 16",2,Preliminary,Women's Preliminary,17:00,19:30
+Volleyball,Honda Center,Anaheim,VVO08,,"Sunday, July 16",2,Preliminary,Women's Preliminary,21:00,23:30
+Volleyball,Honda Center,Anaheim,VVO09,,"Monday, July 17",3,Preliminary,Women's Preliminary,9:00,11:30
+Volleyball,Honda Center,Anaheim,VVO10,,"Monday, July 17",3,Preliminary,Women's Preliminary,13:00,15:30
+Volleyball,Honda Center,Anaheim,VVO11,,"Monday, July 17",3,Preliminary,Women's Preliminary,17:00,19:30
+Volleyball,Honda Center,Anaheim,VVO12,,"Monday, July 17",3,Preliminary,Women's Preliminary,21:00,23:30
+Volleyball,Honda Center,Anaheim,VVO13,,"Tuesday, July 18",4,Preliminary,Men's Preliminary,9:00,11:30
+Volleyball,Honda Center,Anaheim,VVO14,,"Tuesday, July 18",4,Preliminary,Men's Preliminary,13:00,15:30
+Volleyball,Honda Center,Anaheim,VVO15,,"Tuesday, July 18",4,Preliminary,Men's Preliminary,17:00,19:30
+Volleyball,Honda Center,Anaheim,VVO16,,"Tuesday, July 18",4,Preliminary,Men's Preliminary,21:00,23:30
+Volleyball,Honda Center,Anaheim,VVO17,,"Wednesday, July 19",5,Preliminary,Men's Preliminary,9:00,11:30
+Volleyball,Honda Center,Anaheim,VVO18,,"Wednesday, July 19",5,Preliminary,Men's Preliminary,13:00,15:30
+Volleyball,Honda Center,Anaheim,VVO19,,"Wednesday, July 19",5,Preliminary,Women's Preliminary,17:00,19:30
+Volleyball,Honda Center,Anaheim,VVO20,,"Wednesday, July 19",5,Preliminary,Women's Preliminary,21:00,23:30
+Volleyball,Honda Center,Anaheim,VVO21,,"Thursday, July 20",6,Preliminary,Women's Preliminary,9:00,11:30
+Volleyball,Honda Center,Anaheim,VVO22,,"Thursday, July 20",6,Preliminary,Women's Preliminary,13:00,15:30
+Volleyball,Honda Center,Anaheim,VVO23,,"Thursday, July 20",6,Preliminary,Women's Preliminary,17:00,19:30
+Volleyball,Honda Center,Anaheim,VVO24,,"Thursday, July 20",6,Preliminary,Women's Preliminary,21:00,23:30
+Volleyball,Honda Center,Anaheim,VVO25,,"Friday, July 21",7,Preliminary,Men's Preliminary,9:00,11:30
+Volleyball,Honda Center,Anaheim,VVO26,,"Friday, July 21",7,Preliminary,Men's Preliminary,13:00,15:30
+Volleyball,Honda Center,Anaheim,VVO27,,"Friday, July 21",7,Preliminary,Men's Preliminary,17:00,19:30
+Volleyball,Honda Center,Anaheim,VVO28,,"Friday, July 21",7,Preliminary,Men's Preliminary,21:00,23:30
+Volleyball,Honda Center,Anaheim,VVO29,,"Saturday, July 22",8,Preliminary,Men's Preliminary,9:00,11:30
+Volleyball,Honda Center,Anaheim,VVO30,,"Saturday, July 22",8,Preliminary,Men's Preliminary,13:00,15:30
+Volleyball,Honda Center,Anaheim,VVO31,,"Saturday, July 22",8,Preliminary,Women's Preliminary,17:00,19:30
+Volleyball,Honda Center,Anaheim,VVO32,,"Saturday, July 22",8,Preliminary,Women's Preliminary,21:00,23:30
+Volleyball,Honda Center,Anaheim,VVO33,,"Sunday, July 23",9,Preliminary,Women's Preliminary,9:00,11:30
+Volleyball,Honda Center,Anaheim,VVO34,,"Sunday, July 23",9,Preliminary,Women's Preliminary,13:00,15:30
+Volleyball,Honda Center,Anaheim,VVO35,,"Sunday, July 23",9,Preliminary,Women's Preliminary,17:00,19:30
+Volleyball,Honda Center,Anaheim,VVO36,,"Sunday, July 23",9,Preliminary,Women's Preliminary,21:00,23:30
+Volleyball,Honda Center,Anaheim,VVO37,,"Monday, July 24",10,Quarterfinal,Men's Quarterfinal,9:00,11:30
+Volleyball,Honda Center,Anaheim,VVO38,,"Monday, July 24",10,Quarterfinal,Men's Quarterfinal,13:00,15:30
+Volleyball,Honda Center,Anaheim,VVO39,,"Monday, July 24",10,Quarterfinal,Men's Quarterfinal,17:00,19:30
+Volleyball,Honda Center,Anaheim,VVO40,,"Monday, July 24",10,Quarterfinal,Men's Quarterfinal,21:00,23:30
+Volleyball,Honda Center,Anaheim,VVO41,,"Tuesday, July 25",11,Quarterfinal,Women's Quarterfinal,9:00,11:30
+Volleyball,Honda Center,Anaheim,VVO42,,"Tuesday, July 25",11,Quarterfinal,Women's Quarterfinal,13:00,15:30
+Volleyball,Honda Center,Anaheim,VVO43,,"Tuesday, July 25",11,Quarterfinal,Women's Quarterfinal,17:00,19:30
+Volleyball,Honda Center,Anaheim,VVO44,,"Tuesday, July 25",11,Quarterfinal,Women's Quarterfinal,21:00,23:30
+Volleyball,Honda Center,Anaheim,VVO45,,"Wednesday, July 26",12,Semifinal,Men's Semifinal,11:00,13:30
+Volleyball,Honda Center,Anaheim,VVO46,,"Wednesday, July 26",12,Semifinal,Men's Semifinal,16:00,18:30
+Volleyball,Honda Center,Anaheim,VVO47,,"Thursday, July 27",13,Semifinal,Women's Semifinal,11:00,13:30
+Volleyball,Honda Center,Anaheim,VVO48,,"Thursday, July 27",13,Semifinal,Women's Semifinal,16:00,18:30
+Volleyball,Honda Center,Anaheim,VVO49,,"Friday, July 28",14,Bronze,Men's Bronze Medal Match,20:30,23:00
+Volleyball,Honda Center,Anaheim,VVO50,,"Saturday, July 29",15,Final,Men's Gold Medal Match,10:00,13:15
+Volleyball,Honda Center,Anaheim,VVO51,,"Saturday, July 29",15,Bronze,Women's Bronze Medal Match,14:45,17:15
+Volleyball,Honda Center,Anaheim,VVO52,,"Sunday, July 30",16,Final,Women's Gold Medal Match,10:00,13:15
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO01,,"Wednesday, July 12",-2,Preliminary,Men's Preliminary (2 Matches),10:00,13:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO02,,"Wednesday, July 12",-2,Preliminary,Men's Preliminary (2 Matches),14:30,17:30
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO03,,"Wednesday, July 12",-2,Preliminary,Men's Preliminary (2 Matches),19:00,22:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO04,,"Thursday, July 13",-1,Preliminary,Women's Preliminary (2 Matches),10:00,13:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO05,,"Thursday, July 13",-1,Preliminary,Women's Preliminary (2 Matches),14:30,17:30
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO06,,"Thursday, July 13",-1,Preliminary,Women's Preliminary (2 Matches),19:00,22:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO07,,"Saturday, July 15",1,Preliminary,Men's Preliminary (2 Matches),10:00,13:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO08,,"Saturday, July 15",1,Preliminary,Men's Preliminary (2 Matches),14:30,17:30
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO09,,"Saturday, July 15",1,Preliminary,Men's Preliminary (2 Matches),19:00,22:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO10,,"Sunday, July 16",2,Preliminary,Women's Preliminary (2 Matches),10:00,13:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO11,,"Sunday, July 16",2,Preliminary,Women's Preliminary (2 Matches),14:30,17:30
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO12,,"Sunday, July 16",2,Preliminary,Women's Preliminary (2 Matches),19:00,22:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO13,,"Monday, July 17",3,Preliminary,Men's Preliminary (2 Matches),10:00,13:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO14,,"Monday, July 17",3,Preliminary,Men's Preliminary (2 Matches),14:30,17:30
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO15,,"Monday, July 17",3,Preliminary,Men's Preliminary (2 Matches),19:00,22:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO16,,"Tuesday, July 18",4,Preliminary,Women's Preliminary (2 Matches),10:00,13:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO17,,"Tuesday, July 18",4,Preliminary,Women's Preliminary (2 Matches),14:30,17:30
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO18,,"Tuesday, July 18",4,Preliminary,Women's Preliminary (2 Matches),19:00,22:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO19,,"Wednesday, July 19",5,Quarterfinal,Men's Quarterfinal (2 Matches),11:30,14:30
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO20,,"Wednesday, July 19",5,Quarterfinal,Men's Quarterfinal (2 Matches),17:00,20:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO21,,"Thursday, July 20",6,Quarterfinal,Women's Quarterfinal (2 Matches),11:30,14:30
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO22,,"Thursday, July 20",6,Quarterfinal,Women's Quarterfinal (2 Matches),17:00,20:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO23,,"Friday, July 21",7,Semifinal,Men's Semifinal (2 Matches),11:30,14:30
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO24,,"Friday, July 21",7,Semifinal,Women's Semifinal (2 Matches),17:00,20:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO25,,"Saturday, July 22",8,Bronze,Men's Bronze Medal Match,11:30,13:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO26,,"Saturday, July 22",8,Final,Men's Gold Medal Match,15:00,17:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO27,,"Sunday, July 23",9,Bronze,Women's Bronze Medal Match,11:30,13:00
+Water Polo,Long Beach Aquatics Center,Long Beach,WPO28,,"Sunday, July 23",9,Final,Women's Gold Medal Match,15:00,17:00
+Weightlifting,Peacock Theater,DTLA,WLF01,,"Tuesday, July 25",11,Final,Men's 65kg,16:50,19:00
+Weightlifting,Peacock Theater,DTLA,WLF02,,"Tuesday, July 25",11,Final,Women's 53kg,20:50,23:00
+Weightlifting,Peacock Theater,DTLA,WLF03,,"Wednesday, July 26",12,Final,"Women's 61kg
+Women's 69kg",14:10,19:00
+Weightlifting,Peacock Theater,DTLA,WLF04,,"Wednesday, July 26",12,Final,Men's 75kg,20:50,23:00
+Weightlifting,Peacock Theater,DTLA,WLF05,,"Thursday, July 27",13,Final,"Men's 85kg
+Men's 95kg",14:10,19:00
+Weightlifting,Peacock Theater,DTLA,WLF06,,"Thursday, July 27",13,Final,Women's 77kg,20:50,23:00
+Weightlifting,Peacock Theater,DTLA,WLF07,,"Friday, July 28",14,Final,Women's 86kg,16:50,19:00
+Weightlifting,Peacock Theater,DTLA,WLF08,,"Friday, July 28",14,Final,Men's 110kg,20:50,23:00
+Weightlifting,Peacock Theater,DTLA,WLF09,,"Saturday, July 29",15,Final,Men's +110kg,16:50,19:00
+Weightlifting,Peacock Theater,DTLA,WLF10,,"Saturday, July 29",15,Final,Women's +86kg,20:50,23:00
+Wrestling,LA Convention Center Hall 2,DTLA,WRE01,,"Monday, July 24",10,Quarterfinal,"Men's Greco-Roman 60kg Round of 16 Women's Freestyle 50kg Round of 16 Men's Greco-Roman 130kg Round of 16 Men's Greco-Roman 60kg Quarterfinal Women's Freestyle 50kg Quarterfinal
+Men's Greco-Roman 130kg Quarterfinal",11:00,13:00
+Wrestling,LA Convention Center Hall 2,DTLA,WRE02,,"Monday, July 24",10,Semifinal,Men's Greco-Roman 60kg Semifinal Men's Greco-Roman 130kg Semifinal Women's Freestyle 50kg Semifinal,19:00,20:00
+Wrestling,LA Convention Center Hall 2,DTLA,WRE03,,"Tuesday, July 25",11,Quarterfinal,Men's Greco-Roman 60kg Repechage Women's Freestyle 50kg Repechage Men's Greco-Roman 130kg Repechage Men's Greco-Roman 77kg Round of 16 Women's Freestyle 53kg Round of 16 Men's Greco-Roman 97kg Round of 16 Men's Greco-Roman 77kg Quarterfinal Women's Freestyle 53kg Quarterfinal Men's Greco-Roman 97kg Quarterfinal,11:00,13:30
+Wrestling,LA Convention Center Hall 2,DTLA,WRE04,,"Tuesday, July 25",11,Final,"Men's Greco-Roman 77kg Semifinal Men's Greco-Roman 97kg Semifinal Women's Freestyle 53kg Semifinal
+Men's Greco-Roman 60kg Bronze Medal Match Men's Greco-Roman 60kg Gold Medal Match Men's Greco-Roman 130kg Bronze Medal Match Men's Greco-Roman 130kg Gold Medal Match Women's Freestyle 50kg Bronze Medal Match
+Women's Freestyle 50kg Gold Medal Match",19:00,22:45
+Wrestling,LA Convention Center Hall 2,DTLA,WRE05,,"Wednesday, July 26",12,Quarterfinal,Men's Greco-Roman 77kg Repechage Women's Freestyle 53kg Repechage Men's Greco-Roman 97kg Repechage Men's Greco-Roman 67kg Round of 16 Women's Freestyle 57kg Round of 16 Men's Greco-Roman 87kg Round of 16 Men's Greco-Roman 67kg Quarterfinal Women's Freestyle 57kg Quarterfinal Men's Greco-Roman 87kg Quarterfinal,11:00,13:30
+Wrestling,LA Convention Center Hall 2,DTLA,WRE06,,"Wednesday, July 26",12,Final,"Men's Greco-Roman 67kg Semifinal Men's Greco-Roman 87kg Semifinal Women's Freestyle 57kg Semifinal
+Men's Greco-Roman 77kg Bronze Medal Match Men's Greco-Roman 77kg Gold Medal Match Men's Greco-Roman 97kg Bronze Medal Match Men's Greco-Roman 97kg Gold Medal Match Women's Freestyle 53kg Bronze Medal Match
+Women's Freestyle 53kg Gold Medal Match",19:00,22:45
+Wrestling,LA Convention Center Hall 2,DTLA,WRE07,,"Thursday, July 27",13,Quarterfinal,Men's Greco-Roman 67kg Repechage Women's Freestyle 57kg Repechage Men's Greco-Roman 87kg Repechage Men's Freestyle 57kg Round of 16 Women's Freestyle 62kg Round of 16 Men's Freestyle 86kg Round of 16 Men's Freestyle 57kg Quarterfinal Women's Freestyle 62kg Quarterfinal Men's Freestyle 86kg Quarterfinal,11:00,13:30
+Wrestling,LA Convention Center Hall 2,DTLA,WRE08,,"Thursday, July 27",13,Final,"Men's Freestyle 57kg Semifinal Men's Freestyle 86kg Semifinal Women's Freestyle 62kg Semifinal
+Men's Greco-Roman 67kg Bronze Medal Match Men's Greco-Roman 67kg Gold Medal Match Men's Greco-Roman 87kg Bronze Medal Match Men's Greco-Roman 87kg Gold Medal Match Women's Freestyle 57kg Bronze Medal Match
+Women's Freestyle 57kg Gold Medal Match",19:00,22:45
+Wrestling,LA Convention Center Hall 2,DTLA,WRE09,,"Friday, July 28",14,Quarterfinal,Men's Freestyle 57kg Repechage Women's Freestyle 62kg Repechage Men's Freestyle 86kg Repechage Men's Freestyle 74kg Round of 16 Women's Freestyle 68kg Round of 16 Men's Freestyle 125kg Round of 16 Men's Freestyle 74kg Quarterfinal Women's Freestyle 68kg Quarterfinal Men's Freestyle 125kg Quarterfinal,11:00,13:30
+Wrestling,LA Convention Center Hall 2,DTLA,WRE10,,"Friday, July 28",14,Final,"Men's Freestyle 74kg Semifinal Men's Freestyle 125kg Semifinal Women's Freestyle 68kg Semifinal
+Men's Freestyle 57kg Bronze Medal Match Men's Freestyle 57kg Gold Medal Match  Men's Freestyle 86kg Bronze Medal Match Men's Freestyle 86kg Gold Medal Match Women's Freestyle 62kg Bronze Medal Match
+Women's Freestyle 62kg Gold Medal Match",19:00,22:45
+Wrestling,LA Convention Center Hall 2,DTLA,WRE11,,"Saturday, July 29",15,Quarterfinal,Men's Freestyle 74kg Repechage Women's Freestyle 68kg Repechage Men's Freestyle 125kg Repechage Men's Freestyle 65kg Round of 16 Women's Freestyle 76kg Round of 16 Men's Freestyle 97kg Round of 16 Men's Freestyle 65kg Quarterfinal Women's Freestyle 76kg Quarterfinal Men's Freestyle 97kg Quarterfinal,11:00,13:30
+Wrestling,LA Convention Center Hall 2,DTLA,WRE12,,"Saturday, July 29",15,Final,"Men's Freestyle 65kg Semifinal Men's Freestyle 97kg Semifinal Women's Freestyle 76kg Semifinal
+Men's Freestyle 74kg Bronze Medal Match Men's Freestyle 74kg Gold Medal Match  Men's Freestyle 125kg Bronze Medal Match Men's Freestyle 125kg Gold Medal Match Women's Freestyle 68kg Bronze Medal Match
+Women's Freestyle 68kg Gold Medal Match",19:00,22:45
+Wrestling,LA Convention Center Hall 2,DTLA,WRE13,,"Sunday, July 30",16,Final,"Men's Freestyle 65kg Repechage Women's Freestyle 76kg Repechage Men's Freestyle 97kg Repechage
+Men's Freestyle 65kg Bronze Medal Match Men's Freestyle 65kg Gold Medal Match Men's Freestyle 97kg Bronze Medal Match Men's Freestyle 97kg Gold Medal Match Women's Freestyle 76kg Bronze Medal Match
+Women's Freestyle 76kg Gold Medal Match",11:00,14:30

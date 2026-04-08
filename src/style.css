@@ -97,6 +97,40 @@ input[type="number"] {
   gap: 10px;
 }
 
+.zone-toggles {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.filter-details {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #fff;
+  padding: 8px 10px;
+}
+
+.filter-details summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.zone-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 4px 10px;
+  background: #fff;
+  font-size: 0.85rem;
+}
+
+.zone-toggle input {
+  margin: 0;
+}
+
 .legend-chip {
   display: inline-flex;
   align-items: center;
@@ -254,6 +288,18 @@ input[type="number"] {
   overflow: hidden;
 }
 
+.bar-description {
+  white-space: pre-line;
+  text-overflow: clip;
+  overflow: hidden;
+  overflow-wrap: anywhere;
+  line-height: 1.2;
+}
+
+.session-description {
+  white-space: pre-line;
+}
+
 .medal-dot {
   display: inline-block;
   border-radius: 999px;
@@ -287,6 +333,17 @@ input[type="number"] {
   align-items: center;
   justify-content: space-between;
   gap: 10px;
+}
+
+.session-pill {
+  margin-left: 8px;
+  border-radius: 999px;
+  padding: 2px 8px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  display: inline-block;
+  background: #f2e8db;
+  color: #5a4937;
 }
 
 .medal-pill {
