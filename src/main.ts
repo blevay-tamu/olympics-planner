@@ -804,7 +804,7 @@ async function bootstrap() {
   if (Array.isArray(window.__EVENTS__)) {
     state.events = window.__EVENTS__;
   } else {
-    const response = await fetch("/data/events.json");
+    const response = await fetch(`${import.meta.env.BASE_URL}data/events.json`);
 
     if (!response.ok) {
       throw new Error("Could not load events JSON. Run npm run convert:data first.");
